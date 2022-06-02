@@ -1,0 +1,16 @@
+//Psychohack is scuffed
+Alacrity,2988596335
+Bitterspite,4154828211
+Extrovert,1250481499
+HakkeBreachArmaments,1607056502
+InvaderTracker,515704826
+LandTank,1536798515
+OmolonFluidDynamics,2839173408
+OneQuietMoment,4091460919
+SkulkingWolf,3989629871
+Souldrinker,3363267119
+StunningRecovery,1281216113
+SurosSynergy,4008116374
+ToExcess,1905044254
+VanguardsVindication,744217850
+VeistStinger,3988215619

@@ -1,0 +1,89 @@
+--------------------------------------------------
+##Exotic Weapons
+--------------------------------------------------
+
+// Name N EdgeOfAction | AuxiliaryReserves LowImpedanceWindings
+
+// Usage PvE |
+// Perks ShortActionStock RemoteShield | SwapMag LightMag
+// Perks CompositeStock RemoteShield | SwapMag LightMag
+// Mags
+
+// Overall
+
+
+// Name N EdgeOfConcurrence | AuxiliaryReserves LowImpedanceWindings
+
+// Usage PvE |
+// Perks ShortActionStock LightningSeeker | SwapMag LightMag
+// Perks CompositeStock LightningSeeker | SwapMag LightMag
+// Mags
+
+// Overall
+
+
+// Name N EdgeOfIntent | AuxiliaryReserves LowImpedanceWindings
+
+// Usage PvE |
+// Perks ShortActionStock RestorativeTurret | SwapMag LightMag
+// Perks CompositeStock RestorativeTurret | SwapMag LightMag
+// Mags
+
+// Overall
+
+
+// Name N OsteoStriga | CorkscrewRifling ArrowheadBrake HammerForgedRifling Smallbore
+
+// Usage PvE |
+// Perks FittedStock ToxicOverload | FlaredMagwell TacticalMag SteadyRounds
+// Perks HandLaidStock ToxicOverload | FlaredMagwell TacticalMag SteadyRounds
+// Perks CompositeStock ToxicOverload | FlaredMagwell TacticalMag SteadyRounds
+// Mags
+
+// Usage PvP |
+// Perks ShortActionStock ToxicOverload | AccuricedRounds
+// Perks CompositeStock ToxicOverload | AccuricedRounds
+// Mags
+
+// Overall
+
+
+// Name N DeadMansTale | HammerForgedRifling FullBore ExtendedBarrel CorkscrewRifling
+
+// Usage PvE |
+// Perks HandLaidStock VorpalWeapon | RicochetRounds HighCaliberRounds
+// Perks HandLaidStock Outlaw | RicochetRounds HighCaliberRounds
+// Perks FittedStock VorpalWeapon | RicochetRounds HighCaliberRounds
+// Perks FittedStock Outlaw | RicochetRounds HighCaliberRounds
+// Mags
+
+// Usage PvP |
+// Perks ShortActionStock VorpalWeapon | HighCaliberRounds RicochetRounds AccuricedRounds
+// Perks CompositeStock VorpalWeapon | HighCaliberRounds RicochetRounds AccuricedRounds
+// Perks FittedStock VorpalWeapon | HighCaliberRounds RicochetRounds AccuricedRounds
+// Perks ShortActionStock MovingTarget | HighCaliberRounds RicochetRounds AccuricedRounds
+// Perks CompositeStock MovingTarget | HighCaliberRounds RicochetRounds AccuricedRounds
+// Perks FittedStock MovingTarget | HighCaliberRounds RicochetRounds AccuricedRounds
+// Perks ShortActionStock KillingWind | RicochetRounds HighCaliberRounds AccuricedRounds
+// Perks CompositeStock KillingWind | RicochetRounds HighCaliberRounds AccuricedRounds
+// Perks FittedStock KillingWind | RicochetRounds HighCaliberRounds AccuricedRounds
+// Mags
+
+// Overall
+
+
+// Name N Hawkmoon | HammerForgedRifling CorkscrewRifling FullBore ExtendedBarrel ArrowheadBrake
+
+// Usage PvP |
+// Perks SmoothGrip Rangefinder | AlloyMagazine
+// Perks CombatGrip Rangefinder | AlloyMagazine
+// Perks PolymerGrip Rangefinder | AlloyMagazine
+// Perks SmoothGrip OpeningShot | AlloyMagazine
+// Perks CombatGrip OpeningShot | AlloyMagazine
+// Perks PolymerGrip OpeningShot | AlloyMagazine
+// Perks SmoothGrip KillingWind | AlloyMagazine
+// Perks CombatGrip KillingWind | AlloyMagazine
+// Perks PolymerGrip KillingWind | AlloyMagazine
+// Mags
+
+// Overall

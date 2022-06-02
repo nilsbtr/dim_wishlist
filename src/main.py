@@ -1,0 +1,95 @@
+import re
+
+import define as dic
+import objects as obj
+import writer
+from const import colors, files
+
+
+def main():
+    # Outputs length to the console
+    with open(files.SOURCE) as source:
+        source = open(files.SOURCE)
+        length = (len(source.readlines()))
+        print(f'{colors.RED}[FILE]{colors.END}',
+              source.name, 'loaded with', length, 'lines.')
+
+    writer.clear_target()
+    writer.write_header()
+
+    # looks for all weapons in the file and passes them to grab_data()
+    with open(files.SOURCE) as source:
+        weapon_counter = 0
+        line = source.readline()
+        # used while loop to bypass .tell() OSError
+        while line:
+            if not line.strip():
+                pass
+            elif line.startswith('##'):
+                writer.write_section(line.strip('#'))
+            else:
+                line = line.strip()
+                # finds weapon rolls
+                if line.startswith('//'):
+                    weapon_counter += 1
+                    weapon_name = line.strip('//').strip()
+                    source.seek(grab_data(weapon_name, source.tell()))
+            line = source.readline()
+
+    with open(files.STARRED) as source, open(files.TARGET, 'a') as target:
+        for line in source:
+            target.write(line)
+
+    print(f'{colors.RED}[FILE]{colors.END} {colors.GREEN}File successfully converted!{colors.END} {weapon_counter}/{len(dic.weapons)} possible Weapons found.')
+
+# saves all data from a weapon into a weapon object
+
+
+def grab_data(weapon_name, pos):
+    weapon = obj.Weapon(weapon_name)
+    wproll = None
+    with open(files.SOURCE) as source:
+        source.seek(pos)
+        line = source.readline()
+        while line:
+            if line.startswith('//') or line.startswith('--'):
+                break
+            elif not line.strip():
+                if wproll != None:
+                    weapon.append(wproll)
+                wproll = None
+            elif line.startswith('/'):
+                line = line.strip('/').strip()
+                header = re.split('\s*[:|]\s*', line)
+                wproll = obj.WeaponRoll()
+                wproll.set_type(header[0])
+                wproll.set_mws(header[1])
+                wproll.set_barrels(header[2].split())
+            elif line.startswith('Roll: '):
+                line = line.replace('Roll: ', '').strip()
+                wproll.app_roll(line.split(' | '))
+            line = source.readline()
+        writer.write_file(weapon)
+        return ((source.tell() - len(line)) - 2)
+
+
+"""
+--------------------------------------------------
+##Season of the Risen
+--------------------------------------------------
+
+// SweetSorrow
+
+/PvE: Stability ReloadSpeed Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator HammerForgedRifling
+Roll: TacticalMag FlaredMagwell | StatsForAll OneForAll
+Roll: TacticalMag FlaredMagwell | StatsForAll VorpalWeapon
+Roll: TacticalMag | TripleTap FocusedFury
+
+/PvP: Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator HammerForgedRifling
+Roll: AccuricedRounds | KillingWind TapTheTrigger
+Roll: AccuricedRounds | PerpetualMotion TapTheTrigger
+
+"""
+
+if __name__ == "__main__":
+    main()
