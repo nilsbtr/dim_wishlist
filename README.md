@@ -11,7 +11,7 @@
   <p align="center">
     Official Wishlist by Shaxx's Nightclub!
     <br />
-    <a href="https://github.com/PunchedYou/wishlist_v2/issues"><strong>Report Bug</strong></a>
+    <a href="https://github.com/PunchedYou/dim_wishlist/issues"><strong>Report Bug</strong></a>
     <br />
     <br />
   </p>
