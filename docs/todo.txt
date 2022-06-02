@@ -1,3 +1,2 @@
-1. implement craftable weapons -> weapon in dic.craftable
-2. implement exotics
-3. implement semi god-rolls and so on
+1. implement exotics
+3. implement semi god-rolls
