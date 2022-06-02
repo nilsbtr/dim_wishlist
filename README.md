@@ -11,14 +11,9 @@
   <p align="center">
     Official Wishlist by Shaxx's Nightclub!
     <br />
-    <a href="https://github.com/PunchedYou/wishlist_v2"><strong>Explore all files»</strong></a>
+    <a href="https://github.com/PunchedYou/wishlist_v2/issues"><strong>Report Bug</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PunchedYou/wishlist_v2">View Files</a>
-    ·
-    <a href="https://github.com/PunchedYou/wishlist_v2/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/PunchedYou/wishlist_v2/issues">Request Feature</a>
   </p>
 </div>
 
@@ -34,9 +29,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#to-do">To Do</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 
@@ -62,26 +55,14 @@ You need [Destiny Item Manager](https://destinyitemmanager.com/) to use this wis
 4. Now paste the following link into the appropriate field:
 
    ```
-   https://raw.githubusercontent.com/PunchedYou/shaxxsnightclub/main/wishlist.txt
+   https://raw.githubusercontent.com/PunchedYou/dim_wishlist/main/wishlist.txt
    ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## To Do
-
-- [ ] Fix mida mini tool
-- [ ] Rework Royal Entry
-- [ ] Rework Threaded Needle
-- [ ] Add Perpetual Motion to Cold Front
-- [ ] Rework Correctiv Measure
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what makes open source such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the right tag. Don't forget to give the project a star!
 
@@ -94,18 +75,22 @@ If you have a suggestion that would make this better, please fork the repo and c
 Basic Template for defining god rolls:
 
 ```
-Weapon: Name | Masterwork Masterwork Masterwork ...
-Barrels: Column1 Column1 Column1 Column1 ...
-Perks: Column4 Column3 | Column2 Column2 ...
-Perks: as above
+--------------------------------------------------
+##Category
+--------------------------------------------------
+
+// WeaponName
+
+/PvE: {Masterworks} | {Perk1 (for all rolls)}
+Roll: {Perk2} | Perk3 Perk4
+Roll: {Perk2} | Perk3 Perk4
+...
+
+/PvP: {Masterworks} | {Perk1 (for all rolls)}
+Roll: {Perk2} | Perk3 Perk4
+Roll: {Perk2} | Perk3 Perk4
 ...
 ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -113,6 +98,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Twitter: [@punchedyou](https://twitter.com/punchedyou)
 
-Contributors: [PunchedYou](https://github.com/PunchedYou) (V2 Rework) | [BelaM](https://github.com/BelaM-D2) (Initial C# Coding)
+Contributors: [PunchedYou](https://github.com/PunchedYou) (Python Rework) | [BelaM](https://github.com/BelaM-D2) (Initial C# Coding) | [Scythe](https://github.com/aszubat) (Roll Contributor)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
