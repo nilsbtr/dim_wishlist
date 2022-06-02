@@ -15440,3 +15440,4 @@ dimwishlist:item=725408022&Traits=3194351027,2396489472,951095735,2010801679,379
 // RecklessEndangerment
 //notes:Swashbuckler + PerpetualMotion maybe for PvE; Everything except Swashbuckler for PvP
 dimwishlist:item=3216652511&Traits=1047830412,791862061,1428297954,509074078,4082225868,957782887
+

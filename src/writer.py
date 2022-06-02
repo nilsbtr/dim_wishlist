@@ -77,6 +77,7 @@ def write_file(weapon):
 
 def check_key(key, dict):  # raising error for non existent key
     if key not in dict:
+        print(f'{colors.BLUE}[DIC]{colors.END} {key} not found!')
         raise KeyError(f'{key} not found!')
 
 
