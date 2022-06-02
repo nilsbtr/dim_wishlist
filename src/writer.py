@@ -68,7 +68,8 @@ def write_file(weapon):
                         output += f'{dic.suppl.get(barrel)},{dic.suppl.get(mag)},{dic.traits.get(ltrait)},{dic.traits.get(rtrait)}\n'
                         target.write(output)
                 if wproll.get_type() == 'PvP':
-                    target.write(f'dimwishlist:item=-')
+                    target.write(
+                        f'dimwishlist:item=-{dic.weapons.get(weapon.get_name())}&perks={dic.traits.get(ltrait)},{dic.traits.get(rtrait)}\n')
                 else:
                     target.write(
                         f'dimwishlist:item={dic.weapons.get(weapon.get_name())}&perks={dic.traits.get(ltrait)},{dic.traits.get(rtrait)}\n')
