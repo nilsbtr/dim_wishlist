@@ -18463,7 +18463,7 @@ dimwishlist:item=3400256755&perks=436053704,269888150,1749209109,3913600130
 dimwishlist:item=3400256755&perks=269888150,1749209109,3913600130
 dimwishlist:item=3400256755&perks=1749209109,3913600130
 
-// BraytechWerewolf PvE | Range Stability
+// BrayTechWerewolf PvE | Range Stability
 
 // FourthTimesTheCharm + VorpalWeapon
 //notes:PvE: Range, Stability
