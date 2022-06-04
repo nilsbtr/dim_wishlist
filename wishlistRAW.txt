@@ -228,12 +228,11 @@ Roll: AccuricedRounds LightMag AssaultMag | Slideshot KillingWind
 // BxR55Battler
 
 /PvE: Range ReloadSpeed Stability | ArrowheadBrake CorkscrewRifling HammerForgedRifling FullBore
+Roll: AccuricedRounds RicochetRounds | Outlaw KillClip
 Roll: AccuricedRounds RicochetRounds | Demolitionist AdrenalineJunkie
 
-/Mix: Range ReloadSpeed Stability | ArrowheadBrake CorkscrewRifling HammerForgedRifling FullBore
-Roll: AccuricedRounds RicochetRounds | Outlaw KillClip
-
 /PvP: Stability Range | ArrowheadBrake CorkscrewRifling HammerForgedRifling FullBore
+Roll: AccuricedRounds RicochetRounds | Outlaw KillClip
 Roll: AccuricedRounds RicochetRounds | KillingWind KillClip
 Roll: AccuricedRounds RicochetRounds | PerpetualMotion KillClip
 Roll: AccuricedRounds RicochetRounds | KillingWind Rangefinder
@@ -1358,14 +1357,14 @@ Roll: AccuricedRounds LightMag AssaultMag | Slideshot KillingWind
 /PvE: Range Stability | HammerForgedRifling FullBore CorkscrewRifling
 Roll: HighCaliberRounds RicochetRounds | StatsForAll OneForAll
 Roll: HighCaliberRounds RicochetRounds | RapidHit OneForAll
-Roll: HighCaliberRounds RicochetRounds | Demolitionist AdrenalineJunkie
-
-/Mix: Range | HammerForgedRifling FullBore CorkscrewRifling
 Roll: HighCaliberRounds RicochetRounds | Outlaw KillClip
 Roll: HighCaliberRounds RicochetRounds | RapidHit KillClip
+Roll: HighCaliberRounds RicochetRounds | Demolitionist AdrenalineJunkie
 
 /PvP: Range | HammerForgedRifling FullBore CorkscrewRifling
 Roll: HighCaliberRounds RicochetRounds | RapidHit Rangefinder
+Roll: HighCaliberRounds RicochetRounds | RapidHit KillClip
+Roll: HighCaliberRounds RicochetRounds | Outlaw KillClip
 Roll: HighCaliberRounds RicochetRounds | RapidHit OpeningShot
 
 
@@ -1388,8 +1387,9 @@ Roll: AccuricedRounds | TunnelVision Rampage
 Roll: RicochetRounds HighCaliberRounds | FeedingFrenzy MultikillClip
 Roll: RicochetRounds HighCaliberRounds | RapidHit OneForAll
 Roll: RicochetRounds HighCaliberRounds | Subsistence OneForAll
+Roll: RicochetRounds HighCaliberRounds | RapidHit KillClip
 
-/Mix: Range | ArrowheadBrake CorkscrewRifling ExtendedBarrel ChamberedCompensator
+/PvP: Range | ArrowheadBrake CorkscrewRifling ExtendedBarrel ChamberedCompensator
 Roll: RicochetRounds HighCaliberRounds | RapidHit KillClip
 
 
@@ -2670,11 +2670,10 @@ Roll: RicochetRounds HighCaliberRounds | HeatingUp KillClip
 
 /PvE: ChargeTime Stability Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator FlutedBarrel
 Roll: LiquidCoils | UnderPressure Frenzy
-
-/Mix: ChargeTime Stability Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator FlutedBarrel
-Roll: LiquidCoils AcceleratedCoils | UnderPressure HighImpactReserves
+Roll: LiquidCoils | UnderPressure HighImpactReserves
 
 /PvP: ChargeTime Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator FlutedBarrel
+Roll: AcceleratedCoils | UnderPressure HighImpactReserves
 Roll: AcceleratedCoils | Slideshot Kickstart
 Roll: AcceleratedCoils | UnderPressure Kickstart
 Roll: AcceleratedCoils | Slideshot HighImpactReserves
@@ -2967,11 +2966,12 @@ Roll: AccuricedRounds TacticalMag AppendedMag | Dragonfly Outlaw
 
 // EnigmasDraw
 
-/Mix: ReloadSpeed Stability Range | QuickDotSAS ControlSAS ShortspecSAS
+/PvE: ReloadSpeed Stability Range | QuickDotSAS ControlSAS ShortspecSAS
 Roll: RicochetRounds HighCaliberRounds | FullAutoTriggerSystem Swashbuckler
 
 /PvP: ReloadSpeed Range Stability | QuickDotSAS ControlSAS ShortspecSAS
 Roll: RicochetRounds HighCaliberRounds | FullAutoTriggerSystem Rangefinder
+Roll: RicochetRounds HighCaliberRounds | FullAutoTriggerSystem Swashbuckler
 
 
 // InterferenceVI
@@ -3137,8 +3137,9 @@ Roll: RicochetRounds HighCaliberRounds | Outlaw Swashbuckler
 Roll: RicochetRounds HighCaliberRounds | Outlaw MultikillClip
 Roll: RicochetRounds HighCaliberRounds | FullAutoTriggerSystem Swashbuckler
 Roll: RicochetRounds HighCaliberRounds | FullAutoTriggerSystem MultikillClip
+Roll: RicochetRounds HighCaliberRounds | FullAutoTriggerSystem KillClip
 
-/Mix: ReloadSpeed Range Stability | ArrowheadBrake CorkscrewRifling ChamberedCompensator ExtendedBarrel
+/PvP: ReloadSpeed Range Stability | ArrowheadBrake CorkscrewRifling ChamberedCompensator ExtendedBarrel
 Roll: RicochetRounds HighCaliberRounds | FullAutoTriggerSystem KillClip
 
 
@@ -3230,8 +3231,9 @@ Roll: AccuricedRounds | Rangefinder Headseeker
 
 /PvE: Velocity BlastRadius | VolatileLaunch ConfinedLaunch Countermass HardLaunch
 Roll: HighVelocityRounds | AutoLoadingHolster ClusterBomb
+Roll: HighVelocityRounds AlloyCasing | TrackingModule ClusterBomb
 
-/Mix: Velocity BlastRadius | VolatileLaunch ConfinedLaunch Countermass HardLaunch
+/PvP: Velocity BlastRadius | VolatileLaunch ConfinedLaunch Countermass HardLaunch
 Roll: HighVelocityRounds AlloyCasing | TrackingModule ClusterBomb
 
 
@@ -3264,7 +3266,10 @@ Roll: RicochetRounds HighCaliberRounds | KillingWind KillClip
 
 // Quickfang
 
-/Mix: Impact | HungryEdge JaggedEdge
+/PvE: Impact | HungryEdge JaggedEdge
+Roll: SwordmastersGuard | TirelessBlade AssassinsBlade
+
+/PvP: Impact | HungryEdge JaggedEdge
 Roll: SwordmastersGuard | TirelessBlade AssassinsBlade
 
 
