@@ -7,29 +7,27 @@ def def_dictionary(path):
         for line in file:
             if not line.strip() or line.startswith("//"):
                 continue
-            line = line.strip('\n')
-            line = line.strip('\t')
+            line = line.strip()
             (key, api) = line.split(",")
             dic[key] = api
-        print(f'{colors.BLUE}[DIC]{colors.END}', file.name, 'with', len(dic),
-              'elements loaded into a dictonary.')
+        print(
+            f'{colors.BLUE}[DIC]{colors.END} Loaded {file.name} with {len(dic)} elements into a dictonary.')
     file.close()
     return dic
 
 
-def def_craftable():
-    craftable = []
-    with open('assets/craftable.txt') as file:
+def def_register(path):
+    register = []
+    with open(path) as file:
         for line in file:
             if not line.strip() or line.startswith("//"):
                 continue
-            line = line.strip('\n')
-            line = line.strip('\t')
-            craftable.append(line)
-        print(f'{colors.YELLOW}[LIST]{colors.END} Loaded', file.name, 'with',
-              len(craftable), 'craftable weapons.')
+            line = line.strip()
+            register.append(line)
+        print(
+            f'{colors.YELLOW}[LIST]{colors.END} Registered {file.name} with {len(register)} weapons.')
     file.close()
-    return craftable
+    return register
 
 
 weapons = def_dictionary('assets/dictonary/dic_weapons.txt')
@@ -38,4 +36,5 @@ traits = def_dictionary('assets/dictonary/dic_traits.txt')
 enhanced = def_dictionary('assets/dictonary/dic_enhanced.txt')
 exotics = def_dictionary('assets/dictonary/dic_exotics.txt')
 
-craftable = def_craftable()
+craftable = def_register('assets/craftable.txt')
+exoticlist = def_register('assets/exotics.txt')

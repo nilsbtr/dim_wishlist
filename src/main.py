@@ -1,4 +1,5 @@
 import re
+import time
 
 import define as dic
 import objects as obj
@@ -13,9 +14,10 @@ def main():
         length = (len(source.readlines()))
         print(f'{colors.RED}[FILE]{colors.END}',
               source.name, 'loaded with', length, 'lines.')
+    writer.create_backup()
+    writer.write_header()  # backups, clears target file and writes header
 
-    writer.clear_target()
-    writer.write_header()
+    start = time.time()
 
     # looks for all weapons in the file and passes them to grab_data()
     with open(files.SOURCE) as source:
@@ -27,25 +29,23 @@ def main():
                 pass
             elif line.startswith('##'):
                 writer.write_section(line.strip('#'))
-            else:
-                line = line.strip()
-                # finds weapon rolls
-                if line.startswith('//'):
-                    weapon_counter += 1
-                    weapon_name = line.strip('//').strip()
-                    source.seek(grab_data(weapon_name, source.tell()))
+            elif line.startswith('//'):  # finds weapon rolls
+                weapon_counter += 1
+                weapon_name = line.strip('//').strip()
+                source.seek(grab_data(weapon_name, source.tell()))
             line = source.readline()
+
+    end = time.time()
 
     with open(files.STARRED) as source, open(files.TARGET, 'a') as target:
         for line in source:
             target.write(line)
 
-    print(f'{colors.RED}[FILE]{colors.END} {colors.GREEN}File successfully converted!{colors.END} {weapon_counter}/{len(dic.weapons)} possible Weapons found.')
+    print(f'{colors.RED}[FILE]{colors.END} {colors.GREEN}File successfully converted!{colors.END} {weapon_counter}/{len(dic.weapons) + len(dic.exoticlist)} possible Weapons found.')
+    print(f'{colors.BLACK}Conversion performed in {colors.VIOLET}{round(end-start, 5)} {colors.BLACK}seconds{colors.END}')
 
-# saves all data from a weapon into a weapon object
 
-
-def grab_data(weapon_name, pos):
+def grab_data(weapon_name, pos):  # saves all data from a weapon into a weapon object
     weapon = obj.Weapon(weapon_name)
     wproll = None
     with open(files.SOURCE) as source:
@@ -69,27 +69,12 @@ def grab_data(weapon_name, pos):
                 line = line.replace('Roll: ', '').strip()
                 wproll.app_roll(line.split(' | '))
             line = source.readline()
-        writer.write_file(weapon)
+        if weapon_name in dic.exoticlist:
+            writer.write_exotic(weapon)
+        else:
+            writer.write_weapon(weapon)
         return ((source.tell() - len(line)) - 2)
 
-
-"""
---------------------------------------------------
-##Season of the Risen
---------------------------------------------------
-
-// SweetSorrow
-
-/PvE: Stability ReloadSpeed Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator HammerForgedRifling
-Roll: TacticalMag FlaredMagwell | StatsForAll OneForAll
-Roll: TacticalMag FlaredMagwell | StatsForAll VorpalWeapon
-Roll: TacticalMag | TripleTap FocusedFury
-
-/PvP: Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator HammerForgedRifling
-Roll: AccuricedRounds | KillingWind TapTheTrigger
-Roll: AccuricedRounds | PerpetualMotion TapTheTrigger
-
-"""
 
 if __name__ == "__main__":
     main()

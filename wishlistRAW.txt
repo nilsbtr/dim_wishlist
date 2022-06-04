@@ -1,6 +1,3 @@
-title: PvE/PvP Wishlist, Version: 1.16.8.5 (Gambit Update), Last Updated: 27.05.2022 (Season 16)
-description: by BelaM, PunchedYou, Scythe (Weapons Included: / 307)
-
 --------------------------------------------------
 ##Season of the Risen
 --------------------------------------------------
@@ -3386,4 +3383,74 @@ Roll: RicochetRounds HighCaliberRounds | HeatingUp MultikillClip
 /PvP: Range Stability | ArrowheadBrake CorkscrewRifling ChamberedCompensator FlutedBarrel
 Roll: RicochetRounds HighCaliberRounds | TunnelVision MultikillClip
 Roll: RicochetRounds HighCaliberRounds | Rangefinder MultikillClip
+
+--------------------------------------------------
+##Exotic Weapons
+--------------------------------------------------
+
+// EdgeOfAction
+
+/PvE: None | AuxiliaryReserves LowImpedanceWindings
+Roll: SwapMag LightMag | RemoteShield ShortActionStock
+Roll: SwapMag LightMag | RemoteShield CompositeStock
+
+
+// EdgeOfConcurrence
+
+/PvE: None | AuxiliaryReserves LowImpedanceWindings
+Roll: SwapMag LightMag | LightningSeeker ShortActionStock
+Roll: SwapMag LightMag | LightningSeeker CompositeStock
+
+
+// EdgeOfIntent
+
+/PvE: None | AuxiliaryReserves LowImpedanceWindings
+Roll: SwapMag LightMag | RestorativeTurret ShortActionStock
+Roll: SwapMag LightMag | RestorativeTurret CompositeStock
+
+
+// OsteoStriga
+
+/PvE: None | CorkscrewRifling ArrowheadBrake HammerForgedRifling Smallbore
+Roll: FlaredMagwell TacticalMag SteadyRounds | ToxicOverload FittedStock
+Roll: FlaredMagwell TacticalMag SteadyRounds | ToxicOverload HandLaidStock
+Roll: FlaredMagwell TacticalMag SteadyRounds | ToxicOverload CompositeStock
+
+/PvP: None | CorkscrewRifling ArrowheadBrake HammerForgedRifling Smallbore
+Roll: AccuricedRounds | ToxicOverload ShortActionStock
+Roll: AccuricedRounds | ToxicOverload CompositeStock
+
+
+// DeadMansTale
+
+/PvE: None | HammerForgedRifling FullBore ExtendedBarrel CorkscrewRifling
+Roll: RicochetRounds HighCaliberRounds | VorpalWeapon HandLaidStock
+Roll: RicochetRounds HighCaliberRounds | Outlaw HandLaidStock
+Roll: RicochetRounds HighCaliberRounds | VorpalWeapon FittedStock
+Roll: RicochetRounds HighCaliberRounds | Outlaw FittedStock
+
+/PvP: None | HammerForgedRifling FullBore ExtendedBarrel CorkscrewRifling
+Roll: HighCaliberRounds RicochetRounds AccuricedRounds | VorpalWeapon ShortActionStock
+Roll: HighCaliberRounds RicochetRounds AccuricedRounds | VorpalWeapon CompositeStock
+Roll: HighCaliberRounds RicochetRounds AccuricedRounds | VorpalWeapon FittedStock
+Roll: HighCaliberRounds RicochetRounds AccuricedRounds | MovingTarget ShortActionStock
+Roll: HighCaliberRounds RicochetRounds AccuricedRounds | MovingTarget CompositeStock
+Roll: HighCaliberRounds RicochetRounds AccuricedRounds | MovingTarget FittedStock
+Roll: RicochetRounds HighCaliberRounds AccuricedRounds | KillingWind ShortActionStock
+Roll: RicochetRounds HighCaliberRounds AccuricedRounds | KillingWind CompositeStock
+Roll: RicochetRounds HighCaliberRounds AccuricedRounds | KillingWind FittedStock
+
+
+// Hawkmoon
+
+/PvP: None | HammerForgedRifling CorkscrewRifling FullBore ExtendedBarrel ArrowheadBrake
+Roll: AlloyMagazine | Rangefinder SmoothGrip
+Roll: AlloyMagazine | Rangefinder CombatGrip
+Roll: AlloyMagazine | Rangefinder PolymerGrip
+Roll: AlloyMagazine | OpeningShot SmoothGrip
+Roll: AlloyMagazine | OpeningShot CombatGrip
+Roll: AlloyMagazine | OpeningShot PolymerGrip
+Roll: AlloyMagazine | KillingWind SmoothGrip
+Roll: AlloyMagazine | KillingWind CombatGrip
+Roll: AlloyMagazine | KillingWind PolymerGrip
 
