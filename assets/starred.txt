@@ -3,38 +3,42 @@
 --------------------------------------------------
 
 // MidaMiniTool
-//notes: Everything for everything
+//notes: All possible for every activity.
 dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457
 
 // Drang
-//notes: Everything for everything
-dimwishlist:item=2362471600&perks=3142289711,588594999,3425386926,1482024992
+//notes: All possible for every activity.
+dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711
 
 // PointOfTheStag
-//notes:VorpalWeapon + ArchersTempo for PvE-HighLevel; EyeOfTheStorm + NoDistractions for PvP
-dimwishlist:item=3434944005&perks=1546637391,699525795,2866798147,201365942,1500996326,2801223209
+//notes:PvE: ArchersTempo, VorpalWeapon; PvP: NoDistractions, EyeOfTheStorm
+dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,201365942,1546637391,699525795
 
 // FelwintersLie
-//notes:Everything for PvP
+//notes:All possible for PvP.
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,3436462433,47981717,1546637391
 
 // Adored
-//notes:VorpalWeapon + TripleTap for PvE-BossDps; SnapshotSights + KillingWind for PvP
-dimwishlist:item=4184808992&perks=1546637391,957782887,3400784728,2450788523,3142289711,3250034553
+//notes:PvE: TripleTap, VorpalWeapon; PvP: KillingWind, SnapshotSights
+dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,2450788523,1546637391,957782887
 
 // SalvagersSalvo
-//notes:VorpalWeapon + Demolitionist for PvE-BossDps; ChainReaction + AmbitiousAssassin for PvE-AddClear; ChainReaction + Demolitionist for PvP
-dimwishlist:item=2060863616&perks=1546637391,2396489472,2010801679,3523296417,3301904089,3525010810
+//notes:PvE(Boss): Demolitionist, VorpalWeapon; PvE(Adds): AmbitiousAssassin, ChainReaction; PvP: Demolitionist, ChainReaction
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,3523296417,1546637391,2396489472
 
 // NullComposure
-//notes:ReservoirBurst + FeedingFrenzy for PvE-AddClear; HighImpactReserves for PvE-BossDps; HighImpactReserves + HeatingUp for PvP
-dimwishlist:item=1644680957&perks=1427256713,2213355989,2779035018,1570042021,2969185026,1840239774
+//notes:PvE(Adds): FeedingFrenzy, ReservoirBurst; PvE(Boss): HighImpactReserves; PvP: HeatingUp, HighImpactReserves
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1570042021,1427256713,2213355989
 
 // Ascendancy
-//notes:ExplosiveLight + ImpulseAmplifier for PvE-BossDps; ChainReaction + AmbitiousAssassin for PvE-AddClear; ChainReaction + ImpulseAmplifier for PvP
-dimwishlist:item=725408022&perks=3194351027,2396489472,951095735,2010801679,3796465595,3525010810
+//notes:PvE(Boss): ImpulseAmplifier, ExplosiveLight; PvE(Adds): AmbitiousAssassin, ChainReaction; PvP: ImpulseAmplifier, ChainReaction
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2010801679,3194351027,2396489472
 
 // RecklessEndangerment
-//notes:Swashbuckler + PerpetualMotion maybe for PvE; Everything except Swashbuckler for PvP
+//notes:PvE: Swashbuckler; PvP: SnapshotSights (1st Trait is preference)
 dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,509074078,4082225868,957782887
+
+// Chain of Command
+//notes: All possible for PvE. Good for Grenade Builds.
+dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,2997472817,3523296417,1048183818
 
