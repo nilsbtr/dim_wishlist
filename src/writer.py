@@ -76,14 +76,18 @@ def write_weapon(weapon):  # writer for all legendary weapons
                 target.write(f'// {ltrait} + {rtrait}\n')
                 target.write(create_note(wproll))
 
+                sgr = []  # saves semi god-rolls
+
                 for mag in mags:
                     check_key(mag, dic.suppl)
                     for barrel in wproll.get_barrels():
                         check_key(barrel, dic.suppl)
                         target.write(
                             f'{pre}{create_line(barrel, mag, ltrait, rtrait)}\n')
-                    target.write(
+                    sgr.append(
                         f'{pre}{dic.suppl.get(mag)},{dic.traits.get(ltrait)},{dic.traits.get(rtrait)}\n')
+                for line in sgr:
+                    target.write(line)
                 target.write(
                     f'{pre}{dic.traits.get(ltrait)},{dic.traits.get(rtrait)}\n')
             target.write('\n')
@@ -97,7 +101,7 @@ def check_key(key, dict):  # raising error for non existent key
 
 # dimwishlist:item=weapon&perks=barrel,mag,trait_1,trait_2
 def create_line(barrel, mag, ltrait, rtrait):
-    return f'{dic.suppl.get(barrel)},{dic.suppl.get(mag)}{dic.traits.get(ltrait)},{dic.traits.get(rtrait)}'
+    return f'{dic.suppl.get(barrel)},{dic.suppl.get(mag)},{dic.traits.get(ltrait)},{dic.traits.get(rtrait)}'
 
 
 def create_note(wproll):  # automatic creates a note with type and masterwork
@@ -133,16 +137,19 @@ def write_exotic(weapon):  # writer for all exotic weapons
                 ltrait = check_ekey(ltrait)
                 rtrait = check_ekey(rtrait)
 
+                sgr = []  # saves semi god-rolls
+
                 for mag in mags:
                     check_key(mag, dic.suppl)
                     for barrel in wproll.get_barrels():
                         check_key(barrel, dic.suppl)
                         target.write(
                             f'{pre}{dic.suppl.get(barrel)},{dic.suppl.get(mag)}{ltrait},{rtrait}\n')
-                    target.write(
+                    sgr.append(
                         f'{pre}{dic.suppl.get(mag)},{ltrait},{rtrait}\n')
-                target.write(
-                    f'{pre}{ltrait},{rtrait}\n')
+                for line in sgr:
+                    target.write(line)
+                target.write(f'{pre}{ltrait},{rtrait}\n')
             target.write('\n')
 
 
