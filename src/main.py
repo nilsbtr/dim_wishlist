@@ -3,6 +3,7 @@ import time
 
 import define as dic
 import objects as obj
+import tools
 import writer
 from const import colors, files
 
@@ -40,6 +41,9 @@ def main():
     with open(files.STARRED) as source, open(files.TARGET, 'a') as target:
         for line in source:
             target.write(line)
+
+    tools.create_missing()
+    tools.create_overview()
 
     print(f'{colors.RED}[FILE]{colors.END} {colors.GREEN}File successfully converted!{colors.END} {weapon_counter}/{len(dic.weapons) + len(dic.exoticlist)} possible Weapons found.')
     print(f'{colors.BLACK}Conversion performed in {colors.VIOLET}{round(end-start, 5)} {colors.BLACK}seconds{colors.END}')

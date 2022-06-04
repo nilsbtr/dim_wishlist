@@ -1,0 +1,467 @@
+--------------------------------------------------
+##Season of the Haunted (S17)
+--------------------------------------------------
+// Austringer # TODO
+// Beloved # TODO
+// BumpInTheNight # TODO
+// CALUSMiniTool # TODO
+// Drang(Baroque) # TODO
+// Firefright # TODO
+// HollowDenial # TODO
+// NezarecsWhisper # TODO
+// TearsOfContrition # TODO
+// WithoutRemorse # TODO
+--------------------------------------------------
+##Season of the Risen (S16)
+--------------------------------------------------
+// ExplosivePersonality
+// PieceOfMind
+// RecurrentImpact
+// SweetSorrow
+// Thoughtless
+// UnderYourSkin
+--------------------------------------------------
+##30th Annyversary
+--------------------------------------------------
+// BxR55Battler
+// HalfTruths
+// PardonOurDust
+// RetracedPath
+// TheOtherHalf
+// WastelanderM5
+--------------------------------------------------
+##Season of the Lost (S15)
+--------------------------------------------------
+// CanisMajor
+// ChrysuraMelo
+// Fractethyst
+// IotaDraconis
+// Vulpecula
+// WolftoneDraw
+--------------------------------------------------
+##Season of the Splicer (S14)
+--------------------------------------------------
+// ChromaRush
+// Farewell
+// Gridskipper
+// IgnitionCode
+// ShatteredChipher
+// SojournersTale
+--------------------------------------------------
+##Season of the Chosen (S13)
+--------------------------------------------------
+// BrassAttacks
+// CodeDuello
+// ExtraordinaryRendition
+// FarFuture
+// ImperialNeedle
+// ThreadedNeedle
+--------------------------------------------------
+##Season of the Hunt (S12)
+--------------------------------------------------
+// BlastBattue
+// CorsairsWrath
+// DeafeningWhisper
+// FrictionFire
+// RoyalChase
+--------------------------------------------------
+##Season of Arrivals (S11)
+--------------------------------------------------
+// BerengersMemory
+// ColdDenial
+// FallingGuillotine
+// FalsePromises
+// FirstInLastOut
+// HollowWords
+// IkelosSMGv102
+// IkelosSRv102
+// TemptationsHook
+// WhisperingSlab
+--------------------------------------------------
+##Raid: Vow of the Disciple
+--------------------------------------------------
+// Cataclysmic
+// Cataclysmic(Adept)
+// Deliverance
+// Deliverance(Adept)
+// Forbearance
+// Forbearance(Adept)
+// Insidious
+// Insidious(Adept)
+// LubraesRuin
+// LubraesRuin(Adept)
+// Submission
+// Submission(Adept)
+--------------------------------------------------
+##Raid: Vault of Glass
+--------------------------------------------------
+// CorrectiveMeasure
+// CorrectiveMeasure(Timelost)
+// Fatebringer
+// Fatebringer(Timelost)
+// FoundVerdict
+// FoundVerdict(Timelost)
+// HezenVengeance
+// HezenVengeance(Timelost)
+// PraedythsRevenge
+// PraedythsRevenge(Timelost)
+// VisionOfCunfluence
+// VisionOfCunfluence(Timelost)
+--------------------------------------------------
+##Raid: Deep Stone Crypt
+--------------------------------------------------
+// Bequest
+// Commemoration
+// Heritage
+// Posterity
+// Succession
+// Trustee
+--------------------------------------------------
+##Raid: Garden of Salvation
+--------------------------------------------------
+// AccruedRedemption
+// AncientGospel
+// OmniscientEye
+// ProphetOfDoom
+// RecklessOracle
+// SacredProvenance
+// ZealotsReward
+--------------------------------------------------
+##Raid: Last Wish
+--------------------------------------------------
+// AgeOldBond
+// ApexPredator
+// ChatteringBone
+// NationOfBeasts
+// TecheunForce
+// TheSupremancy
+// Transfiguration
+// TyrannyOfHeaven
+--------------------------------------------------
+##Dungeon: Duality
+--------------------------------------------------
+// LingeringDread # TODO
+// NewPurpose # TODO
+// TheEpicurean # TODO
+// Unforgiven # TODO
+// Stormchaser # TODO
+// FixedOdds # TODO
+--------------------------------------------------
+##Dungeon: Grasp of Avarice
+--------------------------------------------------
+// 1000YardStare
+// Eyasluna
+// HeroOfAges
+// Matador64
+--------------------------------------------------
+##Dungeon: Prophecy
+--------------------------------------------------
+// ASuddenDeath
+// ASwiftVerdict
+// DarkestBefore
+// Judgment
+// TheLastBreath
+// TheLongWalk
+--------------------------------------------------
+##Dungeon: Prophecy (World Pool)
+--------------------------------------------------
+// DeathAdder
+// Hoosegow
+// IkelosHCv102
+// IkelosSGv102
+// NegativeSpace
+// WidowsBite
+--------------------------------------------------
+##Playlists: Strikes
+--------------------------------------------------
+// EmptyVessel
+// Fortissimo11
+// PunchingOut
+// RoyalEntry
+// StridentWhistle # TODO
+// TheThirdAxiom
+// XenoclastIV
+--------------------------------------------------
+##Playlist: Crucible
+--------------------------------------------------
+// CrisisInverted
+// FrozenOrbit
+// Riptide # TODO
+// SorrowsVerse
+// StarsInShadow
+// SurvivorsEpitaph
+// TheKeening
+// Wishbringer
+--------------------------------------------------
+##Playlist: Gambit
+--------------------------------------------------
+// BorrowedTime
+// BottomDollar
+// CrowdPleaser
+// DeadWeight # TODO
+// HerodC
+// ServantLeader
+// TrinarySystem
+--------------------------------------------------
+##Activity: Nightfall (Y5)
+--------------------------------------------------
+// DFA # TODO
+// DFA(Adept) # TODO
+// DutyBound
+// DutyBound(Adept)
+// HorrorsLeast # TODO
+// HorrorsLeast(Adept) # TODO
+// SiliconNeuroma
+// SiliconNeuroma(Adept)
+--------------------------------------------------
+##Activity: Nightfall (Y4)
+--------------------------------------------------
+// HungJurySR4
+// HungJurySR4(Adept)
+// PlugOne1
+// PlugOne1(Adept)
+// ShadowPrice
+// ShadowPrice(Adept)
+// TheComedian
+// TheComedian(Adept)
+// TheHothead
+// TheHothead(Adept)
+// ThePalindrome
+// ThePalindrome(Adept)
+// THESWARM
+// THESWARM(Adept)
+// UzumeRR4
+// UzumeRR4(Adept)
+--------------------------------------------------
+##Activity: Trials (Y5)
+--------------------------------------------------
+// AishasEmbrace
+// AishasEmbrace(Adept)
+// BurdenOfGuilt # TODO
+// BurdenOfGuilt(Adept) # TODO
+// Forgiveness # TODO
+// Forgiveness(Adept) # TODO
+--------------------------------------------------
+##Activity: Trials (Y4)
+--------------------------------------------------
+// IgneousHammer
+// IgneousHammer(Adept)
+// ReedsRegret
+// ReedsRegret(Adept)
+// ShayurasWrath
+// ShayurasWrath(Adept)
+// SolasScar
+// SolasScar(Adept)
+// TheMessenger
+// TheMessenger(Adept)
+--------------------------------------------------
+##Activity: Trials (Y3)
+--------------------------------------------------
+// AstralHorizon
+// AstralHorizon(Adept)
+// ExilesCurse
+// ExilesCurse(Adept)
+// EyeOfSol
+// EyeOfSol(Adept)
+// TheScholar
+// TheScholar(Adept)
+// TheSummoner
+// TheSummoner(Adept)
+// TomorrowsAnswer
+// TomorrowsAnswer(Adept)
+--------------------------------------------------
+##Activity: Iron Banner (Y5)
+--------------------------------------------------
+// FrontiersCry
+// RazorsEdge
+// TheHerosBurden # TODO
+// TheWizenedRebuke # TODO
+--------------------------------------------------
+##Activity: Iron Banner (Y4)
+--------------------------------------------------
+// ArchonsThunder
+// FiniteImpactor
+// ForgesPledge
+// MultimachCCX
+// OccludedFinality
+// Peacebond
+// Riiswalker
+// TheGuidingSight
+// TheSteadyHand
+// TheTimeWornSpire
+--------------------------------------------------
+##Activity: Iron Banner (Y3)
+--------------------------------------------------
+// TheFoolsRemedy
+// TheForwardPath
+--------------------------------------------------
+##Activity: Iron Banner (Y2)
+--------------------------------------------------
+// BiteOfTheFox
+// CrimilsDagger
+// OrewingsMaul
+// ShiningSphere
+// SwarmOfTheRaven
+// TalonsOfTheEagle
+--------------------------------------------------
+##Destination: Throne World
+--------------------------------------------------
+// ComeToPass
+// EmpiricalEvidence
+// FathersSins
+// FelTaradiddle
+// ForensicNightmare
+// LikelySuspect
+// PointedInquiry
+// RedHerring
+// Tarnation
+// TheEnigma
+--------------------------------------------------
+##Destination: Europa
+--------------------------------------------------
+// ArcticHaze
+// BitingWinds
+// Bonechiller
+// CoriolisForce
+// HailingConfusion
+// HighAlbedo
+// SubzeroSalvo
+// ThermalErosion
+--------------------------------------------------
+##Destination: Moon
+--------------------------------------------------
+// AFineMemorial
+// Apostate
+// ArcLogic
+// Blasphemer
+// DreamBreaker
+// EveryWakingMoment
+// Heretic
+// LoudLullaby
+// LoveAndDeath
+// NightTerror
+// OneSmallStep
+// Premonition
+// Tranquility
+--------------------------------------------------
+##Destination: Dreaming City
+--------------------------------------------------
+// AbideTheReturn
+// RetoldTale
+// Sleepless
+// Tigerspite
+// TwilightOath
+// Vouchsafe
+// WakingVigil
+--------------------------------------------------
+##Patrol: World Pool (S17)
+--------------------------------------------------
+// EnyoD # TODO
+// GalluRR3 # TODO
+// Lunulata4b # TODO
+// Staccato46 # TODO
+--------------------------------------------------
+##Patrol: World Pool (S16)
+--------------------------------------------------
+// Cantata57
+// Fugue55
+// Funnelweb
+// Krait
+// OgmaPR6
+// PalmyraB
+// PersesD
+// RagnhildD
+// Redback5SI
+// SnorriFR5
+// Syncopation53
+// TyphonGL5
+--------------------------------------------------
+##Patrol: World Pool (S15)
+--------------------------------------------------
+// AnnualSkate
+// ContingencyPlan
+// LegalActionII
+// Scathelocke
+// ShepherdsWatch
+// SpoilerAlert
+--------------------------------------------------
+##Patrol: World Pool (S14)
+--------------------------------------------------
+// MemoryInterdict
+// PleiadesCorrector
+// StochasticVariable
+// TheDeicide
+// TheNumber
+// TheVision
+--------------------------------------------------
+##Patrol: World Pool (S13)
+--------------------------------------------------
+// CartesianCoordinate
+// EternalBlazon
+// Retrofuturist
+// Tarantula
+--------------------------------------------------
+##Patrol: World Pool (S11)
+--------------------------------------------------
+// NatureOfTheBeast
+// Truthteller
+--------------------------------------------------
+##Patrol: World Pool (S10)
+--------------------------------------------------
+// DirePromise
+// DistantTumulus
+// EnigmasDraw
+// EscapeVelocity
+// HonorsEdge
+// InterferenceVI
+// Jian7Rifle
+// SeventhSeraphCarbine
+// SeventhSeraphCQC12
+// SeventhSeraphOfficerRevolver
+// SeventhSeraphSAW
+// SeventhSeraphSI2
+// SeventhSeraphVY7
+// TimelinesVertex
+// TrueProphecy
+--------------------------------------------------
+##Patrol: World Pool
+--------------------------------------------------
+// ArsenicBite4b
+// BadOmens
+// GnawingHunger
+// LastPerdition
+// Lonesome
+// LongShadow
+// MainIngredient
+// NightWatch
+// OutrageousFortune
+// SteelSybilZ14
+// TheLastDance
+// ToilAndTrouble
+--------------------------------------------------
+##Patrol: Class Swords
+--------------------------------------------------
+// CrownSplitter
+// EternitysEdge
+// Quickfang
+--------------------------------------------------
+##Events
+--------------------------------------------------
+// Avalanche
+// BrayTechWerewolf
+// ColdFront
+// CompassRose
+// Glacioclasm
+// HorrorStory
+// JurassicGreen
+// TheTitle
+// Zephyr
+--------------------------------------------------
+##Exotics
+--------------------------------------------------
+// DeadMansTale
+// EdgeOfAction
+// EdgeOfConcurrence
+// EdgeOfIntent
+// Hawkmoon
+// OsteoStriga
