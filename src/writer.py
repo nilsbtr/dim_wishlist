@@ -60,7 +60,7 @@ def write_weapon(weapon):  # writer for all legendary weapons
                 f'// {weapon.get_name()} {wproll.get_type()} | {wproll.get_mws()}\n')
             target.write('\n')
 
-            if type == 'PvP':
+            if wproll.get_type() == 'PvP':
                 pre = f'dimwishlist:item=-{dic.weapons.get(weapon.get_name())}&perks='
             else:
                 pre = f'dimwishlist:item={dic.weapons.get(weapon.get_name())}&perks='
@@ -121,7 +121,7 @@ def write_exotic(weapon):  # writer for all exotic weapons
             target.write(f'// {weapon.get_name()} {wproll.get_type()}\n')
             target.write('\n')
 
-            if type == 'PvP':
+            if wproll.get_type() == 'PvP':
                 pre = f'dimwishlist:item=-{dic.exotics.get(weapon.get_name())}&perks='
             else:
                 pre = f'dimwishlist:item={dic.exotics.get(weapon.get_name())}&perks='
