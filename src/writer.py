@@ -144,7 +144,7 @@ def write_exotic(weapon):  # writer for all exotic weapons
                     for barrel in wproll.get_barrels():
                         check_key(barrel, dic.suppl)
                         target.write(
-                            f'{pre}{dic.suppl.get(barrel)},{dic.suppl.get(mag)}{ltrait},{rtrait}\n')
+                            f'{pre}{dic.suppl.get(barrel)},{dic.suppl.get(mag)},{ltrait},{rtrait}\n')
                     sgr.append(
                         f'{pre}{dic.suppl.get(mag)},{ltrait},{rtrait}\n')
                 for line in sgr:
