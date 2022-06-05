@@ -1041,17 +1041,93 @@ Roll: StraightFletching | ArchersTempo Rampage
 ##Dungeon: Duality
 --------------------------------------------------
 
-// LingeringDread # TODO
+// LingeringDread
 
-// NewPurpose # TODO
+/PvE: Velocity BlastRadius | QuickLaunch HardLaunch VolatileLaunch Countermass
+Roll: BlindingGrenades SpikeGrenades ConcussionGrenades | AutoLoadingHolster ChillClip
+Roll: BlindingGrenades SpikeGrenades ConcussionGrenades | AutoLoadingHolster VorpalWeapon
+Roll: BlindingGrenades SpikeGrenades ConcussionGrenades | AmbitiousAssassin MultikillClip
+Roll: BlindingGrenades SpikeGrenades ConcussionGrenades | FeedingFrenzy MultikillClip
+Roll: BlindingGrenades SpikeGrenades ConcussionGrenades | WellRounded Demolitionist
 
-// TheEpicurean # TODO
 
-// Unforgiven # TODO
+// NewPurpose
 
-// Stormchaser # TODO
+/PvE: Range ReloadSpeed Stability | ArrowheadBrake CorkscrewRifling ChamberedCompensator HammerForgedRifling
+Roll: AppendedMag RicochetRounds HighCaliberRounds | FeedingFrenzy Headstone
+Roll: AppendedMag RicochetRounds HighCaliberRounds | FeedingFrenzy VorpalWeapon
+Roll: AppendedMag RicochetRounds HighCaliberRounds | PerpetualMotion VorpalWeapon
+Roll: AppendedMag RicochetRounds HighCaliberRounds | PerpetualMotion AdaptiveMunitions
 
-// FixedOdds # TODO
+/PvP: Range ReloadSpeed Stability | ArrowheadBrake CorkscrewRifling ChamberedCompensator FlutedBarrel
+Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | PerpetualMotion Desperado
+Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | TunnelVision Desperado
+
+
+// TheEpicurean
+
+/PvE: ChargeTime Range | CorkscrewRifling ExtendedBarrel ArrowheadBrake ChamberedCompensator
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FeedingFrenzy Swashbuckler
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FeedingFrenzy Cornered
+
+/PvP: Range ChargeTime | CorkscrewRifling ArrowheadBrake ChamberedCompensator ExtendedBarrel
+Roll: AcceleratedCoils ProjectionFuse | SnapshotSights Rangefinder
+Roll: AcceleratedCoils ProjectionFuse | Quickdraw Rangefinder
+Roll: AcceleratedCoils ProjectionFuse | Quickdraw BackupPlan
+Roll: AcceleratedCoils ProjectionFuse | SnapshotSights BackupPlan
+
+
+// Unforgiven
+
+/PvE: Range ReloadSpeed Stability | CorkscrewRifling ChamberedCompensator HammerForgedRifling ArrowheadBrake
+Roll: RicochetRounds HighCaliberRounds AppendedMag | FeedingFrenzy Frenzy
+Roll: RicochetRounds HighCaliberRounds AppendedMag | FeedingFrenzy Rampage
+Roll: RicochetRounds HighCaliberRounds AppendedMag | Demolitionist AdrenalineJunkie
+Roll: RicochetRounds HighCaliberRounds AppendedMag | WellRounded AdrenalineJunkie
+Roll: RicochetRounds HighCaliberRounds AppendedMag | FeedingFrenzy GoldenTricorn
+
+/PvP: Range Stability ReloadSpeed | CorkscrewRifling ChamberedCompensator ArrowheadBrake HammerForgedRifling
+Roll: RicochetRounds HighCaliberRounds | TunnelVision Rampage
+Roll: RicochetRounds HighCaliberRounds | SteadyHands Rampage
+
+
+// Stormchaser
+
+/PvE: ChargeTime ReloadSpeed Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator HammerForgedRifling
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge FiringLine
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | RapidHit FiringLine
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | AutoLoadingHolster FiringLine
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge Frenzy
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | RapidHit Frenzy
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | AutoLoadingHolster Frenzy
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge VorpalWeapon
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | RapidHit VorpalWeapon
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | AutoLoadingHolster VorpalWeapon
+
+
+/PvP: ChargeTime Range Handling | ArrowheadBrake CorkscrewRifling ChamberedCompensator HammerForgedRifling
+Roll: AcceleratedCoils ProjectionFuse | Rangefinder VorpalWeapon
+Roll: AcceleratedCoils ProjectionFuse | Rangefinder Rampage
+Roll: AcceleratedCoils ProjectionFuse | WellRounded VorpalWeapon
+Roll: AcceleratedCoils ProjectionFuse | WellRounded Rampage
+
+
+// FixedOdds
+/PvE: Range ReloadSpeed Stability | CorkscrewRifling ChamberedCompensator ArrowheadBrake HammerForgedRifling
+Roll: ExtendedMag AssaultMag AccuricedRounds | FeedingFrenzy KillingTally
+Roll: ExtendedMag AssaultMag AccuricedRounds | FeedingFrenzy Rampage
+Roll: ExtendedMag AssaultMag AccuricedRounds | FeedingFrenzy Incandescent
+Roll: ExtendedMag AssaultMag AccuricedRounds | UnderPressure KillingTally
+Roll: ExtendedMag AssaultMag AccuricedRounds | UnderPressure Rampage
+Roll: ExtendedMag AssaultMag AccuricedRounds | UnderPressure Incandescent
+
+/PvP: Range Stability Handling | ArrowheadBrake ChamberedCompensator CorkscrewRifling ExtendedBarrel
+Roll: AccuricedRounds | Quickdraw Rangefinder
+Roll: AccuricedRounds | Encore Rangefinder
+Roll: AccuricedRounds | Quickdraw KillingTally
+Roll: AccuricedRounds | Encore KillingTally
+Roll: AccuricedRounds | Quickdraw Rampage
+Roll: AccuricedRounds | Encore Rampage
 
 --------------------------------------------------
 ##Dungeon: Grasp of Avarice

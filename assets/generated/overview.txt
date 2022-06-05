@@ -140,12 +140,12 @@
 --------------------------------------------------
 ##Dungeon: Duality
 --------------------------------------------------
-// LingeringDread # TODO
-// NewPurpose # TODO
-// TheEpicurean # TODO
-// Unforgiven # TODO
-// Stormchaser # TODO
-// FixedOdds # TODO
+// LingeringDread
+// NewPurpose
+// TheEpicurean
+// Unforgiven
+// Stormchaser
+// FixedOdds
 --------------------------------------------------
 ##Dungeon: Grasp of Avarice
 --------------------------------------------------
