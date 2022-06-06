@@ -1,11 +1,11 @@
 --------------------------------------------------
 ##Season of the Haunted (S17)
 --------------------------------------------------
-// Austringer # TODO
-// Beloved # TODO
-// BumpInTheNight # TODO
-// CALUSMiniTool # TODO
-// Drang(Baroque) # TODO
+// Austringer
+// Beloved
+// BumpInTheNight
+// CALUSMiniTool
+// Drang(Baroque)
 // Firefright # TODO
 // HollowDenial # TODO
 // NezarecsWhisper # TODO

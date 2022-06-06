@@ -54,7 +54,7 @@ def write_section(name):  # writes a new found section
 def write_weapon(weapon):  # writer for all legendary weapons
     with open(files.TARGET, 'a') as target:
         for wproll in weapon.get_wprolls():
-            check_key(weapon.get_name(), dic.weapons)
+            check_key(weapon.get_name(), weapon.get_name(), dic.weapons)
 
             target.write(
                 f'// {weapon.get_name()} {wproll.get_type()} | {wproll.get_mws()}\n')
@@ -70,8 +70,8 @@ def write_weapon(weapon):  # writer for all legendary weapons
                 mags = roll[0].split()
                 ltrait, rtrait = roll[1].split()
 
-                check_key(ltrait, dic.traits)
-                check_key(rtrait, dic.traits)
+                check_key(weapon.get_name(), ltrait, dic.traits)
+                check_key(weapon.get_name(), rtrait, dic.traits)
 
                 target.write(f'// {ltrait} + {rtrait}\n')
                 target.write(create_note(wproll))
@@ -79,9 +79,9 @@ def write_weapon(weapon):  # writer for all legendary weapons
                 sgr = []  # saves semi god-rolls
 
                 for mag in mags:
-                    check_key(mag, dic.suppl)
+                    check_key(weapon.get_name(), mag, dic.suppl)
                     for barrel in wproll.get_barrels():
-                        check_key(barrel, dic.suppl)
+                        check_key(weapon.get_name(), barrel, dic.suppl)
                         target.write(
                             f'{pre}{create_line(barrel, mag, ltrait, rtrait)}\n')
                     sgr.append(
@@ -93,10 +93,11 @@ def write_weapon(weapon):  # writer for all legendary weapons
             target.write('\n')
 
 
-def check_key(key, dict):  # raising error for non existent key
+def check_key(weapon, key, dict):  # raising error for non existent key
     if key not in dict:
-        print(f'{colors.BLUE}[DIC]{colors.END} {key} not found!')
-        raise KeyError(f'{key} not found!')
+        print(
+            f'{colors.BLUE}[DIC]{colors.END} {key}@{weapon} not found!')
+        raise KeyError(f'{key}@{weapon} not found!')
 
 
 # dimwishlist:item=weapon&perks=barrel,mag,trait_1,trait_2
@@ -116,7 +117,7 @@ def create_note(wproll):  # automatic creates a note with type and masterwork
 def write_exotic(weapon):  # writer for all exotic weapons
     with open(files.TARGET, 'a') as target:
         for wproll in weapon.get_wprolls():
-            check_key(weapon.get_name(), dic.exotics)
+            check_key(weapon.get_name(), weapon.get_name(), dic.exotics)
 
             target.write(f'// {weapon.get_name()} {wproll.get_type()}\n')
             target.write('\n')
@@ -134,15 +135,15 @@ def write_exotic(weapon):  # writer for all exotic weapons
                 target.write(f'// {ltrait} + {rtrait}\n')
                 target.write(f'//notes:{wproll.get_type()}\n')
 
-                ltrait = check_ekey(ltrait)
-                rtrait = check_ekey(rtrait)
+                ltrait = check_ekey(weapon.get_name(), ltrait)
+                rtrait = check_ekey(weapon.get_name(), rtrait)
 
                 sgr = []  # saves semi god-rolls
 
                 for mag in mags:
-                    check_key(mag, dic.suppl)
+                    check_key(weapon.get_name(), mag, dic.suppl)
                     for barrel in wproll.get_barrels():
-                        check_key(barrel, dic.suppl)
+                        check_key(weapon.get_name(), barrel, dic.suppl)
                         target.write(
                             f'{pre}{dic.suppl.get(barrel)},{dic.suppl.get(mag)},{ltrait},{rtrait}\n')
                     sgr.append(
@@ -153,11 +154,12 @@ def write_exotic(weapon):  # writer for all exotic weapons
             target.write('\n')
 
 
-def check_ekey(key):  # checks if a trait is exotic only otherwise uses normal one
+def check_ekey(weapon, key):  # checks if a trait is exotic only otherwise uses normal one
     if key in dic.exotics:
         return dic.exotics.get(key)
     elif key in dic.traits:
         return dic.traits.get(key)
     else:
-        print(f'{colors.BLUE}[DIC]{colors.END} {key} not found!')
-        raise KeyError(f'{key} not found!')
+        print(
+            f'{colors.BLUE}[DIC]{colors.END} {key}@{weapon} not found!')
+        raise KeyError(f'{key}@{weapon} not found!')

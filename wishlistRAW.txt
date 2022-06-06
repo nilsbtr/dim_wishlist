@@ -2,15 +2,62 @@
 ##Season of the Haunted (S17)
 --------------------------------------------------
 
-// Austringer # TODO
+// Austringer
 
-// Beloved # TODO
+/PvE: Range ReloadSpeed | CorkscrewRifling FullBore HammerForgedRifling ExtendedBarrel
+Roll: RicochetRounds HighCaliberRounds AppendedMag | TripleTap Frenzy
+Roll: RicochetRounds HighCaliberRounds AppendedMag | TripleTap Demolitionist
+Roll: RicochetRounds HighCaliberRounds AppendedMag | Outlaw Rampage
 
-// BumpInTheNight # TODO
+/PvP: Range Handling Stability | HammerForgedRifling CorkscrewRifling FullBore ArrowheadBrake
+Roll: HighCaliberRounds RicochetRounds | SnapshotSights Rangefinder
+Roll: HighCaliberRounds RicochetRounds | EyeOfTheStorm Rangefinder
+Roll: HighCaliberRounds RicochetRounds | SnapshotSights OpeningShot
+Roll: HighCaliberRounds RicochetRounds | EyeOfTheStorm OpeningShot
+Roll: HighCaliberRounds RicochetRounds | EyeOfTheStorm Rampage
 
-// CALUSMiniTool # TODO
 
-// Drang(Baroque) # TODO
+// Beloved
+
+/PvP: Handling Range | FlutedBarrel ArrowheadBrake ChamberedCompensator CorkscrewRifling
+Roll: RicochetRounds HighCaliberRounds | SnapshotSights MovingTarget
+Roll: RicochetRounds HighCaliberRounds | SnapshotSights Quickdraw
+Roll: RicochetRounds HighCaliberRounds | SnapshotSights BoxBreathing
+
+// BumpInTheNight
+
+/PvE: Velocity BlastRadius | QuickLaunch VolatileLaunch HardLaunch Countermass
+Roll: ImpactCasing | AutoLoadingHolster VorpalWeapon
+Roll: ImpactCasing | TrackingModule VorpalWeapon
+Roll: HighVelocityRounds | AutoLoadingHolster ChainReaction
+Roll: HighVelocityRounds | Demolitionist ChainReaction
+
+/PvP: Velocity BlastRadius | VolatileLaunch HardLaunch QuickLaunch Countermass
+Roll: HighVelocityRounds | TrackingModule ChainReaction
+
+// CALUSMiniTool
+
+/PvE: Range Stability ReloadSpeed | CorkscrewRifling ArrowheadBrake ExtendedBarrel ChamberedCompensator
+Roll: AccuricedRounds TacticalMag AppendedMag | ThreatDetector Incandescent
+Roll: AccuricedRounds TacticalMag AppendedMag | Unrelenting Incandescent
+Roll: AccuricedRounds TacticalMag AppendedMag | ThreatDetector Surrounded
+Roll: AccuricedRounds TacticalMag AppendedMag | GraveRobber Incandescent
+
+/PvP: Range Stability Handling | CorkscrewRifling ExtendedBarrel HammerForgedRifling ArrowheadBrake
+Roll: AccuricedRounds | MovingTarget Surrounded
+
+
+// Drang(Baroque)
+
+/PvE: Range Stability ReloadSpeed | CorkscrewRifling ArrowheadBrake ExtendedBarrel ChamberedCompensator
+Roll: AccuricedRounds TacticalMag AppendedMag | WellRounded Incandescent
+Roll: AccuricedRounds TacticalMag AppendedMag | Wellspring Incandescent
+
+/PvP: Range Stability Handling | CorkscrewRifling ExtendedBarrel HammerForgedRifling ArrowheadBrake
+Roll: AccuricedRounds | MovingTarget Rampage
+Roll: AccuricedRounds | Quickdraw Rampage
+Roll: AccuricedRounds | EyeOfTheStorm Rampage
+
 
 // Firefright # TODO
 
