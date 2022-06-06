@@ -24,6 +24,7 @@ Roll: RicochetRounds HighCaliberRounds | SnapshotSights MovingTarget
 Roll: RicochetRounds HighCaliberRounds | SnapshotSights Quickdraw
 Roll: RicochetRounds HighCaliberRounds | SnapshotSights BoxBreathing
 
+
 // BumpInTheNight
 
 /PvE: Velocity BlastRadius | QuickLaunch VolatileLaunch HardLaunch Countermass
@@ -34,6 +35,7 @@ Roll: HighVelocityRounds | Demolitionist ChainReaction
 
 /PvP: Velocity BlastRadius | VolatileLaunch HardLaunch QuickLaunch Countermass
 Roll: HighVelocityRounds | TrackingModule ChainReaction
+
 
 // CALUSMiniTool
 
