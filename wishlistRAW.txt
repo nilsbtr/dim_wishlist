@@ -283,7 +283,7 @@ Roll: AssaultMag | Subsistence Adagio
 Roll: AssaultMag | Subsistence OneTwoPunch
 Roll: AssaultMag | Subsistence TrenchBarrel
 
-/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
+/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
 Roll: AccuricedRounds LightMag AssaultMag | PerpetualMotion OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | Slideshot OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | PerpetualMotion KillingWind
@@ -859,7 +859,7 @@ Roll: AccuricedRounds | ExplosivePayload KillClip
 /PvE: Range | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
 Roll: AssaultMag | AutoLoadingHolster OneTwoPunch
 
-/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
+/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
 Roll: AccuricedRounds LightMag AssaultMag | Surplus OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | Slideshot OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | Surplus KillingWind
@@ -871,7 +871,7 @@ Roll: AccuricedRounds LightMag AssaultMag | Slideshot KillingWind
 /PvE: Range | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
 Roll: AssaultMag | AutoLoadingHolster OneTwoPunch
 
-/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
+/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
 Roll: AccuricedRounds LightMag AssaultMag | Surplus OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | Slideshot OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | Surplus KillingWind
@@ -1047,7 +1047,7 @@ Roll: AccuricedRounds | Mulligan SnapshotSights
 
 // ProphetOfDoom
 
-/PvE: Range | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
+/PvE: Range | CorkscrewRifling BarrelShroud FullChoke Smallbore RifledBarrel
 Roll: AssaultMag | FeedingFrenzy OneTwoPunch
 
 /PvP: Handling Range | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
@@ -1298,7 +1298,7 @@ Roll: AssaultMag LightMag | FullAutoTriggerSystem OneTwoPunch
 Roll: AssaultMag LightMag | LeadFromGold Swashbuckler
 Roll: AssaultMag LightMag | FullAutoTriggerSystem Swashbuckler
 
-/PvP: Handling Range | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
+/PvP: Handling Range | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
 Roll: AccuricedRounds LightMag AssaultMag | ThreatDetector OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | PerpetualMotion OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | ThreatDetector KillingWind
@@ -1313,7 +1313,7 @@ Roll: AccuricedRounds LightMag AssaultMag | PerpetualMotion KillingWind
 /PvE: Range | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
 Roll: AssaultMag | GraveRobber OneTwoPunch
 
-/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
+/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
 Roll: AccuricedRounds LightMag AssaultMag | ThreatDetector ElementalCapacitor
 Roll: AccuricedRounds LightMag AssaultMag | Surplus ElementalCapacitor
 Roll: AccuricedRounds LightMag AssaultMag | Slideshot ElementalCapacitor
@@ -1499,7 +1499,7 @@ Roll: RicochetRounds ArmorPiercingRounds HighCaliberRounds | FeedingFrenzy Multi
 Roll: AssaultMag | GraveRobber OneTwoPunch
 Roll: AssaultMag | AutoLoadingHolster OneTwoPunch
 
-/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
+/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
 Roll: AccuricedRounds LightMag AssaultMag | Surplus KillingWind
 Roll: AccuricedRounds LightMag AssaultMag | Slideshot KillingWind
 
@@ -2154,7 +2154,7 @@ Roll: RicochetRounds HighCaliberRounds | MovingTarget KillClip
 Roll: AssaultMag TacticalMag LightMag | AutoLoadingHolster OneTwoPunch
 Roll: AssaultMag TacticalMag LightMag | AutoLoadingHolster TrenchBarrel
 
-/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
+/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
 Roll: AccuricedRounds LightMag AssaultMag | ThreatDetector OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | Surplus OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | Slideshot OpeningShot
@@ -2172,7 +2172,7 @@ Roll: AccuricedRounds LightMag AssaultMag | Slideshot KillingWind
 Roll: AssaultMag TacticalMag LightMag | AutoLoadingHolster OneTwoPunch
 Roll: AssaultMag TacticalMag LightMag | AutoLoadingHolster TrenchBarrel
 
-/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
+/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
 Roll: AccuricedRounds LightMag AssaultMag | ThreatDetector OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | Surplus OpeningShot
 Roll: AccuricedRounds LightMag AssaultMag | Slideshot OpeningShot
@@ -3038,7 +3038,7 @@ Roll: TacticalMag AccuricedRounds | RapidHit FocusedFury
 Roll: AssaultMag | AutoLoadingHolster OneTwoPunch
 Roll: AssaultMag | Subsistence Demolitionist
 
-/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore FullChoke RifledBarrel
+/PvP: Range Handling | CorkscrewRifling BarrelShroud Smallbore RifledBarrel
 Roll: AccuricedRounds LightMag AssaultMag | PerpetualMotion ElementalCapacitor
 Roll: AccuricedRounds LightMag AssaultMag | PerpetualMotion OneTwoPunch
 
