@@ -133,8 +133,18 @@ Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
 
 // WithoutRemorse
 
-/PvE: Range Stability ReloadSpeed | HammerForgedRifling ArrowheadBrake Smallbore ExtendedBarrel
-Roll: LightMag AppendedMag AccuricedRounds | TripleTap ExplosivePayload
+/PvE: Range Handling ReloadSpeed | CorkscrewRifling FullChoke BarrelShroud
+Roll: LightMag AccuricedRounds TacticalMag | WellRounded OneTwoPunch
+Roll: LightMag AccuricedRounds TacticalMag | WellRounded Incandescent
+Roll: LightMag AccuricedRounds TacticalMag | WellRounded VorpalWeapon
+Roll: LightMag AccuricedRounds TacticalMag | ThreatDetector OneTwoPunch
+Roll: LightMag AccuricedRounds TacticalMag | ThreatDetector Incandescent
+Roll: LightMag AccuricedRounds TacticalMag | ThreatDetector VorpalWeapon
+
+/PvP: Range Handling | CorkscrewRifling Smallbore RifledBarrel BarrelShroud
+Roll: AccuricedRounds LightMag | ThreatDetector ElementalCapacitor
+Roll: AccuricedRounds LightMag | SteadyHands ElementalCapacitor
+Roll: AccuricedRounds LightMag | HipFireGrip ElementalCapacitor
 
 --------------------------------------------------
 ##Season of the Risen (S16)
