@@ -20,9 +20,10 @@ Roll: HighCaliberRounds RicochetRounds | EyeOfTheStorm Rampage
 // Beloved
 
 /PvP: Handling Range | FlutedBarrel ArrowheadBrake ChamberedCompensator CorkscrewRifling
-Roll: RicochetRounds HighCaliberRounds | SnapshotSights MovingTarget
-Roll: RicochetRounds HighCaliberRounds | SnapshotSights Quickdraw
-Roll: RicochetRounds HighCaliberRounds | SnapshotSights BoxBreathing
+Roll: RicochetRounds LightMag HighCaliberRounds | SnapshotSights MovingTarget
+Roll: RicochetRounds LightMag HighCaliberRounds | SnapshotSights Quickdraw
+Roll: RicochetRounds LightMag HighCaliberRounds | FirmlyPlanted MovingTarget
+Roll: RicochetRounds LightMag HighCaliberRounds | Surplus MovingTarget
 
 
 // BumpInTheNight
@@ -30,6 +31,8 @@ Roll: RicochetRounds HighCaliberRounds | SnapshotSights BoxBreathing
 /PvE: Velocity BlastRadius | QuickLaunch VolatileLaunch HardLaunch Countermass
 Roll: ImpactCasing | AutoLoadingHolster VorpalWeapon
 Roll: ImpactCasing | TrackingModule VorpalWeapon
+Roll: ImpactCasing | AutoLoadingHolster Frenzy
+Roll: ImpactCasing | TrackingModule Frenzy
 Roll: HighVelocityRounds | AutoLoadingHolster ChainReaction
 Roll: HighVelocityRounds | Demolitionist ChainReaction
 
@@ -45,8 +48,9 @@ Roll: AccuricedRounds TacticalMag AppendedMag | Unrelenting Incandescent
 Roll: AccuricedRounds TacticalMag AppendedMag | ThreatDetector Surrounded
 Roll: AccuricedRounds TacticalMag AppendedMag | GraveRobber Incandescent
 
-/PvP: Range Stability Handling | CorkscrewRifling ExtendedBarrel HammerForgedRifling ArrowheadBrake
-Roll: AccuricedRounds | MovingTarget Surrounded
+/PvP: Range Handling Stability | CorkscrewRifling ExtendedBarrel HammerForgedRifling ArrowheadBrake
+Roll: AccuricedRounds | MovingTarget TapTheTrigger
+Roll: AccuricedRounds | MovingTarget EyeOfTheStorm
 
 
 // Drang(Baroque)
@@ -55,21 +59,82 @@ Roll: AccuricedRounds | MovingTarget Surrounded
 Roll: AccuricedRounds TacticalMag AppendedMag | WellRounded Incandescent
 Roll: AccuricedRounds TacticalMag AppendedMag | Wellspring Incandescent
 
-/PvP: Range Stability Handling | CorkscrewRifling ExtendedBarrel HammerForgedRifling ArrowheadBrake
+/PvP: Range Handling Stability | CorkscrewRifling ExtendedBarrel HammerForgedRifling ArrowheadBrake
 Roll: AccuricedRounds | MovingTarget Rampage
 Roll: AccuricedRounds | Quickdraw Rampage
 Roll: AccuricedRounds | EyeOfTheStorm Rampage
 
 
-// Firefright # TODO
+// Firefright
 
-// HollowDenial # TODO
+/PvE: Range Stability ReloadSpeed | Smallbore ExtendedBarrel ArrowheadBrake ChamberedCompensator
+Roll: RicochetRounds LightMag HighCaliberRounds | ThreatDetector Surrounded
+Roll: RicochetRounds LightMag HighCaliberRounds | WellRounded Surrounded
+Roll: RicochetRounds LightMag HighCaliberRounds | WellRounded Adagio
+Roll: RicochetRounds LightMag HighCaliberRounds | FourthTimesTheCharm Surrounded
+Roll: RicochetRounds LightMag HighCaliberRounds | FourthTimesTheCharm Adagio
 
-// NezarecsWhisper # TODO
+/PvP: Range Stability Handling | HammerForgedRifling Smallbore FullBore
+Roll: HighCaliberRounds RicochetRounds | FragileFocus ElementalCapacitor
+Roll: HighCaliberRounds RicochetRounds | FragileFocus Adagio
+Roll: HighCaliberRounds RicochetRounds | WellRounded ElementalCapacitor
+Roll: HighCaliberRounds RicochetRounds | WellRounded Adagio
+Roll: HighCaliberRounds RicochetRounds | FragileFocus Mulligan
+Roll: HighCaliberRounds RicochetRounds | WellRounded Mulligan
 
-// TearsOfContrition # TODO
 
-// WithoutRemorse # TODO
+// HollowDenial
+
+/PvE: Range Stability ReloadSpeed | Smallbore HammerForgedRifling
+Roll: TacticalBattery EnhancedBattery ProjectionFuse | LeadFromGold KillingTally
+Roll: TacticalBattery EnhancedBattery ProjectionFuse | LeadFromGold Dragonfly
+Roll: TacticalBattery EnhancedBattery ProjectionFuse | LeadFromGold Swashbuckler
+Roll: TacticalBattery EnhancedBattery ProjectionFuse | WellRounded KillingTally
+Roll: TacticalBattery EnhancedBattery ProjectionFuse | WellRounded Dragonfly
+Roll: TacticalBattery EnhancedBattery ProjectionFuse | WellRounded Swashbuckler
+
+/PvP: Range Stability Handling | HammerForgedRifling FullBore Smallbore
+Roll: ProjectionFuse TacticalBattery | Rangefinder KillingTally
+Roll: ProjectionFuse TacticalBattery | Rangefinder Wellspring
+Roll: ProjectionFuse TacticalBattery | HeatingUp Swashbuckler
+Roll: ProjectionFuse TacticalBattery | WellRounded KillingTally
+Roll: ProjectionFuse TacticalBattery | HeatingUp Wellspring
+Roll: ProjectionFuse TacticalBattery | WellRounded Wellspring
+
+
+// NezarecsWhisper
+
+/PvE: ReloadSpeed Range | LightweightEmitter LowImpedanceWindings TemperedTrussRod BallisticTuning
+Roll: LightMag AppendedMag AccuricedRounds | LeadFromGold Frenzy
+Roll: LightMag AppendedMag AccuricedRounds | Demolitionist AdrenalineJunkie
+Roll: LightMag AppendedMag AccuricedRounds | Genesis AdaptiveMunitions
+
+/PvP: Handling ReloadSpeed Range | LightweightEmitter LowImpedanceWindings TemperedTrussRod BallisticTuning
+Roll: LightMag AccuricedRounds | ImpulseAmplifier UnstoppableForce
+Roll: LightMag AccuricedRounds | TiltingAtWindmills UnstoppableForce
+
+
+// TearsOfContrition
+
+/PvE: Range Stability ReloadSpeed | HammerForgedRifling ArrowheadBrake Smallbore ExtendedBarrel
+Roll: LightMag AppendedMag AccuricedRounds | TripleTap ExplosivePayload
+Roll: LightMag AppendedMag AccuricedRounds | TripleTap VorpalWeapon
+Roll: LightMag AppendedMag AccuricedRounds | WellRounded ExplosivePayload
+Roll: LightMag AppendedMag AccuricedRounds | WellRounded FourthTimesTheCharm
+Roll: LightMag AppendedMag AccuricedRounds | WellRounded VorpalWeapon
+Roll: LightMag AppendedMag AccuricedRounds | TripleTap FourthTimesTheCharm
+
+/PvP: Range Stability | HammerForgedRifling ExtendedBarrel Smallbore ArrowheadBrake
+Roll: AccuricedRounds TacticalMag | PerpetualMotion ExplosivePayload
+Roll: AccuricedRounds TacticalMag | PerpetualMotion OpeningShot
+Roll: AccuricedRounds TacticalMag | NoDistractions ExplosivePayload
+Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
+
+
+// WithoutRemorse
+
+/PvE: Range Stability ReloadSpeed | HammerForgedRifling ArrowheadBrake Smallbore ExtendedBarrel
+Roll: LightMag AppendedMag AccuricedRounds | TripleTap ExplosivePayload
 
 --------------------------------------------------
 ##Season of the Risen (S16)
