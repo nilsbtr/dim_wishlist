@@ -6,11 +6,11 @@
 // BumpInTheNight
 // CALUSMiniTool
 // Drang(Baroque)
-// Firefright # TODO
-// HollowDenial # TODO
-// NezarecsWhisper # TODO
-// TearsOfContrition # TODO
-// WithoutRemorse # TODO
+// Firefright
+// HollowDenial
+// NezarecsWhisper
+// TearsOfContrition
+// WithoutRemorse
 --------------------------------------------------
 ##Season of the Risen (S16)
 --------------------------------------------------

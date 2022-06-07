@@ -563,6 +563,7 @@ Roll: SwordmastersGuard | RelentlessStrikes WhirlwindBlade
 
 
 // FalsePromises
+
 /PvE: Range Stability | ArrowheadBrake CorkscrewRifling ChamberedCompensator FlutedBarrel ExtendedBarrel
 Roll: RicochetRounds ExtendedMag AppendedMag | Overflow Rampage
 Roll: RicochetRounds ExtendedMag | Subsistence Rampage

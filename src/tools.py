@@ -1,3 +1,13 @@
+from const import colors, files
+
+
+def create_backup():  # Creates a backup file inside /backup
+    with open(files.TARGET) as source, open('src/backup/wishlist.txt', 'w') as target:
+        for line in source:
+            target.write(line)
+    print(f'{colors.RED}[FILE]{colors.END} Backup created! ({target.name})')
+
+
 def create_overview():
     with open('wishlistRAW.txt') as source, open('assets/generated/overview.txt', 'w') as target:
         for line in source:
