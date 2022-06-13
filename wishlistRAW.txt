@@ -363,7 +363,6 @@ Roll: FiberglassArrowShaft StraightFletching | ArchersTempo Dragonfly
 Roll: FiberglassArrowShaft StraightFletching | ArchersTempo Frenzy
 Roll: FiberglassArrowShaft StraightFletching | ArchersTempo Adagio
 
-
 --------------------------------------------------
 ##Season of the Splicer (S14)
 --------------------------------------------------
