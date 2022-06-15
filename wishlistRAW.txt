@@ -1022,6 +1022,8 @@ Roll: CompactArrowShaft StraightFletching | ArchersTempo Rampage
 Roll: CompactArrowShaft StraightFletching | ArchersTempo RapidHit
 
 /PvP: DrawTime Accuracy | PolymerString ElasticString FlexibleString TactileString
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder MovingTarget
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder RapidHit
 Roll: StraightFletching FiberglassArrowShaft | ArchersTempo MovingTarget
 Roll: StraightFletching FiberglassArrowShaft | ArchersTempo RapidHit
 Roll: StraightFletching FiberglassArrowShaft | Quickdraw MovingTarget
@@ -1078,6 +1080,11 @@ Roll: RicochetRounds ArmorPiercingRounds | Rangefinder Headseeker
 /PvE: Range Stability | ArrowheadBrake CorkscrewRifling ExtendedBarrel ChamberedCompensator
 Roll: LiquidCoils | AutoLoadingHolster HighImpactReserves
 Roll: LiquidCoils AcceleratedCoils | FeedingFrenzy Rampage
+
+/PvP: Range Stability | HammerForgedRifling FullBore CorkscrewRifling ArrowheadBrake ExtendedBarrel
+Roll: AcceleratedCoils ProjectionFuse | UnderPressure HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | UnderPressure BackupPlan
+
 
 --------------------------------------------------
 ##Raid: Last Wish
@@ -1482,7 +1489,21 @@ Roll: ImpactCasing | AutoLoadingHolster LastingImpression
 Roll: ImpactCasing AlloyCasing | FieldPrep ClownCartridge
 
 
-// StridentWhistle # TODO
+// StridentWhistle
+
+/PvE: DrawTime Accuracy ReloadSpeed | PolymerString ElasticString FlexibleString TactileString
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | ArchersTempo Incandescent
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | ArchersTempo Dragonfly
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | ArchersTempo SuccessfulWarmUp
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | ShootToLoot Dragonfly
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | ArchersTempo Cornered
+
+/PvP: Accuracy DrawTime | PolymerString ElasticString FlexibleString TactileString
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget SuccessfulWarmUp
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder SuccessfulWarmUp
+Roll: StraightFletching FiberglassArrowShaft | ArchersTempo SuccessfulWarmUp
 
 
 // TheThirdAxiom
@@ -1535,7 +1556,22 @@ Roll: AccuricedRounds TacticalMag | NoDistractions SnapshotSights
 Roll: AccuricedRounds TacticalMag | MovingTarget SnapshotSights
 
 
-// Riptide # TODO
+// Riptide
+
+/PvE: ChargeTime Stability Range | ArrowheadBrake CorkscrewRifling ExtendedBarrel ChamberedCompensator
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FeedingFrenzy ChillClip
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | LeadFromGold ChillClip
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | LeadFromGold Frenzy
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | LeadFromGold VorpalWeapon
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FeedingFrenzy SuccessfulWarmUp
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | LeadFromGold SuccessfulWarmUp
+
+/PvP: Range Stability ChargeTime | HammerForgedRifling FullBore CorkscrewRifling ArrowheadBrake ExtendedBarrel
+Roll: AcceleratedCoils ProjectionFuse | UnderPressure HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | PerpetualMotion HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | PerpetualMotion SuccessfulWarmUp
+Roll: AcceleratedCoils ProjectionFuse | WellRounded HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | HeatingUp SuccessfulWarmUp
 
 
 // SorrowsVerse
@@ -1626,7 +1662,18 @@ Roll: AlloyCasing | AmbitiousAssassin ChainReaction
 Roll: HighVelocityRounds | KillingWind ChainReaction
 
 
-// DeadWeight # TODO
+// DeadWeight
+
+/PvE: Range ReloadSpeed | RifledBarrel FullChoke Smallbore
+Roll: TacticalMag LightMag AccuricedRounds | GraveRobber OneTwoPunch
+Roll: TacticalMag LightMag AccuricedRounds | GraveRobber Swashbuckler
+Roll: TacticalMag LightMag AccuricedRounds | Subsistence Frenzy
+Roll: TacticalMag LightMag AccuricedRounds | LeadFromGold Frenzy
+
+/PvP: Range Handling ReloadSpeed | CorkscrewRifling Smallbore RifledBarrel
+Roll: AccuricedRounds LightMag | Surplus SnapshotSights
+Roll: AccuricedRounds LightMag | PerpetualMotion SnapshotSights
+Roll: AccuricedRounds LightMag | SteadyHands SnapshotSights
 
 
 // HerodC
@@ -1670,10 +1717,36 @@ Roll: AcceleratedCoils ProjectionFuse | FirmlyPlanted TapTheTrigger
 ##Activity: Nightfall (Y5)
 --------------------------------------------------
 
-// DFA # TODO
+// DFA
+
+/PvE: Range ReloadSpeed Stability | HammerForgedRifling Smallbore FullBore CorkscrewRifling ExtendedBarrel
+Roll: AccuricedRounds TacticalMag | TripleTap Rampage
+Roll: AccuricedRounds TacticalMag | Outlaw Rampage
+Roll: AccuricedRounds TacticalMag | PerpetualMotion Rampage
+
+/PvP: Range Handling | HammerForgedRifling Smallbore FullBore CorkscrewRifling ExtendedBarrel
+Roll: AccuricedRounds | FragileFocus OpeningShot
+Roll: AccuricedRounds | FragileFocus ExplosivePayload
+Roll: AccuricedRounds | PerpetualMotion ExplosivePayload
+Roll: AccuricedRounds | SteadyHands ExplosivePayload
+Roll: AccuricedRounds | PerpetualMotion OpeningShot
+Roll: AccuricedRounds | SteadyHands OpeningShot
 
 
-// DFA(Adept) # TODO
+// DFA(Adept)
+
+/PvE: Range ReloadSpeed Stability | HammerForgedRifling Smallbore FullBore CorkscrewRifling ExtendedBarrel
+Roll: AccuricedRounds TacticalMag | TripleTap Rampage
+Roll: AccuricedRounds TacticalMag | Outlaw Rampage
+Roll: AccuricedRounds TacticalMag | PerpetualMotion Rampage
+
+/PvP: Range Handling | HammerForgedRifling Smallbore FullBore CorkscrewRifling ExtendedBarrel
+Roll: AccuricedRounds | FragileFocus OpeningShot
+Roll: AccuricedRounds | FragileFocus ExplosivePayload
+Roll: AccuricedRounds | PerpetualMotion ExplosivePayload
+Roll: AccuricedRounds | SteadyHands ExplosivePayload
+Roll: AccuricedRounds | PerpetualMotion OpeningShot
+Roll: AccuricedRounds | SteadyHands OpeningShot
 
 
 // DutyBound
@@ -1702,10 +1775,30 @@ Roll: AccuricedRounds | PerpetualMotion DynamicSwayReduction
 Roll: AccuricedRounds | SteadyHands DynamicSwayReduction
 
 
-// HorrorsLeast # TODO
+// HorrorsLeast
+
+/PvE: Stability | ArrowheadBrake ChamberedCompensator CorkscrewRifling ExtendedBarrel
+Roll: AccuricedRounds TacticalMag | PerpetualMotion Frenzy
+Roll: AccuricedRounds TacticalMag | UnderPressure Frenzy
+
+/PvP: Range | HammerForgedRifling ChamberedCompensator CorkscrewRifling ExtendedBarrel
+Roll: AccuricedRounds | UnderPressure HighImpactReserves
+Roll: AccuricedRounds | ZenMoment HighImpactReserves
+Roll: AccuricedRounds | PerpetualMotion HighImpactReserves
+Roll: AccuricedRounds | HeatingUp KillClip
 
 
-// HorrorsLeast(Adept) # TODO
+// HorrorsLeast(Adept)
+
+/PvE: Stability | ArrowheadBrake ChamberedCompensator CorkscrewRifling ExtendedBarrel
+Roll: AccuricedRounds TacticalMag | PerpetualMotion Frenzy
+Roll: AccuricedRounds TacticalMag | UnderPressure Frenzy
+
+/PvP: Range | HammerForgedRifling ChamberedCompensator CorkscrewRifling ExtendedBarrel
+Roll: AccuricedRounds | UnderPressure HighImpactReserves
+Roll: AccuricedRounds | ZenMoment HighImpactReserves
+Roll: AccuricedRounds | PerpetualMotion HighImpactReserves
+Roll: AccuricedRounds | HeatingUp KillClip
 
 
 // SiliconNeuroma
@@ -1980,16 +2073,64 @@ Roll: HighCaliberRounds RicochetRounds | TunnelVision EyeOfTheStorm
 Roll: HighCaliberRounds RicochetRounds | TunnelVision VorpalWeapon
 
 
-// BurdenOfGuilt # TODO
+// BurdenOfGuilt
+
+/PvE: ChargeTime Stability Range | ArrowheadBrake CorkscrewRifling ExtendedBarrel ChamberedCompensator
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | StatsForAll ChillClip
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | PerpetualMotion ChillClip
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | StatsForAll Swashbuckler
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | StatsForAll SuccessfulWarmUp
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | PerpetualMotion Swashbuckler
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | PerpetualMotion SuccessfulWarmUp
+
+/PvP: Range Stability ChargeTime | HammerForgedRifling FullBore CorkscrewRifling ArrowheadBrake ExtendedBarrel
+Roll: AcceleratedCoils ProjectionFuse | ElementalCapacitor HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | PerpetualMotion HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | WellRounded HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | KillingWind SuccessfulWarmUp
+Roll: AcceleratedCoils ProjectionFuse | PerpetualMotion SuccessfulWarmUp
 
 
-// BurdenOfGuilt(Adept) # TODO
+// BurdenOfGuilt(Adept)
+
+/PvE: ChargeTime Stability Range | ArrowheadBrake CorkscrewRifling ExtendedBarrel ChamberedCompensator
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | StatsForAll ChillClip
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | PerpetualMotion ChillClip
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | StatsForAll Swashbuckler
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | StatsForAll SuccessfulWarmUp
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | PerpetualMotion Swashbuckler
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | PerpetualMotion SuccessfulWarmUp
+
+/PvP: Range Stability ChargeTime | HammerForgedRifling FullBore CorkscrewRifling ArrowheadBrake ExtendedBarrel
+Roll: AcceleratedCoils ProjectionFuse | ElementalCapacitor HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | PerpetualMotion HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | WellRounded HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | KillingWind SuccessfulWarmUp
+Roll: AcceleratedCoils ProjectionFuse | PerpetualMotion SuccessfulWarmUp
 
 
-// Forgiveness # TODO
+// Forgiveness
+
+/PvE: ReloadSpeed Stability Range | HammerForgedRifling CorkscrewRifling ArrowheadBrake FullBore
+Roll: FlaredMagwell RicochetRounds LightMag | Subsistence MultikillClip
+Roll: FlaredMagwell RicochetRounds LightMag | Demolitionist AdrenalineJunkie
+
+/PvP: Range Handling Stability | HammerForgedRifling CorkscrewRifling ArrowheadBrake FullBore
+Roll: RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
+Roll: RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
+Roll: RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
 
 
-// Forgiveness(Adept) # TODO
+// Forgiveness(Adept)
+
+/PvE: ReloadSpeed Stability Range | HammerForgedRifling CorkscrewRifling ArrowheadBrake FullBore
+Roll: FlaredMagwell RicochetRounds LightMag | Subsistence MultikillClip
+Roll: FlaredMagwell RicochetRounds LightMag | Demolitionist AdrenalineJunkie
+
+/PvP: Range Handling Stability | HammerForgedRifling CorkscrewRifling ArrowheadBrake FullBore
+Roll: RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
+Roll: RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
+Roll: RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
 
 --------------------------------------------------
 ##Activity: Trials (Y4)
@@ -2619,10 +2760,10 @@ Roll: ProjectionFuse LiquidCoils | PerpetualMotion SuccessfulWarmUp
 Roll: ProjectionFuse LiquidCoils | Slideways SuccessfulWarmUp
 
 /PvP: Range Stability | HammerForgedRifling FullBore CorkscrewRifling ArrowheadBrake ExtendedBarrel
-Roll: ProjectionFuse | HeatingUp SuccessfulWarmUp
-Roll: ProjectionFuse | PerpetualMotion SuccessfulWarmUp
-Roll: ProjectionFuse | FirmlyPlanted SuccessfulWarmUp
-Roll: ProjectionFuse | Slideways SuccessfulWarmUp
+Roll: AcceleratedCoils ProjectionFuse | HeatingUp SuccessfulWarmUp
+Roll: AcceleratedCoils ProjectionFuse | PerpetualMotion SuccessfulWarmUp
+Roll: AcceleratedCoils ProjectionFuse | FirmlyPlanted SuccessfulWarmUp
+Roll: AcceleratedCoils ProjectionFuse | Slideways SuccessfulWarmUp
 
 
 // PointedInquiry
@@ -2676,8 +2817,10 @@ Roll: FiberglassArrowShaft StraightFletching | RapidHit ExplosiveHead
 Roll: FiberglassArrowShaft StraightFletching | RapidHit Swashbuckler
 
 /PvP: DrawTime Accuracy ReloadSpeed | PolymerString ElasticString FlexibleString TactileString
-Roll: FiberglassArrowShaft StraightFletching | MovingTarget ExplosiveHead
+Roll: FiberglassArrowShaft StraightFletching | MovingTarget Rangefinder
+Roll: FiberglassArrowShaft StraightFletching | Quickdraw Rangefinder
 Roll: FiberglassArrowShaft StraightFletching | MovingTarget Swashbuckler
+Roll: FiberglassArrowShaft StraightFletching | MovingTarget ExplosiveHead
 
 
 // Bonechiller
@@ -3218,6 +3361,10 @@ Roll: AccuricedRounds TacticalMag | KillingWind KillClip
 Roll: LiquidCoils EnhancedBattery | LeadFromGold VorpalWeapon
 Roll: LiquidCoils EnhancedBattery | UnderPressure VorpalWeapon
 Roll: LiquidCoils EnhancedBattery | FeedingFrenzy VorpalWeapon
+
+/PvP: Range Stability | RedDotMicro CleanshotIS RedDot2MOA HitmarkIS
+Roll: AcceleratedCoils ProjectionFuse | UnderPressure HighImpactReserves
+Roll: AcceleratedCoils ProjectionFuse | UnderPressure BackupPlan
 
 
 // EternalBlazon
