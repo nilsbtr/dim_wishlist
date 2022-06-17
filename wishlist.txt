@@ -1,5 +1,5 @@
 title: Shaxxs Nightclub Wishlist, Version: 2.17.1.4
-description: Last Updated: 17.06.2022 (Season 17); Added 7 new weapons + minor changes
+description: Last Updated: 18.06.2022 (Season 17); Added 7 new weapons + minor changes
 
 --------------------------------------------------
 ##Season of the Haunted (S17)

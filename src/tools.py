@@ -1,11 +1,40 @@
+import os
+from datetime import datetime
+import shutil
+
 from const import colors, files
 
 
 def create_backup():  # Creates a backup file inside /backup
-    with open(files.TARGET) as source, open('src/backup/wishlist.txt', 'w') as target:
+    now = datetime.now()
+    today = now.strftime("%y%m%d")
+    time = now.strftime('/%H%M_')
+
+    path = f'src/backup/{today}'
+    if not os.path.exists(path):
+        os.makedirs(path)
+
+    with open(files.SOURCE) as source, open(path + time + 'wishlistRAW.txt', 'w') as target:
         for line in source:
             target.write(line)
-    print(f'{colors.RED}[FILE]{colors.END} Backup created! ({target.name})')
+
+    with open(files.TARGET) as source, open(path + time + 'wishlist.txt', 'w') as target:
+        for line in source:
+            target.write(line)
+
+    print(f'{colors.RED}[FILE]{colors.END} Backup created! ({path})')
+
+    path = os.path.dirname(os.path.abspath('main.py')) + '\\src\\backup'
+    folders = []
+
+    for root, dirs, filelist in os.walk(path):
+        for directory in dirs:
+            folders.append(directory)
+
+    if len(folders) > 5:
+        folders = list(map(int, folders))
+        folders.sort()
+        shutil.rmtree(f'src/backup/{folders[0]}')
 
 
 def create_overview():
