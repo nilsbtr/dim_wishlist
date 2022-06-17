@@ -178,7 +178,7 @@
 // Fortissimo11
 // PunchingOut
 // RoyalEntry
-// StridentWhistle # TODO
+// StridentWhistle
 // TheThirdAxiom
 // XenoclastIV
 --------------------------------------------------
@@ -186,7 +186,7 @@
 --------------------------------------------------
 // CrisisInverted
 // FrozenOrbit
-// Riptide # TODO
+// Riptide
 // SorrowsVerse
 // StarsInShadow
 // SurvivorsEpitaph
@@ -198,19 +198,19 @@
 // BorrowedTime
 // BottomDollar
 // CrowdPleaser
-// DeadWeight # TODO
+// DeadWeight
 // HerodC
 // ServantLeader
 // TrinarySystem
 --------------------------------------------------
 ##Activity: Nightfall (Y5)
 --------------------------------------------------
-// DFA # TODO
-// DFA(Adept) # TODO
+// DFA
+// DFA(Adept)
 // DutyBound
 // DutyBound(Adept)
-// HorrorsLeast # TODO
-// HorrorsLeast(Adept) # TODO
+// HorrorsLeast
+// HorrorsLeast(Adept)
 // SiliconNeuroma
 // SiliconNeuroma(Adept)
 --------------------------------------------------
@@ -237,10 +237,10 @@
 --------------------------------------------------
 // AishasEmbrace
 // AishasEmbrace(Adept)
-// BurdenOfGuilt # TODO
-// BurdenOfGuilt(Adept) # TODO
-// Forgiveness # TODO
-// Forgiveness(Adept) # TODO
+// BurdenOfGuilt
+// BurdenOfGuilt(Adept)
+// Forgiveness
+// Forgiveness(Adept)
 --------------------------------------------------
 ##Activity: Trials (Y4)
 --------------------------------------------------

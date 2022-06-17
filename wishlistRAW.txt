@@ -1085,7 +1085,6 @@ Roll: LiquidCoils AcceleratedCoils | FeedingFrenzy Rampage
 Roll: AcceleratedCoils ProjectionFuse | UnderPressure HighImpactReserves
 Roll: AcceleratedCoils ProjectionFuse | UnderPressure BackupPlan
 
-
 --------------------------------------------------
 ##Raid: Last Wish
 --------------------------------------------------
