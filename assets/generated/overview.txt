@@ -274,8 +274,8 @@
 --------------------------------------------------
 // FrontiersCry
 // RazorsEdge
-// TheHerosBurden # TODO
-// TheWizenedRebuke # TODO
+// TheHerosBurden
+// TheWizenedRebuke
 --------------------------------------------------
 ##Activity: Iron Banner (Y4)
 --------------------------------------------------
@@ -356,10 +356,10 @@
 --------------------------------------------------
 ##Patrol: World Pool (S17)
 --------------------------------------------------
-// EnyoD # TODO
-// GalluRR3 # TODO
-// Lunulata4b # TODO
-// Staccato46 # TODO
+// EnyoD
+// GalluRR3
+// Lunulata4b
+// Staccato46
 --------------------------------------------------
 ##Patrol: World Pool (S16)
 --------------------------------------------------
