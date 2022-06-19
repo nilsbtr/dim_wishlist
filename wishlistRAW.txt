@@ -98,8 +98,6 @@ Roll: ProjectionFuse TacticalBattery | Rangefinder KillingTally
 Roll: ProjectionFuse TacticalBattery | Rangefinder Wellspring
 Roll: ProjectionFuse TacticalBattery | HeatingUp Swashbuckler
 Roll: ProjectionFuse TacticalBattery | WellRounded KillingTally
-Roll: ProjectionFuse TacticalBattery | HeatingUp Wellspring
-Roll: ProjectionFuse TacticalBattery | WellRounded Wellspring
 
 
 // NezarecsWhisper
@@ -2482,10 +2480,41 @@ Roll: SwordmastersGuard | Wellspring Thresh
 Roll: BurstGuard HeavyGuard | TirelessBlade AssassinsBlade
 
 
-// TheHerosBurden # TODO
+// TheHerosBurden
+
+/PvE: ReloadSpeed Range Stability | EnduringBlade HungryEdge
+Roll: LightMag RicochetRounds | FeedingFrenzy KillClip
+Roll: LightMag RicochetRounds | FeedingFrenzy VorpalWeapon
+Roll: LightMag RicochetRounds | ZenMoment KillClip
+Roll: LightMag RicochetRounds | ZenMoment VorpalWeapon
+Roll: LightMag RicochetRounds | WellRounded VorpalWeapon
+
+/PvP: Range Handling Stability | EnduringBlade HungryEdge
+Roll: HighCaliberRounds RicochetRounds | ZenMoment IronReach
+Roll: HighCaliberRounds RicochetRounds | FragileFocus IronReach
+Roll: HighCaliberRounds RicochetRounds | AirAssault EyeOfTheStorm
+Roll: HighCaliberRounds RicochetRounds | TunnelVision KillClip
 
 
-// TheWizenedRebuke # TODO
+// TheWizenedRebuke
+
+/PvE: ChargeTime Stability Range | ArrowheadBrake Smallbore FullBore HammerForgedRifling ExtendedBarrel
+Roll: AcceleratedCoils EnhancedBattery | Subsistence SuccessfulWarmUp
+Roll: AcceleratedCoils EnhancedBattery | Subsistence VorpalWeapon
+Roll: AcceleratedCoils EnhancedBattery | Subsistence Cornered
+Roll: AcceleratedCoils EnhancedBattery | HeatingUp SuccessfulWarmUp
+Roll: AcceleratedCoils EnhancedBattery | HeatingUp VorpalWeapon
+Roll: AcceleratedCoils EnhancedBattery | HeatingUp Cornered
+
+/PvP: ChargeTime Range | ArrowheadBrake Smallbore FullBore HammerForgedRifling ExtendedBarrel
+Roll: AcceleratedCoils ProjectionFuse | MovingTarget IronGrip
+Roll: AcceleratedCoils ProjectionFuse | UnderPressure IronGrip
+Roll: AcceleratedCoils ProjectionFuse | MovingTarget BackupPlan
+Roll: AcceleratedCoils ProjectionFuse | UnderPressure BackupPlan
+Roll: AcceleratedCoils ProjectionFuse | SteadyHands IronGrip
+Roll: AcceleratedCoils ProjectionFuse | SteadyHands BackupPlan
+Roll: AcceleratedCoils ProjectionFuse | MovingTarget SuccessfulWarmUp
+Roll: AcceleratedCoils ProjectionFuse | UnderPressure SuccessfulWarmUp
 
 --------------------------------------------------
 ##Activity: Iron Banner (Y4)
@@ -3083,16 +3112,62 @@ Roll: RicochetRounds HighCaliberRounds | KillingWind OpeningShot
 ##Patrol: World Pool (S17)
 --------------------------------------------------
 
-// EnyoD # TODO
+// EnyoD
+
+/PvE: ReloadSpeed Stability Range | HammerForgedRifling Smallbore FullBore ExtendedBarrel
+Roll: TacticalMag AccuricedRounds FlaredMagwell | FeedingFrenzy MultikillClip
+Roll: TacticalMag AccuricedRounds FlaredMagwell | FeedingFrenzy Rampage
+Roll: TacticalMag AccuricedRounds FlaredMagwell | FeedingFrenzy Surrounded
+Roll: TacticalMag AccuricedRounds FlaredMagwell | Encore Rampage
+Roll: TacticalMag AccuricedRounds FlaredMagwell | Encore Surrounded
+Roll: TacticalMag AccuricedRounds FlaredMagwell | SteadyHands SympatheticArsenal
+
+/PvP: Range Handling Stability | HammerForgedRifling Smallbore FullBore ExtendedBarrel
+Roll: AccuricedRounds | TunnelVision MultikillClip
+Roll: AccuricedRounds | Encore MultikillClip
+Roll: AccuricedRounds | SteadyHands MultikillClip
 
 
-// GalluRR3 # TODO
+// GalluRR3
+
+/PvE: Stability ReloadSpeed | FlutedBarrel ArrowheadBrake CorkscrewRifling HammerForgedRifling
+Roll: TacticalMag AppendedMag | Overflow FocusedFury
+Roll: TacticalMag AppendedMag | Overflow GoldenTricorn
+Roll: TacticalMag AppendedMag | ShootToLoot FocusedFury
+
+/PvP: Range Stability | FlutedBarrel ArrowheadBrake CorkscrewRifling HammerForgedRifling
+Roll: AccuricedRounds TacticalMag | SteadyHands SnapshotSights
+Roll: AccuricedRounds TacticalMag | NoDistractions SnapshotSights
 
 
-// Lunulata4b # TODO
+// Lunulata4b
+
+/PvE: DrawTime Accuracy ReloadSpeed | PolymerString ElasticString FlexibleString TactileString
+Roll: CompactArrowShaft StraightFletching | Ensemble Headstone
+Roll: CompactArrowShaft StraightFletching | Ensemble SuccessfulWarmUp
+Roll: CompactArrowShaft StraightFletching | ShootToLoot Headstone
+Roll: CompactArrowShaft StraightFletching | ShootToLoot SuccessfulWarmUp
+Roll: CompactArrowShaft StraightFletching | Ensemble GoldenTricorn
+Roll: CompactArrowShaft StraightFletching | ShootToLoot GoldenTricorn
+
+/PvP: Accuracy DrawTime | PolymerString ElasticString FlexibleString TactileString
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder SuccessfulWarmUp
+Roll: StraightFletching FiberglassArrowShaft | SteadyHands SuccessfulWarmUp
 
 
-// Staccato46 # TODO
+// Staccato46
+
+/PvE: Range Stability ReloadSpeed | CorkscrewRifling ExtendedBarrel Smallbore FlutedBarrel
+Roll: AccuricedRounds TacticalMag | TripleTap ExplosivePayload
+Roll: AccuricedRounds TacticalMag | TripleTap Incandescent
+Roll: AccuricedRounds TacticalMag | TripleTap Rampage
+Roll: AccuricedRounds TacticalMag | Outlaw ExplosivePayload
+Roll: AccuricedRounds TacticalMag | Outlaw Incandescent
+Roll: AccuricedRounds TacticalMag | Outlaw Rampage
+
+/PvP: Range Stability | CorkscrewRifling ExtendedBarrel Smallbore FlutedBarrel
+Roll: AccuricedRounds | UnderPressure ExplosivePayload
+Roll: AccuricedRounds | TripleTap ExplosivePayload
 
 --------------------------------------------------
 ##Patrol: World Pool (S16)
