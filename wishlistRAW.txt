@@ -2,21 +2,6 @@
 ##Season of the Haunted (S17)
 --------------------------------------------------
 
-// TesTer
-
-/PvE: Range ReloadSpeed | CorkscrewRifling FullBore HammerForgedRifling ExtendedBarrel
-Roll: RicochetRounds HighCaliberRounds AppendedMag | TripleTap Frenzy
-Roll: RicochetRounds HighCaliberRounds AppendedMag | TripleTap Demolitionist
-Roll: RicochetRounds HighCaliberRounds AppendedMag | Outlaw Rampage
-
-/PvP: Range Handling Stability | HammerForgedRifling CorkscrewRifling FullBore ArrowheadBrake
-Roll: HighCaliberRounds RicochetRounds | SnapshotSights Rangefinder
-Roll: HighCaliberRounds RicochetRounds | EyeOfTheStorm Rangefinder
-Roll: HighCaliberRounds RicochetRounds | SnapshotSights OpeningShot
-Roll: HighCaliberRounds RicochetRounds | EyeOfTheStorm OpeningShot
-Roll: HighCaliberRounds RicochetRounds | EyeOfTheStorm Rampage
-
-
 // Austringer
 
 /PvE: Range ReloadSpeed | CorkscrewRifling FullBore HammerForgedRifling ExtendedBarrel
