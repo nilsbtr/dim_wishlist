@@ -29,7 +29,6 @@ class WeaponRoll:
         self.type = None  # pve/pvp/...
         self.mws = None  # masterworks
         self.barrels = []  # barrels
-        self.note = None  # custom note
         self.rolls = []  # list with all rolls
 
     # Getters
@@ -42,9 +41,6 @@ class WeaponRoll:
 
     def get_barrels(self):
         return self.barrels
-
-    def get_note(self):
-        return self.note
 
     def get_rolls(self):
         return self.rolls
@@ -59,9 +55,6 @@ class WeaponRoll:
 
     def set_barrels(self, new):
         self.barrels = new
-
-    def set_note(self, new):
-        self.note = new
 
     def app_roll(self, new):
         self.rolls.append(new)

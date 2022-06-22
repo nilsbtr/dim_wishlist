@@ -15,7 +15,8 @@ def main():
         length = (len(source.readlines()))
         print(f'{colors.RED}[FILE]{colors.END}',
               source.name, 'loaded with', length, 'lines.')
-    writer.write_header()  # backups, clears target file and writes header
+
+    writer.write_header()  # clears target file and writes header
 
     start = time.time()
 
