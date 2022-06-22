@@ -4,7 +4,7 @@ import define as dic
 from const import colors, files
 
 
-def get_version():  # Gets the prior version
+def get_version():  # gets the prior version
     with open(files.TARGET) as target:
         title = target.readline()
         if title.startswith('title:'):
@@ -15,12 +15,12 @@ def get_version():  # Gets the prior version
             return 'none'
 
 
-def clear_target():  # Clears the target file
+def clear_target():  # clears the target file
     with open(files.TARGET, 'w') as target:
         print(f'{colors.RED}[FILE]{colors.END}', target.name, 'cleared.')
 
 
-def write_header():  # Writes title and description
+def write_header():  # writes title and description
     old = get_version()
     version = input(
         f'{colors.VIOLET}[USER]{colors.END} Version {colors.BLACK}({old}){colors.END}: ')
@@ -69,7 +69,7 @@ def write_weapon(weapon):  # writer for all legendary weapons
                 target.write(f'// {ltrait} + {rtrait}\n')
                 target.write(create_note(wproll))
 
-                sgr = []  # saves semi god-rolls
+                semigr = []  # saves semi god-rolls
 
                 for mag in mags:
                     check_key(weapon.get_name(), mag, dic.suppl)
@@ -77,9 +77,9 @@ def write_weapon(weapon):  # writer for all legendary weapons
                         check_key(weapon.get_name(), barrel, dic.suppl)
                         target.write(
                             f'{pre}{create_line(barrel, mag, ltrait, rtrait)}\n')
-                    sgr.append(
+                    semigr.append(
                         f'{pre}{dic.suppl.get(mag)},{dic.traits.get(ltrait)},{dic.traits.get(rtrait)}\n')
-                for line in sgr:
+                for line in semigr:
                     target.write(line)
                 target.write(
                     f'{pre}{dic.traits.get(ltrait)},{dic.traits.get(rtrait)}\n')
@@ -94,11 +94,11 @@ def check_key(weapon, key, dict):  # raising error for non existent key
 
 
 # dimwishlist:item=weapon&perks=barrel,mag,trait_1,trait_2
-def create_line(barrel, mag, ltrait, rtrait):
+def create_line(barrel, mag, ltrait, rtrait):  # return the right line format
     return f'{dic.suppl.get(barrel)},{dic.suppl.get(mag)},{dic.traits.get(ltrait)},{dic.traits.get(rtrait)}'
 
 
-def create_note(wproll):  # automatic creates a note with type and masterwork
+def create_note(wproll):  # creates a note with type and masterwork
     note = f'//notes:{wproll.get_type()}: '
     data = wproll.get_mws().split()
     for mw in data[:-1]:

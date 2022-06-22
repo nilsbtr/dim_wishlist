@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PunchedYou/wishlist_v2">
-    <img src="images/logo.png" alt="DIM" width="80" height="80">
+    <img src="https://i.imgur.com/9HaHzK4.png" alt="DIM Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Wishlist for Destiny Item Manager</h3>
@@ -18,6 +18,7 @@
 </div>
 
 ## Table of Contents
+
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
