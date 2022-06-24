@@ -19,7 +19,7 @@ Roll: HighCaliberRounds RicochetRounds | EyeOfTheStorm Rampage
 
 // Beloved
 
-/PvP: Handling Range | FlutedBarrel ArrowheadBrake ChamberedCompensator CorkscrewRifling
+/PvP: Handling Range | FullBore FlutedBarrel HammerForgedRifling CorkscrewRifling
 Roll: RicochetRounds LightMag HighCaliberRounds | SnapshotSights MovingTarget
 Roll: RicochetRounds LightMag HighCaliberRounds | SnapshotSights Quickdraw
 Roll: RicochetRounds LightMag HighCaliberRounds | FirmlyPlanted MovingTarget
@@ -42,7 +42,7 @@ Roll: HighVelocityRounds | TrackingModule ChainReaction
 
 // CALUSMiniTool
 
-/PvE: Range Stability ReloadSpeed | CorkscrewRifling ArrowheadBrake ExtendedBarrel ChamberedCompensator
+/PvE: Range Stability ReloadSpeed | Smallbore ArrowheadBrake ExtendedBarrel ChamberedCompensator
 Roll: AccuricedRounds TacticalMag AppendedMag | ThreatDetector Incandescent
 Roll: AccuricedRounds TacticalMag AppendedMag | Unrelenting Incandescent
 Roll: AccuricedRounds TacticalMag AppendedMag | ThreatDetector Surrounded
@@ -55,7 +55,7 @@ Roll: AccuricedRounds | MovingTarget EyeOfTheStorm
 
 // Drang(Baroque)
 
-/PvE: Range Stability ReloadSpeed | CorkscrewRifling ArrowheadBrake ExtendedBarrel ChamberedCompensator
+/PvE: Range Stability ReloadSpeed | Smallbore ArrowheadBrake ExtendedBarrel ChamberedCompensator
 Roll: AccuricedRounds TacticalMag AppendedMag | WellRounded Incandescent
 Roll: AccuricedRounds TacticalMag AppendedMag | Wellspring Incandescent
 
@@ -1208,15 +1208,15 @@ Roll: AcceleratedCoils ProjectionFuse | SnapshotSights BackupPlan
 // Unforgiven
 
 /PvE: Range ReloadSpeed Stability | CorkscrewRifling ChamberedCompensator HammerForgedRifling ArrowheadBrake
-Roll: RicochetRounds HighCaliberRounds AppendedMag | FeedingFrenzy Frenzy
-Roll: RicochetRounds HighCaliberRounds AppendedMag | FeedingFrenzy Rampage
-Roll: RicochetRounds HighCaliberRounds AppendedMag | Demolitionist AdrenalineJunkie
-Roll: RicochetRounds HighCaliberRounds AppendedMag | WellRounded AdrenalineJunkie
-Roll: RicochetRounds HighCaliberRounds AppendedMag | FeedingFrenzy GoldenTricorn
+Roll: RicochetRounds LightMag AppendedMag | FeedingFrenzy Frenzy
+Roll: RicochetRounds LightMag AppendedMag | FeedingFrenzy Rampage
+Roll: RicochetRounds LightMag AppendedMag | Demolitionist AdrenalineJunkie
+Roll: RicochetRounds LightMag AppendedMag | WellRounded AdrenalineJunkie
+Roll: RicochetRounds LightMag AppendedMag | FeedingFrenzy GoldenTricorn
 
 /PvP: Range Stability ReloadSpeed | CorkscrewRifling ChamberedCompensator ArrowheadBrake HammerForgedRifling
-Roll: RicochetRounds HighCaliberRounds | TunnelVision Rampage
-Roll: RicochetRounds HighCaliberRounds | SteadyHands Rampage
+Roll: RicochetRounds ArmorPiercingRounds | TunnelVision GoldenTricorn
+Roll: RicochetRounds ArmorPiercingRounds | SteadyHands GoldenTricorn
 
 
 // Stormchaser
@@ -1224,12 +1224,12 @@ Roll: RicochetRounds HighCaliberRounds | SteadyHands Rampage
 /PvE: ChargeTime ReloadSpeed Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator HammerForgedRifling
 Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge FiringLine
 Roll: AcceleratedCoils EnhancedBattery LiquidCoils | RapidHit FiringLine
-Roll: AcceleratedCoils EnhancedBattery LiquidCoils | AutoLoadingHolster FiringLine
 Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge Frenzy
 Roll: AcceleratedCoils EnhancedBattery LiquidCoils | RapidHit Frenzy
-Roll: AcceleratedCoils EnhancedBattery LiquidCoils | AutoLoadingHolster Frenzy
 Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge VorpalWeapon
 Roll: AcceleratedCoils EnhancedBattery LiquidCoils | RapidHit VorpalWeapon
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | AutoLoadingHolster FiringLine
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | AutoLoadingHolster Frenzy
 Roll: AcceleratedCoils EnhancedBattery LiquidCoils | AutoLoadingHolster VorpalWeapon
 
 
@@ -1263,7 +1263,7 @@ Roll: AccuricedRounds | Encore Rampage
 
 // 1000YardStare
 
-/PvP: Range Handling Stability | HammerForgedRifling FlutedBarrel CorkscrewRifling ArrowheadBrake
+/PvP: Range Handling Stability | FullBore FlutedBarrel HammerForgedRifling CorkscrewRifling
 Roll: AccuricedRounds TacticalMag | Quickdraw SnapshotSights
 Roll: AccuricedRounds TacticalMag | FirmlyPlanted SnapshotSights
 Roll: AccuricedRounds TacticalMag | Quickdraw MovingTarget
