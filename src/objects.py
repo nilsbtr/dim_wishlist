@@ -4,7 +4,6 @@ Weapon:     name => String,
 WeaponRoll: type => String,
             mws => String
             barrels => String
-            note => None
             rolls => List
 """
 

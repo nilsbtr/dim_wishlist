@@ -45,7 +45,7 @@ def main():
     tools.create_missing()
     tools.create_overview()
 
-    print(f'{colors.RED}[FILE]{colors.END} {colors.GREEN}File successfully converted!{colors.END} {weapon_counter}/{len(dic.weapons) + len(dic.exoticlist)} possible Weapons found.')
+    print(f'{colors.RED}[FILE]{colors.END} {colors.GREEN}File successfully converted!{colors.END} {weapon_counter}/{len(dic.weapons)} possible Weapons found.')
     print(f'{colors.BLACK}Conversion performed in {colors.VIOLET}{round(end-start, 5)} {colors.BLACK}seconds{colors.END}')
 
 
@@ -73,10 +73,7 @@ def grab_data(weapon_name, pos):  # saves all data from a weapon into a weapon o
                 line = line.replace('Roll: ', '').strip()
                 wproll.app_roll(line.split(' | '))
             line = source.readline()
-        if weapon_name in dic.exoticlist:
-            writer.write_exotic(weapon)
-        else:
-            writer.write_weapon(weapon)
+        writer.write_weapon(weapon)
         return ((source.tell() - len(line)) - 2)
 
 

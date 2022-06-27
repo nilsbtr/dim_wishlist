@@ -22749,7 +22749,7 @@ dimwishlist:item=3400256755&perks=1749209109,3913600130
 ##Exotics
 --------------------------------------------------
 
-// DeadMansTale PvE
+// DeadMansTale PvE | None
 
 // VorpalWeapon + HandLaidStock
 //notes:PvE
@@ -22804,7 +22804,7 @@ dimwishlist:item=3654674561&perks=1885400500,1168162263,4259401308
 dimwishlist:item=3654674561&perks=1561002382,1168162263,4259401308
 dimwishlist:item=3654674561&perks=1168162263,4259401308
 
-// DeadMansTale PvP
+// DeadMansTale PvP | None
 
 // VorpalWeapon + ShortActionStock
 //notes:PvP
@@ -22969,7 +22969,7 @@ dimwishlist:item=-3654674561&perks=1561002382,2450788523,4259401308
 dimwishlist:item=-3654674561&perks=3142289711,2450788523,4259401308
 dimwishlist:item=-3654674561&perks=2450788523,4259401308
 
-// EdgeOfAction PvE
+// EdgeOfAction PvE | None
 
 // RemoteShield + ShortActionStock
 //notes:PvE
@@ -22990,7 +22990,7 @@ dimwishlist:item=2535142413&perks=3721627275,2379536009,3465198467
 dimwishlist:item=2535142413&perks=679225683,2379536009,3465198467
 dimwishlist:item=2535142413&perks=2379536009,3465198467
 
-// EdgeOfConcurrence PvE
+// EdgeOfConcurrence PvE | None
 
 // LightningSeeker + ShortActionStock
 //notes:PvE
@@ -23011,7 +23011,7 @@ dimwishlist:item=542203595&perks=3721627275,844190854,3465198467
 dimwishlist:item=542203595&perks=679225683,844190854,3465198467
 dimwishlist:item=542203595&perks=844190854,3465198467
 
-// EdgeOfIntent PvE
+// EdgeOfIntent PvE | None
 
 // RestorativeTurret + ShortActionStock
 //notes:PvE
@@ -23032,7 +23032,7 @@ dimwishlist:item=14194600&perks=3721627275,3492337375,3465198467
 dimwishlist:item=14194600&perks=679225683,3492337375,3465198467
 dimwishlist:item=14194600&perks=3492337375,3465198467
 
-// Hawkmoon PvP
+// Hawkmoon PvP | None
 
 // Rangefinder + SmoothGrip
 //notes:PvP
@@ -23116,7 +23116,7 @@ dimwishlist:item=-3856705927&perks=839105230,1431678320,2450788523,862848869
 dimwishlist:item=-3856705927&perks=1431678320,2450788523,862848869
 dimwishlist:item=-3856705927&perks=2450788523,862848869
 
-// OsteoStriga PvE
+// OsteoStriga PvE | None
 
 // ToxicOverload + FittedStock
 //notes:PvE
@@ -23173,7 +23173,7 @@ dimwishlist:item=46524085&perks=106909392,4015745376,3465198467
 dimwishlist:item=46524085&perks=3177308360,4015745376,3465198467
 dimwishlist:item=46524085&perks=4015745376,3465198467
 
-// OsteoStriga PvP
+// OsteoStriga PvP | None
 
 // ToxicOverload + ShortActionStock
 //notes:PvP

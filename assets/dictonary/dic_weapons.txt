@@ -61,6 +61,7 @@ CrisisInverted,2888266564
 CrowdPleaser,3565520715
 CrownSplitter,2782325302
 DarkestBefore,2481758391
+DeadMansTale,3654674561
 DeadWeight,3738678140
 DeafeningWhisper,981718087
 DeathAdder,2742490609
@@ -74,6 +75,9 @@ Drang(Baroque),502356570
 DreamBreaker,2931957300
 DutyBound,435216110
 DutyBound(Adept),1135050595
+EdgeOfAction,2535142413
+EdgeOfConcurrence,542203595
+EdgeOfIntent,14194600
 EmpiricalEvidence,2607304614
 EmptyVessel,4255586669
 EnigmasDraw,1723380073
@@ -122,6 +126,7 @@ GnawingHunger,821154603
 Gridskipper,1621558458
 HailingConfusion,2870169846
 HalfTruths,3257091166
+Hawkmoon,3856705927
 Heretic,3067821200
 Heritage,4248569242
 HerodC,1788603939
@@ -181,6 +186,7 @@ OgmaPR6,2342054803
 OmniscientEye,3454326177
 OneSmallStep,1016668089
 OrewingsMaul,2108920981
+OsteoStriga,46524085
 OutrageousFortune,4146702548
 PalmyraB,3489657138
 PardonOurDust,3849810018
