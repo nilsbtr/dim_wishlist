@@ -1090,6 +1090,7 @@ Roll: AcceleratedCoils ProjectionFuse | UnderPressure BackupPlan
 // AgeOldBond
 
 /PvE: Range Stability | ArrowheadBrake CorkscrewRifling ChamberedCompensator ExtendedBarrel
+Roll: LightMag | FourthTimesTheCharm Rampage
 Roll: RicochetRounds LightMag HighCaliberRounds | TripleTap KillClip
 Roll: RicochetRounds HighCaliberRounds | TripleTap Dragonfly
 
@@ -1110,17 +1111,20 @@ Roll: HighVelocityRounds | TrackingModule AutoLoadingHolster
 // ChatteringBone
 
 /PvE: ReloadSpeed Stability | ArrowheadBrake CorkscrewRifling ChamberedCompensator ExtendedBarrel
+Roll: LightMag | KillClip HighImpactReserves
 Roll: RicochetRounds HighCaliberRounds | Outlaw Rampage
 Roll: RicochetRounds HighCaliberRounds | Outlaw HighImpactReserves
 
 /PvP: Stability Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator ExtendedBarrel
 Roll: HighCaliberRounds RicochetRounds | Rangefinder UnderPressure
 Roll: HighCaliberRounds RicochetRounds | Rangefinder HighImpactReserves
+Roll: LightMag | KillClip HighImpactReserves
 
 
 // NationOfBeasts
 
 /PvE: Range ReloadSpeed | FullBore HammerForgedRifling CorkscrewRifling ExtendedBarrel
+Roll: LightMag | Outlaw Dragonfly
 Roll: AccuricedRounds TacticalMag | Outlaw Rampage
 Roll: AccuricedRounds TacticalMag | Outlaw ExplosivePayload
 Roll: AccuricedRounds TacticalMag | Outlaw KillClip
@@ -1156,10 +1160,12 @@ Roll: RicochetRounds | SnapshotSights Rampage
 // Transfiguration
 
 /PvE: Stability ReloadSpeed Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator Smallbore FlutedBarrel
+Roll: LightMag | Outlaw ExplosivePayload
 Roll: DropMag TacticalMag AccuricedRounds | Rampage KillClip
 
 /PvP: ReloadSpeed Range | ArrowheadBrake CorkscrewRifling ChamberedCompensator Smallbore FlutedBarrel
 Roll: AccuricedRounds TacticalMag | ZenMoment MovingTarget
+Roll: LightMag | Outlaw ExplosivePayload
 
 
 // TyrannyOfHeaven
