@@ -3,6 +3,7 @@ class files:
     TARGET = 'wishlist.txt'
     STARRED = 'assets/starred.txt'
     EXOTICS = 'assets/exotics.txt'
+    CRAFT = 'assets/craftable.txt'
 
 
 class colors:  # https://stackoverflow.com/a/39452138
