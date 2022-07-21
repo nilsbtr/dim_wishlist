@@ -242,6 +242,7 @@ SnorriFR5,4114929480
 SojournersTale,599895591
 SolasScar,1313528549
 SolasScar(Adept),3847137620
+SomethingNew,1856262127
 SorrowsVerse,2496875173
 SpoilerAlert,2588048270
 Staccato46,4019668921

@@ -3849,6 +3849,10 @@ Roll: AccuricedRounds | PerpetualMotion Rampage
 
 // CompassRose
 
+/PvE: Range ReloadSpeed | 
+Roll: AssaultMag AccuricedRounds TacticalMag ExtendedMag | Surplus Incandescent
+Roll: AssaultMag AccuricedRounds TacticalMag ExtendedMag | LeadFromGold Incandescent
+
 /PvP: Range Handling | RifledBarrel Smallbore FullChoke
 Roll: AccuricedRounds AssaultMag | Quickdraw SnapshotSights
 Roll: AccuricedRounds AssaultMag | Quickdraw VorpalWeapon
@@ -3884,6 +3888,21 @@ Roll: RicochetRounds HighCaliberRounds | HeatingUp MultikillClip
 /PvP: Range Stability | ArrowheadBrake CorkscrewRifling ChamberedCompensator FlutedBarrel
 Roll: RicochetRounds HighCaliberRounds | TunnelVision MultikillClip
 Roll: RicochetRounds HighCaliberRounds | Rangefinder MultikillClip
+
+
+// SomethingNew
+
+/PvE: Range ReloadSpeed | HammerForgedRifling CorkscrewRifling FullBore Smallbore
+Roll: AppendedMag RicochetRounds HighCaliberRounds | Wellspring Headstone
+Roll: AppendedMag RicochetRounds HighCaliberRounds | Wellspring Demolitionist
+Roll: AppendedMag RicochetRounds HighCaliberRounds | FeedingFrenzy Headstone
+Roll: AppendedMag RicochetRounds HighCaliberRounds | FeedingFrenzy Demolitionist
+
+/PvP: Range Handling | HammerForgedRifling FullBore Smallbore
+Roll: HighCaliberRounds RicochetRounds | TripleTap MultikillClip
+Roll: HighCaliberRounds RicochetRounds | TunnelVision MultikillClip
+Roll: HighCaliberRounds RicochetRounds | TripleTap Harmony
+Roll: HighCaliberRounds RicochetRounds | TunnelVision Harmony
 
 
 // TheTitle
