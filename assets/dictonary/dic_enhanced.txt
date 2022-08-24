@@ -46,6 +46,7 @@ FullCourt,1905598698
 Genesis,1658784563
 GoldenTricorn,4290541820
 GraveRobber,402033656
+GutshotStraight,4200236906
 Harmony,2748801589
 Headseeker,4045335048
 Headstone,1171887445
@@ -74,6 +75,7 @@ Osmosis,777774560
 Outlaw,1347741687
 Overflow,2682205016
 PerpetualMotion,2014892510
+Pugilist,536173722
 PulseMonitor,1685378950
 Quickdraw,1961144892
 Rampage,288411554
@@ -88,6 +90,7 @@ RewindRounds,1563455254
 ShieldDisorient,3979224005
 ShootToLoot,2840833776
 SleightOfHand,1172098417
+Slickdraw,1942880504
 Slideways,2396422520
 SnapshotSights,4116820839
 SneakBow,1663363584
@@ -109,9 +112,11 @@ TripleTap,573122728
 TunnelVision,987673306
 Turnabout,2000295559
 Underdog,320071920
+UnderOver,183938251
 UnderPressure,3755250867
 Unrelenting,855168139
 UnstoppableForce,3102670337
+Voltshot,1720528630
 VorpalWeapon,3418165135
 WellRounded,2139363611
 Wellspring,2675361166

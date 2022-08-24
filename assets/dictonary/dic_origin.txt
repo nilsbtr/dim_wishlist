@@ -15,3 +15,8 @@ SurosSynergy,4008116374
 ToExcess,1905044254
 VanguardsVindication,744217850
 VeistStinger,3988215619
+
+HotSwap,1260401931
+RightHook,3907865655
+RunnethOver,120721526
+SearchParty,2250679103
