@@ -3,7 +3,12 @@ AmmitAR2
 BloodFeud
 BoudicaC
 BrigandsLaw
-CryMutiny
+DefianceOfYasmin
+DefianceOfYasmin(Harrowed)
+DoomOfChelchis
+DoomOfChelchis(Harrowed)
+MidhasReckoning
+MidhasReckoning(Harrowed)
 MindbendersAmbition
 MindbendersAmbition(Adept)
 NoReprieve
@@ -11,8 +16,12 @@ OutOfBounds
 Pizzicato22
 PlancksStride
 PurePoetry
+QullimsTerminus
+QullimsTerminus(Harrowed)
 RoarOfTheBear
 SailspyPitchglass
+SmiteOfMerain
+SmiteOfMerain(Harrowed)
 Taipan4FR
 TarnishedMettle
 TheInquisitor
@@ -22,3 +31,5 @@ TheMilitiasBirthright(Adept)
 WhistlersWhim
 WhistlersWhim(Adept)
 Yesteryear
+ZaoulisBane
+ZaoulisBane(Harrowed)

@@ -8,7 +8,9 @@ BxR55Battler
 CALUSMiniTool
 Cataclysmic
 ComeToPass
+DefianceOfYasmin
 Deliverance
+DoomOfChelchis
 Drang(Baroque)
 EdgeOfAction
 EdgeOfConcurrence
@@ -26,6 +28,7 @@ HollowDenial
 Insidious
 LikelySuspect
 LubraesRuin
+MidhasReckoning
 NezarecsWhisper
 NoReprieve
 OsteoStriga
@@ -34,11 +37,13 @@ PardonOurDust
 PieceOfMind
 PlancksStride
 PointedInquiry
+QullimsTerminus
 RagnhildD
 RecurrentImpact
 RedHerring
 RetracedPath
 SailspyPitchglass
+SmiteOfMerain
 Submission
 SweetSorrow
 Syncopation53
@@ -53,3 +58,4 @@ Thoughtless
 UnderYourSkin
 WastelanderM5
 WithoutRemorse
+ZaoulisBane

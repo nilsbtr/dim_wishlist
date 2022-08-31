@@ -65,18 +65,21 @@ CrimilsDagger,4292849692
 CrisisInverted,2888266564
 CrowdPleaser,3565520715
 CrownSplitter,2782325302
-CryMutiny,616582330
 DarkestBefore,2481758391
 DeadMansTale,3654674561
 DeadWeight,3738678140
 DeafeningWhisper,981718087
 DeathAdder,2742490609
+DefianceOfYasmin,3228096719
+DefianceOfYasmin(Harrowed),3503019618
 Deliverance,768621510
 Deliverance(Adept),2943293195
 DFA,575830664
 DFA(Adept),2006308129
 DirePromise,2742838701
 DistantTumulus,2807687156
+DoomOfChelchis,1937552980
+DoomOfChelchis(Harrowed),1184692845
 Drang(Baroque),502356570
 DreamBreaker,2931957300
 DutyBound,435216110
@@ -179,6 +182,8 @@ Lunulata4b,2513965917
 MainIngredient,253196586
 Matador64,2563012876
 MemoryInterdict,3165547384
+MidhasReckoning,3969066556
+MidhasReckoning(Harrowed),3904516037
 MindbendersAmbition,1094005544
 MindbendersAmbition(Adept),912150785
 MultimachCCX,3717177717
@@ -217,6 +222,8 @@ ProphetOfDoom,4020742303
 PunchingOut,378498222
 PurePoetry,2671639706
 Quickfang,2782325300
+QullimsTerminus,1321506184
+QullimsTerminus(Harrowed),3248429089
 RagnhildD,4225322581
 RazorsEdge,1796949035
 RecklessOracle,3385326721
@@ -253,6 +260,8 @@ ShiningSphere,136525518
 SiliconNeuroma,3355385170
 SiliconNeuroma(Adept),1387987271
 Sleepless,3740842661
+SmiteOfMerain,2221264583
+SmiteOfMerain(Harrowed),3407395594
 SnorriFR5,4114929480
 SojournersTale,599895591
 SolasScar,1313528549
@@ -356,5 +365,7 @@ WithoutRemorse,1478986057
 WolftoneDraw,3472875143
 XenoclastIV,2891672170
 Yesteryear,1141927949
+ZaoulisBane,431721920
+ZaoulisBane(Harrowed),291092617
 ZealotsReward,2209003210
 Zephyr,3400256755
