@@ -635,6 +635,129 @@ Roll: FiberglassArrowShaft StraightFletching | ArchersTempo Swashbuckler
 Roll: FiberglassArrowShaft StraightFletching | ArchersTempo OpeningShot
 
 --------------------------------------------------
+##Raid: Kingsfall
+--------------------------------------------------
+
+// ZaoulisBane
+
+/PvE: ReloadSpeed Range Stability | Smallbore CorkscrewRifling ChamberedCompensator
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | ExplosivePayload Firefly
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble Incandescent
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble OneForAll
+Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload Incandescent
+Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload OneForAll
+
+/PvP: Range Handling ReloadSpeed | Smallbore HammerForgedRifling CorkscrewRifling ArrowheadBrake
+Roll: AccuricedRounds TacticalMag | OpeningShot EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
+
+
+// ZaoulisBane(Harrowed)
+
+/PvE: ReloadSpeed Range Stability | Smallbore CorkscrewRifling ChamberedCompensator
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | ExplosivePayload Firefly
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble Incandescent
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble OneForAll
+Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload Incandescent
+Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload OneForAll
+
+/PvP: Range Handling ReloadSpeed | Smallbore HammerForgedRifling CorkscrewRifling ArrowheadBrake
+Roll: AccuricedRounds TacticalMag | OpeningShot EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
+
+
+// SmiteOfMerain
+
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
+Roll: TacticalMag AccuricedRounds | Demolitionist AdrenalineJunkie
+
+/PvP: Range Stability | Smallbore ExtendedBarrel HammerForgedRifling
+Roll: AccuricedRounds TacticalMag | MovingTarget EyeOfTheStorm
+
+
+// SmiteOfMerain(Harrowed)
+
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
+Roll: TacticalMag AccuricedRounds | Demolitionist AdrenalineJunkie
+
+/PvP: Range Stability | Smallbore ExtendedBarrel HammerForgedRifling
+Roll: AccuricedRounds TacticalMag | MovingTarget EyeOfTheStorm
+
+
+// QullimsTerminus
+
+/PvE:
+Roll:
+
+/PvP:
+Roll:
+
+
+// QullimsTerminus(Harrowed)
+
+/PvE:
+Roll:
+
+/PvP:
+Roll:
+
+
+// MidhasReckoning
+
+/PvE:
+Roll:
+
+/PvP:
+Roll:
+
+
+// MidhasReckoning(Harrowed)
+
+/PvE:
+Roll:
+
+/PvP:
+Roll:
+
+
+// DoomOfChelchis
+
+/PvE:
+Roll:
+
+/PvP:
+Roll:
+
+
+// DoomOfChelchis(Harrowed)
+
+/PvE:
+Roll:
+
+/PvP:
+Roll:
+
+
+// DefianceOfYasmin
+
+/PvE:
+Roll:
+
+/PvP:
+Roll:
+
+
+// DefianceOfYasmin(Harrowed)
+
+/PvE:
+Roll:
+
+/PvP:
+Roll:
+
+--------------------------------------------------
 ##Raid: Vow of the Disciple
 --------------------------------------------------
 
