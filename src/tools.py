@@ -1,5 +1,5 @@
 def create_overview():
-    with open('wishlistRAW.txt') as source, open('assets/generated/overview.txt', 'w') as target:
+    with open('wishlistRAW.txt') as source, open('docs/overview.txt', 'w') as target:
         for line in source:
             if line.startswith('//') or line.startswith('##') or line.startswith('--'):
                 target.write(line)
@@ -20,7 +20,7 @@ def create_missing():
                 if weapon in weapons:
                     weapons.remove(weapon)
 
-    with open('assets/generated/missing.txt', 'w') as file:
+    with open('docs/missing.txt', 'w') as file:
         for weapon in weapons:
             file.write(f'{weapon}\n')
 
