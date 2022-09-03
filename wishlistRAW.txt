@@ -207,12 +207,12 @@ Roll: AccuricedRounds TacticalMag | FirmlyPlanted SnapshotSights
 
 // UnderYourSkin
 
-/PvE: DrawTime Accuracy ReloadSpeed | PolymerString ElasticString FlexibleString TactileString
+/PvE: DrawTime ReloadSpeed Accuracy | PolymerString ElasticString FlexibleString TactileString
 Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | ArchersTempo ExplosiveHead
 Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | ArchersTempo Dragonfly
 Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | ArchersTempo SuccessfulWarmUp
 
-/PvP: Accuracy DrawTime | PolymerString ElasticString FlexibleString TactileString
+/PvP: DrawTime Accuracy ReloadSpeed | ElasticString PolymerString FlexibleString
 Roll: StraightFletching FiberglassArrowShaft | HipFireGrip OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | ArchersTempo OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | FirmlyPlanted OpeningShot
@@ -647,7 +647,7 @@ Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble OneForAll
 Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload Incandescent
 Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload OneForAll
 
-/PvP: Range Handling ReloadSpeed | Smallbore HammerForgedRifling CorkscrewRifling ArrowheadBrake
+/PvP: Range Handling ReloadSpeed | HammerForgedRifling CorkscrewRifling Smallbore ArrowheadBrake
 Roll: AccuricedRounds TacticalMag | OpeningShot EyeOfTheStorm
 Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
 
@@ -661,7 +661,7 @@ Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble OneForAll
 Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload Incandescent
 Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload OneForAll
 
-/PvP: Range Handling ReloadSpeed | Smallbore HammerForgedRifling CorkscrewRifling ArrowheadBrake
+/PvP: Range Handling ReloadSpeed | HammerForgedRifling CorkscrewRifling Smallbore ArrowheadBrake
 Roll: AccuricedRounds TacticalMag | OpeningShot EyeOfTheStorm
 Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
 
@@ -672,7 +672,7 @@ Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
 Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
 Roll: TacticalMag AccuricedRounds | Demolitionist AdrenalineJunkie
 
-/PvP: Range Stability | Smallbore ExtendedBarrel HammerForgedRifling
+/PvP: Range Stability Handling | Smallbore ExtendedBarrel HammerForgedRifling
 Roll: AccuricedRounds TacticalMag | MovingTarget EyeOfTheStorm
 
 
@@ -682,80 +682,127 @@ Roll: AccuricedRounds TacticalMag | MovingTarget EyeOfTheStorm
 Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
 Roll: TacticalMag AccuricedRounds | Demolitionist AdrenalineJunkie
 
-/PvP: Range Stability | Smallbore ExtendedBarrel HammerForgedRifling
+/PvP: Range Stability Handling | Smallbore ExtendedBarrel HammerForgedRifling
 Roll: AccuricedRounds TacticalMag | MovingTarget EyeOfTheStorm
 
 
 // QullimsTerminus
 
-/PvE:
-Roll:
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake ChamberedCompensator ExtendedBarrel
+Roll: TacticalMag AccuricedRounds | StatsForAll KillingTally
+Roll: TacticalMag AccuricedRounds | StatsForAll Firefly
+Roll: TacticalMag AccuricedRounds | Unrelenting KillingTally
+Roll: TacticalMag AccuricedRounds | Unrelenting Firefly
+Roll: TacticalMag AccuricedRounds | StatsForAll Headstone
+Roll: TacticalMag AccuricedRounds | Unrelenting Headstone
 
-/PvP:
-Roll:
+/PvP: Range Stability | Smallbore ArrowheadBrake ExtendedBarrel
+Roll: AccuricedRounds TacticalMag | FirmlyPlanted EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | DynamicSwayReduction EyeOfTheStorm
 
 
 // QullimsTerminus(Harrowed)
 
-/PvE:
-Roll:
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake ChamberedCompensator ExtendedBarrel
+Roll: TacticalMag AccuricedRounds | StatsForAll KillingTally
+Roll: TacticalMag AccuricedRounds | StatsForAll Firefly
+Roll: TacticalMag AccuricedRounds | Unrelenting KillingTally
+Roll: TacticalMag AccuricedRounds | Unrelenting Firefly
+Roll: TacticalMag AccuricedRounds | StatsForAll Headstone
+Roll: TacticalMag AccuricedRounds | Unrelenting Headstone
 
-/PvP:
-Roll:
+/PvP: Range Stability | Smallbore ArrowheadBrake ExtendedBarrel
+Roll: AccuricedRounds TacticalMag | FirmlyPlanted EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | DynamicSwayReduction EyeOfTheStorm
 
 
 // MidhasReckoning
 
-/PvE:
-Roll:
+/PvE: ChargeTime Stability ReloadSpeed | Smallbore ChamberedCompensator ArrowheadBrake ExtendedBarrel
+Roll: LiquidCoils EnhancedBattery | HipFireGrip SuccessfulWarmUp
+Roll: LiquidCoils EnhancedBattery | Cornered Surrounded
+Roll: LiquidCoils EnhancedBattery | FieldPrep VorpalWeapon
+Roll: LiquidCoils EnhancedBattery | Unrelenting ReservoirBurst
 
-/PvP:
-Roll:
+/PvP: ChargeTime Range Stability | Smallbore ExtendedBarrel ArrowheadBrake HammerForgedRifling
+Roll: AcceleratedCoils ProjectionFuse | HipFireGrip TapTheTrigger
+Roll: AcceleratedCoils ProjectionFuse | BackupPlan TapTheTrigger
 
 
 // MidhasReckoning(Harrowed)
 
-/PvE:
-Roll:
+/PvE: ChargeTime Stability ReloadSpeed | Smallbore ChamberedCompensator ArrowheadBrake ExtendedBarrel
+Roll: LiquidCoils EnhancedBattery | HipFireGrip SuccessfulWarmUp
+Roll: LiquidCoils EnhancedBattery | Cornered Surrounded
+Roll: LiquidCoils EnhancedBattery | FieldPrep VorpalWeapon
+Roll: LiquidCoils EnhancedBattery | Unrelenting ReservoirBurst
 
-/PvP:
-Roll:
+/PvP: ChargeTime Range Stability | Smallbore ExtendedBarrel ArrowheadBrake HammerForgedRifling
+Roll: AcceleratedCoils ProjectionFuse | HipFireGrip TapTheTrigger
+Roll: AcceleratedCoils ProjectionFuse | BackupPlan TapTheTrigger
 
 
 // DoomOfChelchis
 
-/PvE:
-Roll:
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | Firefly Dragonfly
+Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
+Roll: TacticalMag AccuricedRounds | Firefly Unrelenting
+Roll: TacticalMag AccuricedRounds | ExplosivePayload Frenzy
 
-/PvP:
-Roll:
+/PvP: Range Stability Handling | Smallbore ExtendedBarrel ArrowheadBrake
+Roll: AccuricedRounds TacticalMag | Rangefinder EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | SteadyHands EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | VorpalWeapon EyeOfTheStorm
 
 
 // DoomOfChelchis(Harrowed)
 
-/PvE:
-Roll:
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | Firefly Dragonfly
+Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
+Roll: TacticalMag AccuricedRounds | Firefly Unrelenting
+Roll: TacticalMag AccuricedRounds | ExplosivePayload Frenzy
 
-/PvP:
-Roll:
+/PvP: Range Stability Handling | Smallbore ExtendedBarrel ArrowheadBrake
+Roll: AccuricedRounds TacticalMag | Rangefinder EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | SteadyHands EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | VorpalWeapon EyeOfTheStorm
 
 
 // DefianceOfYasmin
 
-/PvE:
-Roll:
+/PvE: Stability ReloadSpeed Range | Smallbore ChamberedCompensator HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
+Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
+Roll: TacticalMag AccuricedRounds | Ensemble FiringLine
+Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
+Roll: TacticalMag AccuricedRounds | ShootToLoot FiringLine
 
-/PvP:
-Roll:
-
+/PvP: Range Handling Stability | CorkscrewRifling HammerForgedRifling FlutedBarrel Smallbore
+Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
+Roll: AccuricedRounds TacticalMag | SnapshotSights MovingTarget
+Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
+Roll: AccuricedRounds TacticalMag | NoDistractions MovingTarget
+Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
 
 // DefianceOfYasmin(Harrowed)
 
-/PvE:
-Roll:
+/PvE: Stability ReloadSpeed Range | Smallbore ChamberedCompensator HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
+Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
+Roll: TacticalMag AccuricedRounds | Ensemble FiringLine
+Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
+Roll: TacticalMag AccuricedRounds | ShootToLoot FiringLine
 
-/PvP:
-Roll:
+/PvP: Range Handling Stability | CorkscrewRifling HammerForgedRifling FlutedBarrel Smallbore
+Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
+Roll: AccuricedRounds TacticalMag | SnapshotSights MovingTarget
+Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
+Roll: AccuricedRounds TacticalMag | NoDistractions MovingTarget
+Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
 
 --------------------------------------------------
 ##Raid: Vow of the Disciple
@@ -2169,6 +2216,51 @@ Roll: TacticalMag AppendedMag | TripleTap HighImpactReserves
 Roll: AccuricedRounds TacticalMag | SnapshotSights HighImpactReserves
 Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
 Roll: AccuricedRounds TacticalMag | SnapshotSights ExplosivePayload
+
+--------------------------------------------------
+##Activity: Trials (Y6)
+--------------------------------------------------
+
+// WhistlersWhim
+
+/PvE: DrawTime ReloadSpeed Accuracy | PolymerString ElasticString FlexibleString TactileString
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered KillClip
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit KillClip
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered SuccessfulWarmUp
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered ArchersTempo
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit SuccessfulWarmUp
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
+
+/PvP: DrawTime Accuracy ReloadSpeed | ElasticString PolymerString FlexibleString
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | TunnelVision KillClip
+Roll: StraightFletching FiberglassArrowShaft | KillingWind KillClip
+
+
+// WhistlersWhim(Adept)
+
+/PvE: DrawTime ReloadSpeed Accuracy | PolymerString ElasticString FlexibleString TactileString
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered KillClip
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit KillClip
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered SuccessfulWarmUp
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered ArchersTempo
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit SuccessfulWarmUp
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
+
+/PvP: DrawTime Accuracy ReloadSpeed | ElasticString PolymerString FlexibleString
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | TunnelVision KillClip
+Roll: StraightFletching FiberglassArrowShaft | KillingWind KillClip
 
 --------------------------------------------------
 ##Activity: Trials (Y5)
