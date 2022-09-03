@@ -652,6 +652,7 @@ Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
 Roll: AccuricedRounds TacticalMag | SnapshotSights MovingTarget
 Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
 Roll: AccuricedRounds TacticalMag | NoDistractions MovingTarget
+Roll: AccuricedRounds TacticalMag | NoDistractions Slickdraw
 Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
 
 
@@ -669,6 +670,7 @@ Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
 Roll: AccuricedRounds TacticalMag | SnapshotSights MovingTarget
 Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
 Roll: AccuricedRounds TacticalMag | NoDistractions MovingTarget
+Roll: AccuricedRounds TacticalMag | NoDistractions Slickdraw
 Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
 
 
@@ -2235,6 +2237,8 @@ Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit Archer
 /PvP: DrawTime Accuracy ReloadSpeed | ElasticString PolymerString FlexibleString
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget GutshotStraight
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
 Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
@@ -2256,6 +2260,8 @@ Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit Archer
 /PvP: DrawTime Accuracy ReloadSpeed | ElasticString PolymerString FlexibleString
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget GutshotStraight
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
 Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
