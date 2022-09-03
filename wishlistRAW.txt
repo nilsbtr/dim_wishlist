@@ -641,11 +641,11 @@ Roll: FiberglassArrowShaft StraightFletching | ArchersTempo OpeningShot
 // DefianceOfYasmin
 
 /PvE: Stability ReloadSpeed Range | Smallbore ChamberedCompensator HammerForgedRifling
-Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
-Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
 Roll: TacticalMag AccuricedRounds | Ensemble FiringLine
-Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
+Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
+Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
 Roll: TacticalMag AccuricedRounds | ShootToLoot FiringLine
+Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
 
 /PvP: Range Handling Stability | CorkscrewRifling HammerForgedRifling FlutedBarrel Smallbore
 Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
@@ -659,11 +659,11 @@ Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
 // DefianceOfYasmin(Harrowed)
 
 /PvE: Stability ReloadSpeed Range | Smallbore ChamberedCompensator HammerForgedRifling
-Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
-Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
 Roll: TacticalMag AccuricedRounds | Ensemble FiringLine
-Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
+Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
+Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
 Roll: TacticalMag AccuricedRounds | ShootToLoot FiringLine
+Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
 
 /PvP: Range Handling Stability | CorkscrewRifling HammerForgedRifling FlutedBarrel Smallbore
 Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
