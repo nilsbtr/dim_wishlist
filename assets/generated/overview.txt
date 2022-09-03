@@ -78,6 +78,21 @@
 // TemptationsHook
 // WhisperingSlab
 --------------------------------------------------
+##Raid: Kingsfall
+--------------------------------------------------
+// DefianceOfYasmin
+// DefianceOfYasmin(Harrowed)
+// DoomOfChelchis
+// DoomOfChelchis(Harrowed)
+// MidhasReckoning
+// MidhasReckoning(Harrowed)
+// QullimsTerminus
+// QullimsTerminus(Harrowed)
+// SmiteOfMerain
+// SmiteOfMerain(Harrowed)
+// ZaoulisBane
+// ZaoulisBane(Harrowed)
+--------------------------------------------------
 ##Raid: Vow of the Disciple
 --------------------------------------------------
 // Cataclysmic
@@ -232,6 +247,11 @@
 // THESWARM(Adept)
 // UzumeRR4
 // UzumeRR4(Adept)
+--------------------------------------------------
+##Activity: Trials (Y6)
+--------------------------------------------------
+// WhistlersWhim
+// WhistlersWhim(Adept)
 --------------------------------------------------
 ##Activity: Trials (Y5)
 --------------------------------------------------

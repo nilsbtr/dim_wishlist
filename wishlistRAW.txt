@@ -638,108 +638,38 @@ Roll: FiberglassArrowShaft StraightFletching | ArchersTempo OpeningShot
 ##Raid: Kingsfall
 --------------------------------------------------
 
-// ZaoulisBane
+// DefianceOfYasmin
 
-/PvE: ReloadSpeed Range Stability | Smallbore CorkscrewRifling ChamberedCompensator
-Roll: FlaredMagwell AlloyMagazine AccuricedRounds | ExplosivePayload Firefly
-Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble Incandescent
-Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble OneForAll
-Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload Incandescent
-Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload OneForAll
+/PvE: Stability ReloadSpeed Range | Smallbore ChamberedCompensator HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
+Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
+Roll: TacticalMag AccuricedRounds | Ensemble FiringLine
+Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
+Roll: TacticalMag AccuricedRounds | ShootToLoot FiringLine
 
-/PvP: Range Handling ReloadSpeed | HammerForgedRifling CorkscrewRifling Smallbore ArrowheadBrake
-Roll: AccuricedRounds TacticalMag | OpeningShot EyeOfTheStorm
-Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
-
-
-// ZaoulisBane(Harrowed)
-
-/PvE: ReloadSpeed Range Stability | Smallbore CorkscrewRifling ChamberedCompensator
-Roll: FlaredMagwell AlloyMagazine AccuricedRounds | ExplosivePayload Firefly
-Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble Incandescent
-Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble OneForAll
-Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload Incandescent
-Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload OneForAll
-
-/PvP: Range Handling ReloadSpeed | HammerForgedRifling CorkscrewRifling Smallbore ArrowheadBrake
-Roll: AccuricedRounds TacticalMag | OpeningShot EyeOfTheStorm
-Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
+/PvP: Range Handling Stability | CorkscrewRifling HammerForgedRifling FlutedBarrel Smallbore
+Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
+Roll: AccuricedRounds TacticalMag | SnapshotSights MovingTarget
+Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
+Roll: AccuricedRounds TacticalMag | NoDistractions MovingTarget
+Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
 
 
-// SmiteOfMerain
+// DefianceOfYasmin(Harrowed)
 
-/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake HammerForgedRifling
-Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
-Roll: TacticalMag AccuricedRounds | Demolitionist AdrenalineJunkie
+/PvE: Stability ReloadSpeed Range | Smallbore ChamberedCompensator HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
+Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
+Roll: TacticalMag AccuricedRounds | Ensemble FiringLine
+Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
+Roll: TacticalMag AccuricedRounds | ShootToLoot FiringLine
 
-/PvP: Range Stability Handling | Smallbore ExtendedBarrel HammerForgedRifling
-Roll: AccuricedRounds TacticalMag | MovingTarget EyeOfTheStorm
-
-
-// SmiteOfMerain(Harrowed)
-
-/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake HammerForgedRifling
-Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
-Roll: TacticalMag AccuricedRounds | Demolitionist AdrenalineJunkie
-
-/PvP: Range Stability Handling | Smallbore ExtendedBarrel HammerForgedRifling
-Roll: AccuricedRounds TacticalMag | MovingTarget EyeOfTheStorm
-
-
-// QullimsTerminus
-
-/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake ChamberedCompensator ExtendedBarrel
-Roll: TacticalMag AccuricedRounds | StatsForAll KillingTally
-Roll: TacticalMag AccuricedRounds | StatsForAll Firefly
-Roll: TacticalMag AccuricedRounds | Unrelenting KillingTally
-Roll: TacticalMag AccuricedRounds | Unrelenting Firefly
-Roll: TacticalMag AccuricedRounds | StatsForAll Headstone
-Roll: TacticalMag AccuricedRounds | Unrelenting Headstone
-
-/PvP: Range Stability | Smallbore ArrowheadBrake ExtendedBarrel
-Roll: AccuricedRounds TacticalMag | FirmlyPlanted EyeOfTheStorm
-Roll: AccuricedRounds TacticalMag | DynamicSwayReduction EyeOfTheStorm
-
-
-// QullimsTerminus(Harrowed)
-
-/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake ChamberedCompensator ExtendedBarrel
-Roll: TacticalMag AccuricedRounds | StatsForAll KillingTally
-Roll: TacticalMag AccuricedRounds | StatsForAll Firefly
-Roll: TacticalMag AccuricedRounds | Unrelenting KillingTally
-Roll: TacticalMag AccuricedRounds | Unrelenting Firefly
-Roll: TacticalMag AccuricedRounds | StatsForAll Headstone
-Roll: TacticalMag AccuricedRounds | Unrelenting Headstone
-
-/PvP: Range Stability | Smallbore ArrowheadBrake ExtendedBarrel
-Roll: AccuricedRounds TacticalMag | FirmlyPlanted EyeOfTheStorm
-Roll: AccuricedRounds TacticalMag | DynamicSwayReduction EyeOfTheStorm
-
-
-// MidhasReckoning
-
-/PvE: ChargeTime Stability ReloadSpeed | Smallbore ChamberedCompensator ArrowheadBrake ExtendedBarrel
-Roll: LiquidCoils EnhancedBattery | HipFireGrip SuccessfulWarmUp
-Roll: LiquidCoils EnhancedBattery | Cornered Surrounded
-Roll: LiquidCoils EnhancedBattery | FieldPrep VorpalWeapon
-Roll: LiquidCoils EnhancedBattery | Unrelenting ReservoirBurst
-
-/PvP: ChargeTime Range Stability | Smallbore ExtendedBarrel ArrowheadBrake HammerForgedRifling
-Roll: AcceleratedCoils ProjectionFuse | HipFireGrip TapTheTrigger
-Roll: AcceleratedCoils ProjectionFuse | BackupPlan TapTheTrigger
-
-
-// MidhasReckoning(Harrowed)
-
-/PvE: ChargeTime Stability ReloadSpeed | Smallbore ChamberedCompensator ArrowheadBrake ExtendedBarrel
-Roll: LiquidCoils EnhancedBattery | HipFireGrip SuccessfulWarmUp
-Roll: LiquidCoils EnhancedBattery | Cornered Surrounded
-Roll: LiquidCoils EnhancedBattery | FieldPrep VorpalWeapon
-Roll: LiquidCoils EnhancedBattery | Unrelenting ReservoirBurst
-
-/PvP: ChargeTime Range Stability | Smallbore ExtendedBarrel ArrowheadBrake HammerForgedRifling
-Roll: AcceleratedCoils ProjectionFuse | HipFireGrip TapTheTrigger
-Roll: AcceleratedCoils ProjectionFuse | BackupPlan TapTheTrigger
+/PvP: Range Handling Stability | CorkscrewRifling HammerForgedRifling FlutedBarrel Smallbore
+Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
+Roll: AccuricedRounds TacticalMag | SnapshotSights MovingTarget
+Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
+Roll: AccuricedRounds TacticalMag | NoDistractions MovingTarget
+Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
 
 
 // DoomOfChelchis
@@ -772,37 +702,108 @@ Roll: AccuricedRounds TacticalMag | SteadyHands EyeOfTheStorm
 Roll: AccuricedRounds TacticalMag | VorpalWeapon EyeOfTheStorm
 
 
-// DefianceOfYasmin
+// MidhasReckoning
 
-/PvE: Stability ReloadSpeed Range | Smallbore ChamberedCompensator HammerForgedRifling
-Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
-Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
-Roll: TacticalMag AccuricedRounds | Ensemble FiringLine
-Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
-Roll: TacticalMag AccuricedRounds | ShootToLoot FiringLine
+/PvE: ChargeTime Stability ReloadSpeed | Smallbore ChamberedCompensator ArrowheadBrake ExtendedBarrel
+Roll: LiquidCoils EnhancedBattery | HipFireGrip SuccessfulWarmUp
+Roll: LiquidCoils EnhancedBattery | Cornered Surrounded
+Roll: LiquidCoils EnhancedBattery | FieldPrep VorpalWeapon
+Roll: LiquidCoils EnhancedBattery | Unrelenting ReservoirBurst
 
-/PvP: Range Handling Stability | CorkscrewRifling HammerForgedRifling FlutedBarrel Smallbore
-Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
-Roll: AccuricedRounds TacticalMag | SnapshotSights MovingTarget
-Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
-Roll: AccuricedRounds TacticalMag | NoDistractions MovingTarget
-Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
+/PvP: ChargeTime Range Stability | Smallbore ExtendedBarrel ArrowheadBrake HammerForgedRifling
+Roll: AcceleratedCoils ProjectionFuse | HipFireGrip TapTheTrigger
+Roll: AcceleratedCoils ProjectionFuse | BackupPlan TapTheTrigger
 
-// DefianceOfYasmin(Harrowed)
 
-/PvE: Stability ReloadSpeed Range | Smallbore ChamberedCompensator HammerForgedRifling
-Roll: TacticalMag AccuricedRounds | LeadFromGold FocusedFury
-Roll: TacticalMag AccuricedRounds | LeadFromGold FiringLine
-Roll: TacticalMag AccuricedRounds | Ensemble FiringLine
-Roll: TacticalMag AccuricedRounds | ShootToLoot FocusedFury
-Roll: TacticalMag AccuricedRounds | ShootToLoot FiringLine
+// MidhasReckoning(Harrowed)
 
-/PvP: Range Handling Stability | CorkscrewRifling HammerForgedRifling FlutedBarrel Smallbore
-Roll: AccuricedRounds TacticalMag | SnapshotSights OpeningShot
-Roll: AccuricedRounds TacticalMag | SnapshotSights MovingTarget
-Roll: AccuricedRounds TacticalMag | NoDistractions OpeningShot
-Roll: AccuricedRounds TacticalMag | NoDistractions MovingTarget
-Roll: AccuricedRounds TacticalMag | SnapshotSights VorpalWeapon
+/PvE: ChargeTime Stability ReloadSpeed | Smallbore ChamberedCompensator ArrowheadBrake ExtendedBarrel
+Roll: LiquidCoils EnhancedBattery | HipFireGrip SuccessfulWarmUp
+Roll: LiquidCoils EnhancedBattery | Cornered Surrounded
+Roll: LiquidCoils EnhancedBattery | FieldPrep VorpalWeapon
+Roll: LiquidCoils EnhancedBattery | Unrelenting ReservoirBurst
+
+/PvP: ChargeTime Range Stability | Smallbore ExtendedBarrel ArrowheadBrake HammerForgedRifling
+Roll: AcceleratedCoils ProjectionFuse | HipFireGrip TapTheTrigger
+Roll: AcceleratedCoils ProjectionFuse | BackupPlan TapTheTrigger
+
+
+// QullimsTerminus
+
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake ChamberedCompensator ExtendedBarrel
+Roll: TacticalMag AccuricedRounds | StatsForAll KillingTally
+Roll: TacticalMag AccuricedRounds | StatsForAll Firefly
+Roll: TacticalMag AccuricedRounds | Unrelenting KillingTally
+Roll: TacticalMag AccuricedRounds | Unrelenting Firefly
+Roll: TacticalMag AccuricedRounds | StatsForAll Headstone
+Roll: TacticalMag AccuricedRounds | Unrelenting Headstone
+
+/PvP: Range Stability | Smallbore ArrowheadBrake ExtendedBarrel
+Roll: AccuricedRounds TacticalMag | FirmlyPlanted EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | DynamicSwayReduction EyeOfTheStorm
+
+
+// QullimsTerminus(Harrowed)
+
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake ChamberedCompensator ExtendedBarrel
+Roll: TacticalMag AccuricedRounds | StatsForAll KillingTally
+Roll: TacticalMag AccuricedRounds | StatsForAll Firefly
+Roll: TacticalMag AccuricedRounds | Unrelenting KillingTally
+Roll: TacticalMag AccuricedRounds | Unrelenting Firefly
+Roll: TacticalMag AccuricedRounds | StatsForAll Headstone
+Roll: TacticalMag AccuricedRounds | Unrelenting Headstone
+
+/PvP: Range Stability | Smallbore ArrowheadBrake ExtendedBarrel
+Roll: AccuricedRounds TacticalMag | FirmlyPlanted EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | DynamicSwayReduction EyeOfTheStorm
+
+
+// SmiteOfMerain
+
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
+Roll: TacticalMag AccuricedRounds | Demolitionist AdrenalineJunkie
+
+/PvP: Range Stability Handling | Smallbore ExtendedBarrel HammerForgedRifling
+Roll: AccuricedRounds TacticalMag | MovingTarget EyeOfTheStorm
+
+
+// SmiteOfMerain(Harrowed)
+
+/PvE: Stability Range ReloadSpeed | Smallbore ArrowheadBrake HammerForgedRifling
+Roll: TacticalMag AccuricedRounds | StatsForAll OneForAll
+Roll: TacticalMag AccuricedRounds | Demolitionist AdrenalineJunkie
+
+/PvP: Range Stability Handling | Smallbore ExtendedBarrel HammerForgedRifling
+Roll: AccuricedRounds TacticalMag | MovingTarget EyeOfTheStorm
+
+
+// ZaoulisBane
+
+/PvE: ReloadSpeed Range Stability | Smallbore CorkscrewRifling ChamberedCompensator
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | ExplosivePayload Firefly
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble Incandescent
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble OneForAll
+Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload Incandescent
+Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload OneForAll
+
+/PvP: Range Handling ReloadSpeed | HammerForgedRifling CorkscrewRifling Smallbore ArrowheadBrake
+Roll: AccuricedRounds TacticalMag | OpeningShot EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
+
+
+// ZaoulisBane(Harrowed)
+
+/PvE: ReloadSpeed Range Stability | Smallbore CorkscrewRifling ChamberedCompensator
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | ExplosivePayload Firefly
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble Incandescent
+Roll: FlaredMagwell AlloyMagazine AccuricedRounds | Ensemble OneForAll
+Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload Incandescent
+Roll: AlloyMagazine FlaredMagwell AccuricedRounds | ExplosivePayload OneForAll
+
+/PvP: Range Handling ReloadSpeed | HammerForgedRifling CorkscrewRifling Smallbore ArrowheadBrake
+Roll: AccuricedRounds TacticalMag | OpeningShot EyeOfTheStorm
+Roll: AccuricedRounds TacticalMag | ExplosivePayload EyeOfTheStorm
 
 --------------------------------------------------
 ##Raid: Vow of the Disciple
