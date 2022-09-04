@@ -485,7 +485,7 @@ Roll: TacticalMag AccuricedRounds | Quickdraw OpeningShot
 Roll: FiberglassArrowShaft StraightFletching | ArchersTempo Frenzy
 Roll: FiberglassArrowShaft StraightFletching | ArchersTempo Swashbuckler
 
-/PvP: DrawTime Accuracy | PolymerString ElasticString FlexibleString TactileString
+/PvP: DrawTime Accuracy | PolymerString FlexibleString TactileString ElasticString
 Roll: FiberglassArrowShaft StraightFletching | ArchersTempo OpeningShot
 
 
@@ -631,7 +631,7 @@ Roll: SwordmastersGuard | TirelessBlade VorpalWeapon
 Roll: FiberglassArrowShaft StraightFletching | ArchersTempo VorpalWeapon
 Roll: FiberglassArrowShaft StraightFletching | ArchersTempo Swashbuckler
 
-/PvP: DrawTime Accuracy ReloadSpeed | PolymerString ElasticString FlexibleString TactileString
+/PvP: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString TactileString ElasticString
 Roll: FiberglassArrowShaft StraightFletching | ArchersTempo OpeningShot
 
 --------------------------------------------------
@@ -1343,7 +1343,7 @@ Roll: LightMag | Outlaw ExplosivePayload
 
 // TyrannyOfHeaven
 
-/PvE: DrawTime Accuracy ReloadSpeed | PolymerString ElasticString FlexibleString TactileString
+/PvE: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString TactileString ElasticString
 Roll: StraightFletching | ArchersTempo ExplosiveHead
 Roll: StraightFletching | ArchersTempo Rampage
 
@@ -1447,6 +1447,7 @@ Roll: AccuricedRounds | Encore Rampage
 
 /PvP: Range Handling Stability | FullBore FlutedBarrel HammerForgedRifling CorkscrewRifling
 Roll: AccuricedRounds TacticalMag | Quickdraw SnapshotSights
+Roll: AccuricedRounds TacticalMag | FirmlyPlanted MovingTarget
 Roll: AccuricedRounds TacticalMag | FirmlyPlanted SnapshotSights
 Roll: AccuricedRounds TacticalMag | Quickdraw MovingTarget
 Roll: AccuricedRounds TacticalMag | NoDistractions SnapshotSights
@@ -2234,7 +2235,7 @@ Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered Archer
 Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit SuccessfulWarmUp
 Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
 
-/PvP: DrawTime Accuracy ReloadSpeed | ElasticString PolymerString FlexibleString
+/PvP: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString ElasticString
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
@@ -2257,7 +2258,7 @@ Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered Archer
 Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit SuccessfulWarmUp
 Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
 
-/PvP: DrawTime Accuracy ReloadSpeed | ElasticString PolymerString FlexibleString
+/PvP: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString ElasticString
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
@@ -3373,7 +3374,7 @@ Roll: AccuricedRounds TacticalMag | NoDistractions SnapshotSights
 
 // Lunulata4b
 
-/PvE: DrawTime Accuracy ReloadSpeed | PolymerString ElasticString FlexibleString TactileString
+/PvE: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString TactileString ElasticString
 Roll: CompactArrowShaft StraightFletching | Ensemble Headstone
 Roll: CompactArrowShaft StraightFletching | Ensemble SuccessfulWarmUp
 Roll: CompactArrowShaft StraightFletching | ShootToLoot Headstone
