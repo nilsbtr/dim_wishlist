@@ -139,10 +139,10 @@ Roll: LightMag AccuricedRounds TacticalMag | ThreatDetector OneTwoPunch
 Roll: LightMag AccuricedRounds TacticalMag | ThreatDetector Incandescent
 Roll: LightMag AccuricedRounds TacticalMag | ThreatDetector VorpalWeapon
 
-/PvP: Range Handling | CorkscrewRifling Smallbore RifledBarrel BarrelShroud
+/PvP: Range Handling | RifledBarrel Smallbore CorkscrewRifling
 Roll: AccuricedRounds LightMag | ThreatDetector ElementalCapacitor
-Roll: AccuricedRounds LightMag | SteadyHands ElementalCapacitor
 Roll: AccuricedRounds LightMag | HipFireGrip ElementalCapacitor
+Roll: AccuricedRounds LightMag | SteadyHands ElementalCapacitor
 
 --------------------------------------------------
 ##Season of the Risen (S16)
