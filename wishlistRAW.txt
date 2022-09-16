@@ -2225,6 +2225,52 @@ Roll: AccuricedRounds TacticalMag | SnapshotSights ExplosivePayload
 ##Activity: Trials (Y6)
 --------------------------------------------------
 
+// TheInquisitor
+
+/PvE: ReloadSpeed Stability Range
+Roll: 
+
+/PvP: 
+Roll: 
+
+
+// TheInquisitor(Adept)
+
+/PvE: 
+Roll: 
+
+/PvP: 
+Roll: 
+
+
+// Forgiveness
+
+/PvE: ReloadSpeed Stability Range | FullBore Smallbore HammerForgedRifling
+Roll: LightMag RicochetRounds | Subsistence RapidHit
+Roll: LightMag RicochetRounds | Subsistence MultikillClip
+Roll: LightMag RicochetRounds | Demolitionist AdrenalineJunkie
+
+/PvP: Range Stability Handling | FullBore HammerForgedRifling Smallbore CorkscrewRifling
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind FragileFocus
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
+
+
+// Forgiveness(Adept)
+
+/PvE: ReloadSpeed Stability Range | FullBore Smallbore HammerForgedRifling
+Roll: LightMag RicochetRounds | Subsistence RapidHit
+Roll: LightMag RicochetRounds | Subsistence MultikillClip
+Roll: LightMag RicochetRounds | Demolitionist AdrenalineJunkie
+
+/PvP: Range Stability Handling | FullBore HammerForgedRifling Smallbore CorkscrewRifling
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind FragileFocus
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
+
+
 // WhistlersWhim
 
 /PvE: DrawTime ReloadSpeed Accuracy | PolymerString ElasticString FlexibleString TactileString
