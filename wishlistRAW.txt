@@ -2282,16 +2282,16 @@ Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit Succes
 Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
 
 /PvP: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString ElasticString
-Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
-Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget GutshotStraight
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
-Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
-Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
 Roll: StraightFletching FiberglassArrowShaft | TunnelVision KillClip
 Roll: StraightFletching FiberglassArrowShaft | KillingWind KillClip
+Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
 
 
 // WhistlersWhim(Adept)
@@ -2305,16 +2305,16 @@ Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit Succes
 Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
 
 /PvP: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString ElasticString
-Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
-Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget GutshotStraight
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
 Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
 Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
-Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
-Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
 Roll: StraightFletching FiberglassArrowShaft | TunnelVision KillClip
 Roll: StraightFletching FiberglassArrowShaft | KillingWind KillClip
+Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
 
 --------------------------------------------------
 ##Activity: Trials (Y5)
