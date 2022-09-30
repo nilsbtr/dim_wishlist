@@ -3573,6 +3573,7 @@ Roll: SpikeGrenades | ImpulseAmplifier ExplosiveLight
 Roll: HighVelocityRounds | Demolitionist AdrenalineJunkie
 
 /PvP: Velocity BlastRadius | VolatileLaunch HardLaunch QuickLaunch LinearCompensator
+Roll: HighVelocityRounds HighExplosiveOrdnance StickyGrenades | ImpulseAmplifier AdrenalineJunkie
 Roll: HighVelocityRounds HighExplosiveOrdnance StickyGrenades | ImpulseAmplifier ChillClip
 Roll: HighVelocityRounds HighExplosiveOrdnance StickyGrenades | ImpulseAmplifier Wellspring
 
