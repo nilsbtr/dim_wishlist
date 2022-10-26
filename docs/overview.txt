@@ -226,8 +226,12 @@
 // DutyBound(Adept)
 // HorrorsLeast
 // HorrorsLeast(Adept)
+// MindbendersAmbition
+// MindbendersAmbition(Adept)
 // SiliconNeuroma
 // SiliconNeuroma(Adept)
+// TheMilitiasBirthright
+// TheMilitiasBirthright(Adept)
 --------------------------------------------------
 ##Activity: Nightfall (Y4)
 --------------------------------------------------
@@ -248,11 +252,6 @@
 // UzumeRR4
 // UzumeRR4(Adept)
 --------------------------------------------------
-##Activity: Trials (Y6)
---------------------------------------------------
-// WhistlersWhim
-// WhistlersWhim(Adept)
---------------------------------------------------
 ##Activity: Trials (Y5)
 --------------------------------------------------
 // AishasEmbrace
@@ -261,6 +260,12 @@
 // BurdenOfGuilt(Adept)
 // Forgiveness
 // Forgiveness(Adept)
+// Forgiveness
+// Forgiveness(Adept)
+// TheInquisitor
+// TheInquisitor(Adept)
+// WhistlersWhim
+// WhistlersWhim(Adept)
 --------------------------------------------------
 ##Activity: Trials (Y4)
 --------------------------------------------------

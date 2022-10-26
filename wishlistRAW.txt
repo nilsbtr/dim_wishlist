@@ -1897,72 +1897,6 @@ Roll: AcceleratedCoils ProjectionFuse | FirmlyPlanted TapTheTrigger
 ##Activity: Nightfall (Y5)
 --------------------------------------------------
 
-// MindbendersAmbition
-
-/PvE: ReloadSpeed Range | Fullchoke Smallbore CorkscrewRifling
-Roll: AssaultMag LightMag TacticalMag | Pugilist Swashbuckler
-Roll: AssaultMag LightMag TacticalMag | Slideways Swashbuckler
-Roll: AssaultMag LightMag TacticalMag | Slideways Incandescent
-Roll: AssaultMag LightMag TacticalMag | LeadFromGold Swashbuckler
-Roll: AssaultMag LightMag TacticalMag | LeadFromGold Incandescent
-Roll: AssaultMag LightMag TacticalMag | AutoLoadingHolster OneTwoPunch
-
-/PvP: Range Handling | Smallbore CorkscrewRifling BarrelShroud
-Roll: AccuricedRounds AssaultMag LightMag | ThreatDetector Swashbuckler
-Roll: AccuricedRounds AssaultMag LightMag | ThreatDetector SteadyHands
-Roll: AccuricedRounds AssaultMag LightMag | SnapshotSights Swashbuckler
-Roll: AccuricedRounds AssaultMag LightMag | SnapshotSights SteadyHands
-
-
-// MindbendersAmbition(Adept)
-
-/PvE: ReloadSpeed Range | Fullchoke Smallbore CorkscrewRifling
-Roll: AssaultMag LightMag TacticalMag | Pugilist Swashbuckler
-Roll: AssaultMag LightMag TacticalMag | Slideways Swashbuckler
-Roll: AssaultMag LightMag TacticalMag | Slideways Incandescent
-Roll: AssaultMag LightMag TacticalMag | LeadFromGold Swashbuckler
-Roll: AssaultMag LightMag TacticalMag | LeadFromGold Incandescent
-Roll: AssaultMag LightMag TacticalMag | AutoLoadingHolster OneTwoPunch
-
-/PvP: Range Handling | Smallbore CorkscrewRifling BarrelShroud
-Roll: AccuricedRounds AssaultMag LightMag | ThreatDetector Swashbuckler
-Roll: AccuricedRounds AssaultMag LightMag | ThreatDetector SteadyHands
-Roll: AccuricedRounds AssaultMag LightMag | SnapshotSights Swashbuckler
-Roll: AccuricedRounds AssaultMag LightMag | SnapshotSights SteadyHands
-
-
-// TheMilitiasBirthright
-
-/PvE: ReloadSpeed Velocity | QuickLaunch SmartDriftControl
-Roll: SpikeGrenades BlindingGrenades | Slideways Frenzy
-Roll: SpikeGrenades BlindingGrenades | SteadyHands AutoLoadingHolster
-Roll: SpikeGrenades BlindingGrenades | AmbitiousAssassin MultikillClip
-Roll: SpikeGrenades BlindingGrenades | LeadFromGold MultikillClip
-Roll: SpikeGrenades BlindingGrenades | AmbitiousAssassin OneForAll
-Roll: SpikeGrenades BlindingGrenades | LeadFromGold OneForAll
-
-/PvP: Velocity Handling | QuickLaunch HardLaunch SmartDriftControl
-Roll: SpikeGrenades HighVelocityRounds | Quickdraw AutoLoadingHolster
-Roll: SpikeGrenades HighVelocityRounds | SteadyHands AutoLoadingHolster
-Roll: SpikeGrenades HighVelocityRounds | SteadyHands MultikillClip
-
-
-TheMilitiasBirthright(Adept)
-
-/PvE: ReloadSpeed Velocity | QuickLaunch SmartDriftControl
-Roll: SpikeGrenades BlindingGrenades | Slideways Frenzy
-Roll: SpikeGrenades BlindingGrenades | SteadyHands AutoLoadingHolster
-Roll: SpikeGrenades BlindingGrenades | AmbitiousAssassin MultikillClip
-Roll: SpikeGrenades BlindingGrenades | LeadFromGold MultikillClip
-Roll: SpikeGrenades BlindingGrenades | AmbitiousAssassin OneForAll
-Roll: SpikeGrenades BlindingGrenades | LeadFromGold OneForAll
-
-/PvP: Velocity Handling | QuickLaunch HardLaunch SmartDriftControl
-Roll: SpikeGrenades HighVelocityRounds | Quickdraw AutoLoadingHolster
-Roll: SpikeGrenades HighVelocityRounds | SteadyHands AutoLoadingHolster
-Roll: SpikeGrenades HighVelocityRounds | SteadyHands MultikillClip 
-
-
 // DFA
 
 /PvE: Range ReloadSpeed Stability | HammerForgedRifling Smallbore FullBore CorkscrewRifling ExtendedBarrel
@@ -2047,6 +1981,40 @@ Roll: AccuricedRounds | PerpetualMotion HighImpactReserves
 Roll: AccuricedRounds | HeatingUp KillClip
 
 
+// MindbendersAmbition
+
+/PvE: ReloadSpeed Range | Fullchoke Smallbore CorkscrewRifling
+Roll: AssaultMag LightMag TacticalMag | Pugilist Swashbuckler
+Roll: AssaultMag LightMag TacticalMag | Slideways Swashbuckler
+Roll: AssaultMag LightMag TacticalMag | Slideways Incandescent
+Roll: AssaultMag LightMag TacticalMag | LeadFromGold Swashbuckler
+Roll: AssaultMag LightMag TacticalMag | LeadFromGold Incandescent
+Roll: AssaultMag LightMag TacticalMag | AutoLoadingHolster OneTwoPunch
+
+/PvP: Range Handling | Smallbore CorkscrewRifling BarrelShroud
+Roll: AccuricedRounds AssaultMag LightMag | ThreatDetector Swashbuckler
+Roll: AccuricedRounds AssaultMag LightMag | ThreatDetector SteadyHands
+Roll: AccuricedRounds AssaultMag LightMag | SnapshotSights Swashbuckler
+Roll: AccuricedRounds AssaultMag LightMag | SnapshotSights SteadyHands
+
+
+// MindbendersAmbition(Adept)
+
+/PvE: ReloadSpeed Range | Fullchoke Smallbore CorkscrewRifling
+Roll: AssaultMag LightMag TacticalMag | Pugilist Swashbuckler
+Roll: AssaultMag LightMag TacticalMag | Slideways Swashbuckler
+Roll: AssaultMag LightMag TacticalMag | Slideways Incandescent
+Roll: AssaultMag LightMag TacticalMag | LeadFromGold Swashbuckler
+Roll: AssaultMag LightMag TacticalMag | LeadFromGold Incandescent
+Roll: AssaultMag LightMag TacticalMag | AutoLoadingHolster OneTwoPunch
+
+/PvP: Range Handling | Smallbore CorkscrewRifling BarrelShroud
+Roll: AccuricedRounds AssaultMag LightMag | ThreatDetector Swashbuckler
+Roll: AccuricedRounds AssaultMag LightMag | ThreatDetector SteadyHands
+Roll: AccuricedRounds AssaultMag LightMag | SnapshotSights Swashbuckler
+Roll: AccuricedRounds AssaultMag LightMag | SnapshotSights SteadyHands
+
+
 // SiliconNeuroma
 
 /PvE: ReloadSpeed Stability | HammerForgedRifling CorkscrewRifling FlutedBarrel ArrowheadBrake
@@ -2065,6 +2033,38 @@ Roll: ExtendedMag AppendedMag | TripleTap FocusedFury
 
 /PvP: Handling Range Stability | HammerForgedRifling CorkscrewRifling FlutedBarrel ArrowheadBrake
 Roll: LightMag RicochetRounds | SnapshotSights OpeningShot
+
+
+// TheMilitiasBirthright
+
+/PvE: ReloadSpeed Velocity | QuickLaunch SmartDriftControl
+Roll: SpikeGrenades BlindingGrenades | Slideways Frenzy
+Roll: SpikeGrenades BlindingGrenades | SteadyHands AutoLoadingHolster
+Roll: SpikeGrenades BlindingGrenades | AmbitiousAssassin MultikillClip
+Roll: SpikeGrenades BlindingGrenades | LeadFromGold MultikillClip
+Roll: SpikeGrenades BlindingGrenades | AmbitiousAssassin OneForAll
+Roll: SpikeGrenades BlindingGrenades | LeadFromGold OneForAll
+
+/PvP: Velocity Handling | QuickLaunch HardLaunch SmartDriftControl
+Roll: SpikeGrenades HighVelocityRounds | Quickdraw AutoLoadingHolster
+Roll: SpikeGrenades HighVelocityRounds | SteadyHands AutoLoadingHolster
+Roll: SpikeGrenades HighVelocityRounds | SteadyHands MultikillClip
+
+
+// TheMilitiasBirthright(Adept)
+
+/PvE: ReloadSpeed Velocity | QuickLaunch SmartDriftControl
+Roll: SpikeGrenades BlindingGrenades | Slideways Frenzy
+Roll: SpikeGrenades BlindingGrenades | SteadyHands AutoLoadingHolster
+Roll: SpikeGrenades BlindingGrenades | AmbitiousAssassin MultikillClip
+Roll: SpikeGrenades BlindingGrenades | LeadFromGold MultikillClip
+Roll: SpikeGrenades BlindingGrenades | AmbitiousAssassin OneForAll
+Roll: SpikeGrenades BlindingGrenades | LeadFromGold OneForAll
+
+/PvP: Velocity Handling | QuickLaunch HardLaunch SmartDriftControl
+Roll: SpikeGrenades HighVelocityRounds | Quickdraw AutoLoadingHolster
+Roll: SpikeGrenades HighVelocityRounds | SteadyHands AutoLoadingHolster
+Roll: SpikeGrenades HighVelocityRounds | SteadyHands MultikillClip 
 
 --------------------------------------------------
 ##Activity: Nightfall (Y4)
@@ -2291,109 +2291,6 @@ Roll: AccuricedRounds TacticalMag | SnapshotSights ExplosivePayload
 ##Activity: Trials (Y5)
 --------------------------------------------------
 
-// TheInquisitor
-
-/PvE: ReloadSpeed Stability Range | Smallbore CorkscrewRifling FlutedBarrel HammerForgedRifling
-Roll: AssaultMag LightMag TacticalMag | Demolitionist GoldenTricorn
-Roll: AssaultMag LightMag TacticalMag | Subsistence Swashbuckler
-Roll: AssaultMag LightMag TacticalMag | FourthTimesTheCharm Harmony
-Roll: AssaultMag LightMag TacticalMag | Demolitionist AdrenalineJunkie
-
-/PvP: Range Handling | CorkscrewRifling HammerForgedRifling FlutedBarrel
-Roll: AccuricedRounds AssaultMag LightMag | PerpetualMotion OpeningShot
-Roll: AccuricedRounds AssaultMag LightMag | PerpetualMotion Swashbuckler
-Roll: AccuricedRounds AssaultMag LightMag | SteadyHands OpeningShot
-Roll: AccuricedRounds AssaultMag LightMag | TunnelVision GoldenTricorn
-
-
-// TheInquisitor(Adept)
-
-/PvE: ReloadSpeed Stability Range | Smallbore CorkscrewRifling FlutedBarrel HammerForgedRifling
-Roll: AssaultMag LightMag TacticalMag | Demolitionist GoldenTricorn
-Roll: AssaultMag LightMag TacticalMag | Subsistence Swashbuckler
-Roll: AssaultMag LightMag TacticalMag | FourthTimesTheCharm Harmony
-Roll: AssaultMag LightMag TacticalMag | Demolitionist AdrenalineJunkie
-
-/PvP: Range Handling | CorkscrewRifling HammerForgedRifling FlutedBarrel
-Roll: AccuricedRounds AssaultMag LightMag | PerpetualMotion OpeningShot
-Roll: AccuricedRounds AssaultMag LightMag | PerpetualMotion Swashbuckler
-Roll: AccuricedRounds AssaultMag LightMag | SteadyHands OpeningShot
-Roll: AccuricedRounds AssaultMag LightMag | TunnelVision GoldenTricorn
-
-
-// Forgiveness
-
-/PvE: ReloadSpeed Stability Range | FullBore Smallbore HammerForgedRifling
-Roll: LightMag RicochetRounds | Subsistence RapidHit
-Roll: LightMag RicochetRounds | Subsistence MultikillClip
-Roll: LightMag RicochetRounds | Demolitionist AdrenalineJunkie
-
-/PvP: Range Stability Handling | FullBore HammerForgedRifling Smallbore CorkscrewRifling
-/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
-/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind FragileFocus
-/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
-/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
-
-
-// Forgiveness(Adept)
-
-/PvE: ReloadSpeed Stability Range | FullBore Smallbore HammerForgedRifling
-Roll: LightMag RicochetRounds | Subsistence RapidHit
-Roll: LightMag RicochetRounds | Subsistence MultikillClip
-Roll: LightMag RicochetRounds | Demolitionist AdrenalineJunkie
-
-/PvP: Range Stability Handling | FullBore HammerForgedRifling Smallbore CorkscrewRifling
-/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
-/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind FragileFocus
-/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
-/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
-
-
-// WhistlersWhim
-
-/PvE: DrawTime ReloadSpeed Accuracy | PolymerString ElasticString FlexibleString TactileString
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered KillClip
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit KillClip
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered SuccessfulWarmUp
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered ArchersTempo
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit SuccessfulWarmUp
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
-
-/PvP: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString ElasticString
-Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
-Roll: StraightFletching FiberglassArrowShaft | MovingTarget GutshotStraight
-Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
-Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
-Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
-Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
-Roll: StraightFletching FiberglassArrowShaft | TunnelVision KillClip
-Roll: StraightFletching FiberglassArrowShaft | KillingWind KillClip
-Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
-Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
-
-
-// WhistlersWhim(Adept)
-
-/PvE: DrawTime ReloadSpeed Accuracy | PolymerString ElasticString FlexibleString TactileString
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered KillClip
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit KillClip
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered SuccessfulWarmUp
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered ArchersTempo
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit SuccessfulWarmUp
-Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
-
-/PvP: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString ElasticString
-Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
-Roll: StraightFletching FiberglassArrowShaft | MovingTarget GutshotStraight
-Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
-Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
-Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
-Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
-Roll: StraightFletching FiberglassArrowShaft | TunnelVision KillClip
-Roll: StraightFletching FiberglassArrowShaft | KillingWind KillClip
-Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
-Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
-
 
 // AishasEmbrace
 
@@ -2481,6 +2378,110 @@ Roll: FlaredMagwell RicochetRounds LightMag | Demolitionist AdrenalineJunkie
 Roll: RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
 Roll: RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
 Roll: RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
+
+
+// Forgiveness
+
+/PvE: ReloadSpeed Stability Range | FullBore Smallbore HammerForgedRifling
+Roll: LightMag RicochetRounds | Subsistence RapidHit
+Roll: LightMag RicochetRounds | Subsistence MultikillClip
+Roll: LightMag RicochetRounds | Demolitionist AdrenalineJunkie
+
+/PvP: Range Stability Handling | FullBore HammerForgedRifling Smallbore CorkscrewRifling
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind FragileFocus
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
+
+
+// Forgiveness(Adept)
+
+/PvE: ReloadSpeed Stability Range | FullBore Smallbore HammerForgedRifling
+Roll: LightMag RicochetRounds | Subsistence RapidHit
+Roll: LightMag RicochetRounds | Subsistence MultikillClip
+Roll: LightMag RicochetRounds | Demolitionist AdrenalineJunkie
+
+/PvP: Range Stability Handling | FullBore HammerForgedRifling Smallbore CorkscrewRifling
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind FragileFocus
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
+/Roll: HighCaliberRounds RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
+
+
+// TheInquisitor
+
+/PvE: ReloadSpeed Stability Range | Smallbore CorkscrewRifling FlutedBarrel HammerForgedRifling
+Roll: AssaultMag LightMag TacticalMag | Demolitionist GoldenTricorn
+Roll: AssaultMag LightMag TacticalMag | Subsistence Swashbuckler
+Roll: AssaultMag LightMag TacticalMag | FourthTimesTheCharm Harmony
+Roll: AssaultMag LightMag TacticalMag | Demolitionist AdrenalineJunkie
+
+/PvP: Range Handling | CorkscrewRifling HammerForgedRifling FlutedBarrel
+Roll: AccuricedRounds AssaultMag LightMag | PerpetualMotion OpeningShot
+Roll: AccuricedRounds AssaultMag LightMag | PerpetualMotion Swashbuckler
+Roll: AccuricedRounds AssaultMag LightMag | SteadyHands OpeningShot
+Roll: AccuricedRounds AssaultMag LightMag | TunnelVision GoldenTricorn
+
+
+// TheInquisitor(Adept)
+
+/PvE: ReloadSpeed Stability Range | Smallbore CorkscrewRifling FlutedBarrel HammerForgedRifling
+Roll: AssaultMag LightMag TacticalMag | Demolitionist GoldenTricorn
+Roll: AssaultMag LightMag TacticalMag | Subsistence Swashbuckler
+Roll: AssaultMag LightMag TacticalMag | FourthTimesTheCharm Harmony
+Roll: AssaultMag LightMag TacticalMag | Demolitionist AdrenalineJunkie
+
+/PvP: Range Handling | CorkscrewRifling HammerForgedRifling FlutedBarrel
+Roll: AccuricedRounds AssaultMag LightMag | PerpetualMotion OpeningShot
+Roll: AccuricedRounds AssaultMag LightMag | PerpetualMotion Swashbuckler
+Roll: AccuricedRounds AssaultMag LightMag | SteadyHands OpeningShot
+Roll: AccuricedRounds AssaultMag LightMag | TunnelVision GoldenTricorn
+
+
+// WhistlersWhim
+
+/PvE: DrawTime ReloadSpeed Accuracy | PolymerString ElasticString FlexibleString TactileString
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered KillClip
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit KillClip
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered SuccessfulWarmUp
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered ArchersTempo
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit SuccessfulWarmUp
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
+
+/PvP: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString ElasticString
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget GutshotStraight
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | TunnelVision KillClip
+Roll: StraightFletching FiberglassArrowShaft | KillingWind KillClip
+Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
+
+
+// WhistlersWhim(Adept)
+
+/PvE: DrawTime ReloadSpeed Accuracy | PolymerString ElasticString FlexibleString TactileString
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered KillClip
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit KillClip
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered SuccessfulWarmUp
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | Cornered ArchersTempo
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit SuccessfulWarmUp
+Roll: CompactArrowShaft FiberglassArrowShaft StraightFletching | RapidHit ArchersTempo
+
+/PvP: DrawTime Accuracy ReloadSpeed | PolymerString FlexibleString ElasticString
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder GutshotStraight
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget GutshotStraight
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget OpeningShot
+Roll: StraightFletching FiberglassArrowShaft | Rangefinder ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | MovingTarget ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | TunnelVision KillClip
+Roll: StraightFletching FiberglassArrowShaft | KillingWind KillClip
+Roll: StraightFletching FiberglassArrowShaft | RapidHit ArchersTempo
+Roll: StraightFletching FiberglassArrowShaft | RapidHit OpeningShot
 
 --------------------------------------------------
 ##Activity: Trials (Y4)

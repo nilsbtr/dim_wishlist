@@ -3,8 +3,6 @@ AmmitAR2
 BloodFeud
 BoudicaC
 BrigandsLaw
-MindbendersAmbition
-MindbendersAmbition(Adept)
 NoReprieve
 OutOfBounds
 Pizzicato22
@@ -14,8 +12,4 @@ RoarOfTheBear
 SailspyPitchglass
 Taipan4FR
 TarnishedMettle
-TheInquisitor
-TheInquisitor(Adept)
-TheMilitiasBirthright
-TheMilitiasBirthright(Adept)
 Yesteryear
