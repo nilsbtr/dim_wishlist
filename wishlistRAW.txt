@@ -1,4 +1,23 @@
 --------------------------------------------------
+##Season of the Pirates (S18)
+--------------------------------------------------
+
+// Taipan4FR
+
+/PvE: ChargeTime ReloadSpeed Stability Range | Smallbore ArrowheadBrake ExtendedBarrel ChamberedCompensator
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | TripleTap FocusedFury
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | TripleTap FiringLine
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge FocusedFury
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge FiringLine
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FieldPrep FocusedFury
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FieldPrep FiringLine
+
+/PvP: ChargeTime Range | HammerForgedRifling Smallbore
+Roll: AcceleratedCoils ProjectionFuse | FragileFocus OpeningShot
+Roll: AcceleratedCoils ProjectionFuse | Ensemble OpeningShot
+Roll: AcceleratedCoils ProjectionFuse | FragileFocus SnapshotSights
+
+--------------------------------------------------
 ##Season of the Haunted (S17)
 --------------------------------------------------
 
@@ -1983,7 +2002,7 @@ Roll: AccuricedRounds | HeatingUp KillClip
 
 // MindbendersAmbition
 
-/PvE: ReloadSpeed Range | Fullchoke Smallbore CorkscrewRifling
+/PvE: ReloadSpeed Range | FullChoke Smallbore CorkscrewRifling
 Roll: AssaultMag LightMag TacticalMag | Pugilist Swashbuckler
 Roll: AssaultMag LightMag TacticalMag | Slideways Swashbuckler
 Roll: AssaultMag LightMag TacticalMag | Slideways Incandescent
@@ -2000,7 +2019,7 @@ Roll: AccuricedRounds AssaultMag LightMag | SnapshotSights SteadyHands
 
 // MindbendersAmbition(Adept)
 
-/PvE: ReloadSpeed Range | Fullchoke Smallbore CorkscrewRifling
+/PvE: ReloadSpeed Range | FullChoke Smallbore CorkscrewRifling
 Roll: AssaultMag LightMag TacticalMag | Pugilist Swashbuckler
 Roll: AssaultMag LightMag TacticalMag | Slideways Swashbuckler
 Roll: AssaultMag LightMag TacticalMag | Slideways Incandescent
