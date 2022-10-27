@@ -2358,30 +2358,6 @@ Roll: AcceleratedCoils ProjectionFuse | PerpetualMotion SuccessfulWarmUp
 
 // Forgiveness
 
-/PvE: ReloadSpeed Stability Range | HammerForgedRifling CorkscrewRifling ArrowheadBrake FullBore
-Roll: FlaredMagwell RicochetRounds LightMag | Subsistence MultikillClip
-Roll: FlaredMagwell RicochetRounds LightMag | Demolitionist AdrenalineJunkie
-
-/PvP: Range Handling Stability | HammerForgedRifling CorkscrewRifling ArrowheadBrake FullBore
-Roll: RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
-Roll: RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
-Roll: RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
-
-
-// Forgiveness(Adept)
-
-/PvE: ReloadSpeed Stability Range | HammerForgedRifling CorkscrewRifling ArrowheadBrake FullBore
-Roll: FlaredMagwell RicochetRounds LightMag | Subsistence MultikillClip
-Roll: FlaredMagwell RicochetRounds LightMag | Demolitionist AdrenalineJunkie
-
-/PvP: Range Handling Stability | HammerForgedRifling CorkscrewRifling ArrowheadBrake FullBore
-Roll: RicochetRounds ArmorPiercingRounds | MovingTarget FragileFocus
-Roll: RicochetRounds ArmorPiercingRounds | MovingTarget RapidHit
-Roll: RicochetRounds ArmorPiercingRounds | KillingWind RapidHit
-
-
-// Forgiveness
-
 /PvE: ReloadSpeed Stability Range | FullBore Smallbore HammerForgedRifling
 Roll: LightMag RicochetRounds | Subsistence RapidHit
 Roll: LightMag RicochetRounds | Subsistence MultikillClip
