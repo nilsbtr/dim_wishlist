@@ -10,6 +10,5 @@ PlancksStride
 PurePoetry
 RoarOfTheBear
 SailspyPitchglass
-Taipan4FR
 TarnishedMettle
 Yesteryear

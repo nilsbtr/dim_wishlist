@@ -260,8 +260,6 @@
 // BurdenOfGuilt(Adept)
 // Forgiveness
 // Forgiveness(Adept)
-// Forgiveness
-// Forgiveness(Adept)
 // TheInquisitor
 // TheInquisitor(Adept)
 // WhistlersWhim
@@ -378,6 +376,10 @@
 // TwilightOath
 // Vouchsafe
 // WakingVigil
+--------------------------------------------------
+##Patrol: World Pool (S18)
+--------------------------------------------------
+// Taipan4FR
 --------------------------------------------------
 ##Patrol: World Pool (S17)
 --------------------------------------------------

@@ -1,23 +1,4 @@
 --------------------------------------------------
-##Season of the Pirates (S18)
---------------------------------------------------
-
-// Taipan4FR
-
-/PvE: ChargeTime ReloadSpeed Stability Range | Smallbore ArrowheadBrake ExtendedBarrel ChamberedCompensator
-Roll: AcceleratedCoils EnhancedBattery LiquidCoils | TripleTap FocusedFury
-Roll: AcceleratedCoils EnhancedBattery LiquidCoils | TripleTap FiringLine
-Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge FocusedFury
-Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge FiringLine
-Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FieldPrep FocusedFury
-Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FieldPrep FiringLine
-
-/PvP: ChargeTime Range | HammerForgedRifling Smallbore
-Roll: AcceleratedCoils ProjectionFuse | FragileFocus OpeningShot
-Roll: AcceleratedCoils ProjectionFuse | Ensemble OpeningShot
-Roll: AcceleratedCoils ProjectionFuse | FragileFocus SnapshotSights
-
---------------------------------------------------
 ##Season of the Haunted (S17)
 --------------------------------------------------
 
@@ -3456,6 +3437,25 @@ Roll: RicochetRounds HighCaliberRounds | Rangefinder OpeningShot
 Roll: RicochetRounds HighCaliberRounds | Rangefinder SnapshotSights
 Roll: RicochetRounds HighCaliberRounds | KillingWind KillClip
 Roll: RicochetRounds HighCaliberRounds | KillingWind OpeningShot
+
+--------------------------------------------------
+##Patrol: World Pool (S18)
+--------------------------------------------------
+
+// Taipan4FR
+
+/PvE: ChargeTime ReloadSpeed Stability Range | Smallbore ArrowheadBrake ExtendedBarrel ChamberedCompensator
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | TripleTap FocusedFury
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | TripleTap FiringLine
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge FocusedFury
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | ClownCartridge FiringLine
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FieldPrep FocusedFury
+Roll: AcceleratedCoils EnhancedBattery LiquidCoils | FieldPrep FiringLine
+
+/PvP: ChargeTime Range | HammerForgedRifling Smallbore
+Roll: AcceleratedCoils ProjectionFuse | FragileFocus OpeningShot
+Roll: AcceleratedCoils ProjectionFuse | Ensemble OpeningShot
+Roll: AcceleratedCoils ProjectionFuse | FragileFocus SnapshotSights
 
 --------------------------------------------------
 ##Patrol: World Pool (S17)
