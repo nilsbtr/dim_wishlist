@@ -27,9 +27,7 @@ def main():
         line = source.readline()
         # used while loop to bypass .tell() OSError
         while line:
-            if not line.strip():
-                pass
-            elif line.startswith('##'):
+            if line.startswith('##'):
                 writer.write_section(line.strip('#'))
             elif line.startswith('//'):  # finds weapon rolls
                 weapon_counter += 1

@@ -1,5 +1,5 @@
 title: Shaxxs Nightclub Wishlist, Version: 2.18.4.1
-description: Last Updated: 28.10.2022 (Season 17); Added Trials and GM Wepons + Taipan
+description: Last Updated: 07.11.2022 (Season 17); Added Trials and GM Wepons + Taipan
 
 --------------------------------------------------
 ##Season of the Haunted (S17)
