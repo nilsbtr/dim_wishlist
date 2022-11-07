@@ -23,16 +23,16 @@ def clear_target():  # clears the target file
 def write_header():  # writes title and description
     old = get_version()
     version = input(
-        f'{colors.VIOLET}[USER]{colors.END} Version {colors.BLACK}({old}){colors.END}: ')
-    description = input(
-        f'{colors.VIOLET}[USER]{colors.END} Version Description: ')
+        f'{colors.VIOLET}[USER]{colors.END} Version {colors.BLACK}({old}){colors.END}: '
+    )
+    description = input(f'{colors.VIOLET}[USER]{colors.END} Version Description: ')
     updated = date.today().strftime("%d.%m.%Y")
     clear_target()
     with open(files.TARGET, 'a') as target:
+        target.write(f'title: Shaxxs Nightclub Wishlist, Version: {version}\n')
         target.write(
-            f'title: Shaxxs Nightclub Wishlist, Version: {version}\n')
-        target.write(
-            f'description: Last Updated: {updated} (Season 17); {description}\n')
+            f'description: Last Updated: {updated} (Season 17); {description}\n'
+        )
         target.write('\n')
 
 
@@ -51,8 +51,7 @@ def write_weapon(weapon):  # main writer for all weapons
         for wproll in weapon.get_wprolls():
             check_key(wpname, dic.weapons)
 
-            target.write(
-                f'// {wpname} {wproll.get_type()} | {wproll.get_mws()}\n\n')
+            target.write(f'// {wpname} {wproll.get_type()} | {wproll.get_mws()}\n\n')
 
             pre = create_pre(wpname, wproll.get_type())
 
@@ -73,8 +72,7 @@ def write_weapon(weapon):  # main writer for all weapons
                     mag = get_value(mag, dic.suppl)
                     for barrel in wproll.get_barrels():
                         barrel = get_value(barrel, dic.suppl)
-                        target.write(
-                            f'{pre}{barrel},{mag},{ltrait},{rtrait}\n')
+                        target.write(f'{pre}{barrel},{mag},{ltrait},{rtrait}\n')
                     semigr.append(f'{pre}{mag},{ltrait},{rtrait}\n')
                 for line in semigr:
                     target.write(line)
@@ -96,7 +94,8 @@ def get_value(key, dict):  # return value and raises error for non existent key
         raise KeyError(f'{key} in {dict} not found!')
 
 
-def get_trait(key, exotic):  # checks if a trait is exotic only otherwise uses normal one
+def get_trait(key, exotic):
+    # checks if a trait is exotic only otherwise uses normal one
     if exotic and key in dic.exotics:
         return dic.exotics.get(key)
     else:

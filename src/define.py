@@ -11,7 +11,8 @@ def def_dictionary(path):
             (key, api) = line.split(",")
             dic[key] = api
         print(
-            f'{colors.BLUE}[DIC]{colors.END} Loaded {file.name} with {len(dic)} elements into a dictonary.')
+            f'{colors.BLUE}[DIC]{colors.END} Loaded {file.name} with {len(dic)} elements into a dictonary.'
+        )
     file.close()
     return dic
 
@@ -25,7 +26,8 @@ def def_register(path):
             line = line.strip()
             register.append(line)
         print(
-            f'{colors.YELLOW}[LIST]{colors.END} Registered {file.name} with {len(register)} weapons.')
+            f'{colors.YELLOW}[LIST]{colors.END} Registered {file.name} with {len(register)} weapons.'
+        )
     file.close()
     return register
 

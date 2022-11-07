@@ -12,9 +12,10 @@ def main():
     # Outputs length to the console
     with open(files.SOURCE) as source:
         source = open(files.SOURCE)
-        length = (len(source.readlines()))
-        print(f'{colors.RED}[FILE]{colors.END}',
-              source.name, 'loaded with', length, 'lines.')
+        length = len(source.readlines())
+        print(
+            f'{colors.RED}[FILE]{colors.END} {source.name} loaded with {length} lines.'
+        )
 
     writer.write_header()  # clears target file and writes header
 
@@ -45,8 +46,12 @@ def main():
     tools.create_missing()
     tools.create_overview()
 
-    print(f'{colors.RED}[FILE]{colors.END} {colors.GREEN}File successfully converted!{colors.END} {weapon_counter}/{len(dic.weapons)} possible Weapons found.')
-    print(f'{colors.BLACK}Conversion performed in {colors.VIOLET}{round(end-start, 5)} {colors.BLACK}seconds{colors.END}')
+    print(
+        f'{colors.RED}[FILE]{colors.END} {colors.GREEN}File successfully converted!{colors.END} {weapon_counter}/{len(dic.weapons)} possible Weapons found.'
+    )
+    print(
+        f'{colors.BLACK}Conversion performed in {colors.VIOLET}{round(end-start, 5)} {colors.BLACK}seconds{colors.END}'
+    )
 
 
 def grab_data(weapon_name, pos):  # saves all data from a weapon into a weapon object
@@ -74,7 +79,7 @@ def grab_data(weapon_name, pos):  # saves all data from a weapon into a weapon o
                 wproll.app_roll(line.split(' | '))
             line = source.readline()
         writer.write_weapon(weapon)
-        return ((source.tell() - len(line)) - 2)
+        return (source.tell() - len(line)) - 2
 
 
 if __name__ == "__main__":
