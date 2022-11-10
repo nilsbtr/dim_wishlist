@@ -11,7 +11,6 @@ from const import colors, files
 def main():
     # Outputs length to the console
     with open(files.SOURCE) as source:
-        source = open(files.SOURCE)
         length = len(source.readlines())
         print(
             f'{colors.RED}[FILE]{colors.END} {source.name} loaded with {length} lines.'
