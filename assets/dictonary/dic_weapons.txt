@@ -5,6 +5,7 @@ AFineMemorial,3325778512
 AgeOldBond,601592879
 AishasEmbrace,2638190703
 AishasEmbrace(Adept),3245493570
+AlbrunaD,676270382
 AlliedDemand,1532276803
 AmmitAR2,2119346509
 AncientGospel,48643186
@@ -19,6 +20,7 @@ AstralHorizon,1697682876
 AstralHorizon(Adept),532746994
 ASuddenDeath,2855157553
 ASwiftVerdict,1626503676
+AurvandilFR6,963710795
 Austringer,3055790362
 Avalanche,66875353
 BadOmens,991314988
@@ -30,6 +32,7 @@ BitingWinds,1621657423
 Blasphemer,2782847179
 BlastBattue,2453357042
 BloodFeud,1509167284
+Blowout,1903182562
 Bonechiller,4037745684
 BorrowedTime,875848769
 BottomDollar,1046651176
@@ -65,6 +68,7 @@ CrimilsDagger,4292849692
 CrisisInverted,2888266564
 CrowdPleaser,3565520715
 CrownSplitter,2782325302
+DarkDecider,540880995
 DarkestBefore,2481758391
 DeadMansTale,3654674561
 DeadWeight,3738678140
@@ -77,6 +81,7 @@ Deliverance(Adept),2943293195
 DFA,575830664
 DFA(Adept),2006308129
 DirePromise,2742838701
+Disparity,1751893422
 DistantTumulus,2807687156
 DoomOfChelchis,1937552980
 DoomOfChelchis(Harrowed),1184692845
@@ -95,6 +100,8 @@ EscapeVelocity,1786797708
 EternalBlazon,3514096004
 EternitysEdge,2782325301
 EveryWakingMoment,4277547616
+ExaltedTruth,3102421004
+ExaltedTruth(Adept),3920882229
 ExilesCurse,679281855
 ExilesCurse(Adept),276080079
 ExplosivePersonality,4096943616
@@ -111,6 +118,8 @@ Fatebringer(Timelost),1216319404
 FathersSins,3865728990
 FelTaradiddle,1399109800
 FiniteImpactor,3813153080
+Fioritura59,2566006935
+FireAndForget,2272041093
 Firefright,2778013407
 FirstInLastOut,3616586446
 FixedOdds,2194955522
@@ -133,6 +142,7 @@ GalluRR3,617501162
 Glacioclasm,1030895163
 GnawingHunger,821154603
 Gridskipper,1621558458
+GunnorasAxe,487361141
 HailingConfusion,2870169846
 HalfTruths,3257091166
 Hawkmoon,3856705927
@@ -156,22 +166,29 @@ IgneousHammer,2351180975
 IgneousHammer(Adept),2527666306
 IgnitionCode,304659313
 IkelosHCv102,1200824700
+IkelosHCv103,1731355324
 IkelosSGv102,1096206669
+IkelosSGv103,1168625549
 IkelosSMGv102,2222560548
+IkelosSMGv103,2149683300
 IkelosSRv102,1253087083
+IkelosSRv103,2302346155
 ImperialNeedle,3460122497
 Insidious,3428521585
 Insidious(Adept),786352912
 InterferenceVI,2257180473
 IotaDraconis,3044460004
+Jararaca3sr,1851521408
 Jian7Rifle,1162247618
 Judgment,1476654960
+JudgmentOfKelgorath,2978226043
 JurassicGreen,2261046232
 Krait,2852052802
 LastPerdition,188882152
 LegalActionII,3409645497
 LikelySuspect,1994645182
 LingeringDread,2026087437
+LodbrokC,2328531378
 Lonesome,2199171672
 LongShadow,3745990145
 LoudLullaby,3924212056
@@ -205,6 +222,7 @@ OutOfBounds,2988121501
 OutrageousFortune,4146702548
 PalmyraB,3489657138
 PardonOurDust,3849810018
+PathOfLeastResistance,2827764482
 Peacebond,829330711
 PersesD,1019000888
 PieceOfMind,2097055732
@@ -218,6 +236,7 @@ Posterity,3281285075
 PraedythsRevenge,3653573172
 PraedythsRevenge(Timelost),1987769101
 Premonition,208088207
+ProlongedEngagement,2349907931
 ProphetOfDoom,4020742303
 PunchingOut,378498222
 PurePoetry,2671639706
@@ -234,10 +253,12 @@ ReedsRegret,1399243961
 ReedsRegret(Adept),2475355656
 RetoldTale,346136302
 RetracedPath,548958835
+RetrofitEscapade,3103325054
 Retrofuturist,1402766122
 Riiswalker,108221785
 Riptide,2715240478
 RoarOfTheBear,4009352833
+Rose,882778888
 RoyalChase,2776503072
 RoyalEntry,2448907086
 SacredProvenance,2408405461
@@ -271,6 +292,7 @@ SorrowsVerse,2496875173
 SpoilerAlert,2588048270
 Staccato46,4019668921
 StarsInShadow,2050789284
+StayFrosty,2812100428
 SteelSybilZ14,4230993599
 StochasticVariable,2272470786
 Stormchaser,3652506829
@@ -340,6 +362,7 @@ TomorrowsAnswer(Adept),1366917989
 Tranquility,1645386487
 Transfiguration,3799980700
 TrinarySystem,3258665412
+TripwireCanary,3849444474
 TrueProphecy,2742838700
 Trustee,1392919471
 Truthteller,1946491241
@@ -348,6 +371,8 @@ TyphonGL5,3568377122
 TyrannyOfHeaven,2721249463
 UnderYourSkin,232928045
 Unforgiven,3000847393
+UnwaveringDuty,3624844116
+UnwaveringDuty(Adept),2759251821
 UzumeRR4,2065081837
 UzumeRR4(Adept),852228780
 VisionOfCunfluence,3186018373
@@ -356,6 +381,8 @@ Vouchsafe,3242168339
 Vulpecula,1622998472
 WakingVigil,334171687
 WastelanderM5,1679868061
+WendigoGL3,3183283212
+WendigoGL3(Adept),555148853
 WhisperingSlab,211938782
 WhistlersWhim,1574601402
 WhistlersWhim(Adept),711889599

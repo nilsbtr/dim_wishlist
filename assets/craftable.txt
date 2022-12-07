@@ -10,6 +10,7 @@ Cataclysmic
 ComeToPass
 DefianceOfYasmin
 Deliverance
+Disparity
 DoomOfChelchis
 Drang(Baroque)
 EdgeOfAction
@@ -19,13 +20,19 @@ EmpiricalEvidence
 ExplosivePersonality
 FathersSins
 FelTaradiddle
+FireAndForget
 Firefright
 FixedOdds
 Forbearance
 ForensicNightmare
 HalfTruths
 HollowDenial
+IkelosHCv103
+IkelosSGv103
+IkelosSMGv103
+IkelosSRv103
 Insidious
+JudgmentOfKelgorath
 LikelySuspect
 LubraesRuin
 MidhasReckoning
@@ -34,6 +41,7 @@ NoReprieve
 OsteoStriga
 PalmyraB
 PardonOurDust
+PathOfLeastResistance
 PieceOfMind
 PlancksStride
 PointedInquiry
@@ -42,6 +50,7 @@ RagnhildD
 RecurrentImpact
 RedHerring
 RetracedPath
+RetrofitEscapade
 SailspyPitchglass
 SmiteOfMerain
 Submission
@@ -55,6 +64,7 @@ TheEnigma
 TheEpicurean
 TheOtherHalf
 Thoughtless
+TripwireCanary
 UnderYourSkin
 WastelanderM5
 WithoutRemorse

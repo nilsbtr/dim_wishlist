@@ -42,4 +42,6 @@ dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,509074078,4082
 //notes: All possible for PvE. Good for Grenade Builds.
 dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,2997472817,3523296417,1048183818
 
-//CryMutiny
+// CryMutiny
+
+// VelesX

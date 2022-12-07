@@ -9,9 +9,11 @@ BaitAndSwitch,3744057135
 BluntExecutionRounds,2529412083
 BottomlessGrief,706172244
 BoxBreathing,23371658
+CascadePoint,331667533
 Celerity,1489035549
 ChainReaction,598607952
 ChillClip,344235611
+CloseToMelee,2241043034
 ClownCartridge,3563868667
 ColdSteel,405677814
 CompulsiveReloader,595108252
@@ -68,12 +70,14 @@ MovingTarget,2717805783
 Mulligan,162561147
 MultikillClip,2570477205
 NoDistractions,3974407819
+OffhandStrike,3050799639
 OneForAll,859780267
 OneTwoPunch,788178929
 OpeningShot,1370847713
 Osmosis,777774560
 Outlaw,1347741687
 Overflow,2682205016
+PerfectFloat,711628886
 PerpetualMotion,2014892510
 Pugilist,536173722
 PulseMonitor,1685378950
@@ -89,6 +93,7 @@ ReservoirBurst,254337357
 RewindRounds,1563455254
 ShieldDisorient,3979224005
 ShootToLoot,2840833776
+ShotSwap,2217963031
 SleightOfHand,1172098417
 Slickdraw,1942880504
 Slideways,2396422520
@@ -103,6 +108,7 @@ Surrounded,781192741
 Swashbuckler,1161469972
 SympatheticArsenal,1537607344
 TapTheTrigger,1523649716
+TargetLock,2939589096
 ThreatDetector,494941759
 Thresh,1172413778
 TiltingAtWindmills,1738338041
