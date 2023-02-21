@@ -2133,23 +2133,23 @@ Roll: AcceleratedCoils ProjectionFuse | HeatingUp SuccessfulWarmUp
 // ShadowPrice
 
 /PvE: Range Stability | ArrowheadBrake CorkscrewRifling HammerForgedRifling Smallbore
+Roll: TacticalMag AccuricedRounds | Overflow OneForAll
 Roll: TacticalMag AccuricedRounds | Overflow Dragonfly
 Roll: TacticalMag AccuricedRounds | Overflow Swashbuckler
-Roll: TacticalMag AccuricedRounds | Overflow OneForAll
+Roll: TacticalMag AccuricedRounds | FourthTimesTheCharm OneForAll
 Roll: TacticalMag AccuricedRounds | FourthTimesTheCharm Dragonfly
 Roll: TacticalMag AccuricedRounds | FourthTimesTheCharm Swashbuckler
-Roll: TacticalMag AccuricedRounds | FourthTimesTheCharm Overflow
 
 
 // ShadowPrice(Adept)
 
 /PvE: Range Stability | ArrowheadBrake CorkscrewRifling HammerForgedRifling Smallbore
+Roll: TacticalMag AccuricedRounds | Overflow OneForAll
 Roll: TacticalMag AccuricedRounds | Overflow Dragonfly
 Roll: TacticalMag AccuricedRounds | Overflow Swashbuckler
-Roll: TacticalMag AccuricedRounds | Overflow OneForAll
+Roll: TacticalMag AccuricedRounds | FourthTimesTheCharm OneForAll
 Roll: TacticalMag AccuricedRounds | FourthTimesTheCharm Dragonfly
 Roll: TacticalMag AccuricedRounds | FourthTimesTheCharm Swashbuckler
-Roll: TacticalMag AccuricedRounds | FourthTimesTheCharm Overflow
 
 
 // TheComedian

@@ -1,0 +1,21 @@
+// Weapons
+Avalanche,495940989
+Bequest,2814756793
+ColdFront,2814093983
+Commemoration,772598123
+Glacioclasm,3573686365
+Heritage,3790866486
+HungJurySR4,772231794
+HungJurySR4(Adept),4074251943
+Posterity,1935817155
+Succession,145684864
+Trustee,824052295
+Zephyr,396910433
+
+// Crafable
+Bequest
+Commemoration
+Heritage
+Posterity
+Succession
+Trustee
