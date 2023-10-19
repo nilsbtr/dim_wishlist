@@ -1,6 +1,0 @@
-DeadMansTale
-EdgeOfAction
-EdgeOfConcurrence
-EdgeOfIntent
-Hawkmoon
-OsteoStriga
