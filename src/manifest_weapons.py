@@ -2,7 +2,7 @@ import json
 import re
 
 import manifest_handler as manifest
-from config import Colors, Files
+from config import Colors, Files, Filter
 
 root_node = 3790247699
 weapon_type = 3
@@ -38,16 +38,27 @@ def get_weapons(node_hash: int) -> None:
             collectible = manifest.get_collectible(child.get('collectibleHash'))
             item = manifest.get_inventory_item(collectible.get('itemHash'))
 
-            if item is not None:
-                versions = item.get('quality', {}).get('versions', [])
-                rarity = item.get('inventory', {}).get('tierTypeHash')
+            if item is not None and filter_weapons(item):
+                process_weapon(collectible, item)
 
-                if (
-                    item.get('itemType') == weapon_type
-                    and 2759499571 in [v.get('powerCapHash') for v in versions]
-                    and rarity in [4008398120, 2759499571]
-                ):
-                    process_weapon(collectible, item)
+
+def filter_weapons(item):
+    global weapon_type
+
+    item_hash = item.get('hash')
+    item_type = item.get('itemType')
+    versions = item.get('quality', {}).get('versions', [])
+    rarity = item.get('inventory', {}).get('tierTypeHash')
+    craftable = item.get('inventory', {}).get('recipeItemHash') is not None
+
+    if item_hash in Filter.STARRED:
+        return True
+    else:
+        return (
+            item_type == weapon_type
+            and 2759499571 in [v.get('powerCapHash') for v in versions]
+            and (rarity == 4008398120 or (rarity == 2759499571 and craftable))
+        )
 
 
 def process_weapon(collectible, item):

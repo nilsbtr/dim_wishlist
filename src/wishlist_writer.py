@@ -104,4 +104,4 @@ def convert_roll(slots, prefix):
 
 def len_source():
     global source
-    return len(source)
+    return len(source['wishlist'])

@@ -499,27 +499,6 @@
     },
     "source": "Garden of Salvation raid"
   },
-  "AceOfSpades": {
-    "craftable": false,
-    "hash": 347366834,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        1561002382
-      ],
-      "slot3": [
-        1561789734
-      ],
-      "slot4": [
-        3326204863
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "Acosmic": {
     "craftable": false,
     "hash": 413901114,
@@ -626,27 +605,6 @@
       ]
     },
     "source": "Last Wish raid"
-  },
-  "AgersScepter": {
-    "craftable": false,
-    "hash": 1833195496,
-    "rarity": "Exotic",
-    "release": 15,
-    "sockets": {
-      "slot1": [
-        839105230
-      ],
-      "slot2": [
-        3868766766
-      ],
-      "slot3": [
-        1218765758
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "AishasEmbrace": {
     "craftable": false,
@@ -895,27 +853,6 @@
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
   },
-  "Anarchy": {
-    "craftable": false,
-    "hash": 2376481550,
-    "rarity": "Exotic",
-    "release": 5,
-    "sockets": {
-      "slot1": [
-        3525010810
-      ],
-      "slot2": [
-        2822142346
-      ],
-      "slot3": [
-        588594999
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "AncientGospel": {
     "craftable": false,
     "hash": 48643186,
@@ -1084,27 +1021,6 @@
       ]
     },
     "source": "Altars of Sorrow"
-  },
-  "Arbalest": {
-    "craftable": false,
-    "hash": 2130065553,
-    "rarity": "Exotic",
-    "release": 6,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        2969185026
-      ],
-      "slot3": [
-        1683379515
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "ArcLogic": {
     "craftable": false,
@@ -1660,27 +1576,6 @@
     },
     "source": "Earned during the 2022 Dawning event"
   },
-  "BadJuju": {
-    "craftable": false,
-    "hash": 2816212794,
-    "rarity": "Exotic",
-    "release": 7,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        3177308360
-      ],
-      "slot3": [
-        1866048759
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "BadOmens": {
     "craftable": false,
     "hash": 991314988,
@@ -1757,27 +1652,6 @@
       ]
     },
     "source": "Terminal Overload Ahimsa Park"
-  },
-  "Bastion": {
-    "craftable": false,
-    "hash": 2415517654,
-    "rarity": "Exotic",
-    "release": 9,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        1687452232
-      ],
-      "slot3": [
-        4190643473
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "BattleScar": {
     "craftable": false,
@@ -2044,25 +1918,6 @@
     },
     "source": "Fallen Empire campaign"
   },
-  "BlackTalon": {
-    "craftable": false,
-    "hash": 3766045777,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        938542991
-      ],
-      "slot2": [
-        2349202967
-      ],
-      "slot3": [
-        2590710093
-      ],
-      "slot4": []
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "Blasphemer": {
     "craftable": false,
     "hash": 2782847179,
@@ -2303,27 +2158,6 @@
       ]
     },
     "source": "Found exploring Europa"
-  },
-  "Borealis": {
-    "craftable": false,
-    "hash": 3141979347,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        501717180
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "BorrowedTime": {
     "craftable": false,
@@ -3617,48 +3451,6 @@
     },
     "source": "Earned by completing challenges in the Trials of Osiris"
   },
-  "Centrifuse": {
-    "craftable": false,
-    "hash": 1912669214,
-    "rarity": "Exotic",
-    "release": 21,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        1087426260
-      ],
-      "slot3": [
-        2804762401
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Season Pass Reward"
-  },
-  "Cerberus1": {
-    "craftable": false,
-    "hash": 1541131350,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        1332244541
-      ],
-      "slot2": [
-        1840239774
-      ],
-      "slot3": [
-        202670084
-      ],
-      "slot4": [
-        1289604610
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "ChainOfCommand": {
     "craftable": false,
     "hash": 3105930175,
@@ -3855,27 +3647,6 @@
       ]
     },
     "source": "Terminal Overload Zephyr Concourse"
-  },
-  "Cloudstrike": {
-    "craftable": false,
-    "hash": 2603483885,
-    "rarity": "Exotic",
-    "release": 12,
-    "sockets": {
-      "slot1": [
-        1840239774
-      ],
-      "slot2": [
-        1431678320
-      ],
-      "slot3": [
-        3117514172
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Rare drop from higher difficulty Empire Hunts"
   },
   "CodeDuello": {
     "craftable": false,
@@ -4108,48 +3879,6 @@
     },
     "source": "Earned during the 2022 Dawning event"
   },
-  "Coldheart": {
-    "craftable": false,
-    "hash": 1345867571,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        2680121939
-      ],
-      "slot3": [
-        2482418662
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
-  "CollectiveObligation": {
-    "craftable": false,
-    "hash": 3505113722,
-    "rarity": "Exotic",
-    "release": 16,
-    "sockets": {
-      "slot1": [
-        839105230
-      ],
-      "slot2": [
-        3230963543
-      ],
-      "slot3": [
-        2395713912
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Vow of the Disciple Raid"
-  },
   "CombinedAction": {
     "craftable": false,
     "hash": 1331824604,
@@ -4344,27 +4073,6 @@
       ]
     },
     "source": "Solstice"
-  },
-  "ConditionalFinality": {
-    "craftable": false,
-    "hash": 3371017761,
-    "rarity": "Exotic",
-    "release": 20,
-    "sockets": {
-      "slot1": [
-        3492498209
-      ],
-      "slot2": [
-        1431678320
-      ],
-      "slot3": [
-        1105347996
-      ],
-      "slot4": [
-        3917450714
-      ]
-    },
-    "source": "Root of Nightmares Raid"
   },
   "ContingencyPlan": {
     "craftable": false,
@@ -4680,27 +4388,6 @@
     },
     "source": "Complete Iron Banner matches and earn rankup packages from Lord Saladin"
   },
-  "Crimson": {
-    "craftable": false,
-    "hash": 3437746471,
-    "rarity": "Exotic",
-    "release": 2,
-    "sockets": {
-      "slot1": [
-        1482024992
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        2383960413
-      ],
-      "slot4": [
-        1012699414
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "CrisisInverted": {
     "craftable": false,
     "hash": 2888266564,
@@ -4905,48 +4592,6 @@
     },
     "source": "Earn Ranks in Vanguard Crucible or Gambit playlists"
   },
-  "Cryosthesia77K": {
-    "craftable": false,
-    "hash": 603721696,
-    "rarity": "Exotic",
-    "release": 14,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        3868766766
-      ],
-      "slot3": [
-        1385518514
-      ],
-      "slot4": [
-        862848869
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
-  "DARCI": {
-    "craftable": false,
-    "hash": 3141979346,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        939227542
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "DFA": {
     "craftable": false,
     "hash": 575830664,
@@ -5129,50 +4774,6 @@
     },
     "source": "Season of Arrivals dungeon"
   },
-  "DeadMansTale": {
-    "craftable": false,
-    "hash": 3654674561,
-    "rarity": "Exotic",
-    "release": 13,
-    "sockets": {
-      "slot1": [
-        839105230,
-        3661387068,
-        4090651448,
-        1467527085,
-        1840239774,
-        202670084,
-        3250034553,
-        1392496348,
-        1482024992
-      ],
-      "slot2": [
-        3142289711,
-        3177308360,
-        3230963543,
-        1968497646,
-        1561002382,
-        1885400500,
-        679225683
-      ],
-      "slot3": [
-        1820235745,
-        1168162263,
-        2450788523,
-        957782887,
-        588594999,
-        1546637391,
-        1354429876
-      ],
-      "slot4": [
-        3465198467,
-        4259401308,
-        990298390,
-        1067908860
-      ]
-    },
-    "source": "Presage Exotic Quest"
-  },
   "DeadMansTale#C": {
     "craftable": true,
     "hash": 2188764214,
@@ -5217,27 +4818,6 @@
       ]
     },
     "source": "Presage Exotic Quest"
-  },
-  "DeadMessenger": {
-    "craftable": false,
-    "hash": 2812324401,
-    "rarity": "Exotic",
-    "release": 16,
-    "sockets": {
-      "slot1": [
-        3525010810
-      ],
-      "slot2": [
-        2822142346
-      ],
-      "slot3": [
-        2620589274
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Vox Obscura Exotic quest"
   },
   "DeadMessenger#C": {
     "craftable": true,
@@ -5448,27 +5028,6 @@
     },
     "source": "Season of Arrivals dungeon"
   },
-  "Deathbringer": {
-    "craftable": false,
-    "hash": 2232171099,
-    "rarity": "Exotic",
-    "release": 8,
-    "sockets": {
-      "slot1": [
-        1478423395
-      ],
-      "slot2": [
-        2985827016
-      ],
-      "slot3": [
-        3333994164
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "An Exotic quest or challenge"
-  },
   "DeathsRazor": {
     "craftable": true,
     "hash": 3371413056,
@@ -5594,27 +5153,6 @@
     },
     "source": "Kings Fall Raid"
   },
-  "DelicateTomb": {
-    "craftable": false,
-    "hash": 374573733,
-    "rarity": "Exotic",
-    "release": 18,
-    "sockets": {
-      "slot1": [
-        1840239774
-      ],
-      "slot2": [
-        1687452232
-      ],
-      "slot3": [
-        1208312843
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "Deliverance": {
     "craftable": true,
     "hash": 768621510,
@@ -5706,48 +5244,6 @@
       ]
     },
     "source": "Vow of the Disciple Raid"
-  },
-  "DeterministicChaos": {
-    "craftable": false,
-    "hash": 449318888,
-    "rarity": "Exotic",
-    "release": 20,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        1885400500
-      ],
-      "slot3": [
-        1964414318
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "What Remains Exotic Quest"
-  },
-  "DevilsRuin": {
-    "craftable": false,
-    "hash": 3824106094,
-    "rarity": "Exotic",
-    "release": 9,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        2969185026
-      ],
-      "slot3": [
-        1059301209
-      ],
-      "slot4": [
-        3438534621
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "DifferentTimes": {
     "craftable": true,
@@ -5968,27 +5464,6 @@
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
   },
-  "Divinity": {
-    "craftable": false,
-    "hash": 4103414242,
-    "rarity": "Exotic",
-    "release": 8,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        3868766766
-      ],
-      "slot3": [
-        1185480639
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "An Exotic quest or challenge"
-  },
   "DoomOfChelchis": {
     "craftable": true,
     "hash": 1937552980,
@@ -6204,27 +5679,6 @@
       ]
     },
     "source": "Found by exploring the Moon"
-  },
-  "Duality": {
-    "craftable": false,
-    "hash": 3460576091,
-    "rarity": "Exotic",
-    "release": 12,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        1431678320
-      ],
-      "slot3": [
-        3937312904
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "DutyBound": {
     "craftable": false,
@@ -6711,27 +6165,6 @@
     },
     "source": "Season of the Deep"
   },
-  "ErianasVow": {
-    "craftable": false,
-    "hash": 3524313097,
-    "rarity": "Exotic",
-    "release": 8,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        1687327062
-      ],
-      "slot4": [
-        862848869
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "EscapeVelocity": {
     "craftable": false,
     "hash": 1786797708,
@@ -6904,27 +6337,6 @@
       ]
     },
     "source": "Found by exploring the Moon"
-  },
-  "ExDiris": {
-    "craftable": false,
-    "hash": 3821409356,
-    "rarity": "Exotic",
-    "release": 22,
-    "sockets": {
-      "slot1": [
-        1478423395
-      ],
-      "slot2": [
-        2005566727
-      ],
-      "slot3": [
-        1992365846
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Season Pass Reward"
   },
   "ExaltedTruth": {
     "craftable": false,
@@ -7361,27 +6773,6 @@
       ]
     },
     "source": "Flawless chest completion in the Trials of Osiris Lighthouse"
-  },
-  "EyesOfTomorrow": {
-    "craftable": false,
-    "hash": 2399110176,
-    "rarity": "Exotic",
-    "release": 12,
-    "sockets": {
-      "slot1": [
-        3798852852
-      ],
-      "slot2": [
-        2985827016
-      ],
-      "slot3": [
-        1281243303
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Deep Stone Crypt raid"
   },
   "FallingGuillotine": {
     "craftable": false,
@@ -7851,48 +7242,6 @@
     },
     "source": "Complete quest The Lie"
   },
-  "FightingLion": {
-    "craftable": false,
-    "hash": 3549153978,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        3809316345
-      ],
-      "slot2": [
-        3492396210
-      ],
-      "slot3": [
-        2003108620
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
-  "FinalWarning": {
-    "craftable": false,
-    "hash": 3121540812,
-    "rarity": "Exotic",
-    "release": 20,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        3230963543
-      ],
-      "slot3": [
-        1302052952
-      ],
-      "slot4": [
-        3438534621
-      ]
-    },
-    "source": "The Final Strand Exotic Quest"
-  },
   "FiniteImpactor": {
     "craftable": false,
     "hash": 3813153080,
@@ -8290,27 +7639,6 @@
       ]
     },
     "source": "Complete the Chief Investigator Triumph"
-  },
-  "Forerunner": {
-    "craftable": false,
-    "hash": 2179048386,
-    "rarity": "Exotic",
-    "release": 15,
-    "sockets": {
-      "slot1": [
-        1482024992
-      ],
-      "slot2": [
-        3230963543
-      ],
-      "slot3": [
-        2795311559
-      ],
-      "slot4": [
-        3326204863
-      ]
-    },
-    "source": "Magnum Opus Quest"
   },
   "ForgesPledge": {
     "craftable": false,
@@ -8957,27 +8285,6 @@
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
   },
-  "Gjallarhorn": {
-    "craftable": false,
-    "hash": 1363886209,
-    "rarity": "Exotic",
-    "release": 15,
-    "sockets": {
-      "slot1": [
-        1478423395
-      ],
-      "slot2": [
-        2985827016
-      ],
-      "slot3": [
-        3874977694
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "And Out Fly the Wolves Quest"
-  },
   "Glacioclasm#12": {
     "craftable": false,
     "hash": 1030895163,
@@ -9197,48 +8504,6 @@
       ]
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
-  },
-  "GrandOverture": {
-    "craftable": false,
-    "hash": 1763584999,
-    "rarity": "Exotic",
-    "release": 16,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        1408800487
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Season Pass Reward"
-  },
-  "GravitonLance": {
-    "craftable": false,
-    "hash": 3628991658,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        320534106
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "GreasyLuck": {
     "craftable": false,
@@ -9498,27 +8763,6 @@
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
   },
-  "HardLight": {
-    "craftable": false,
-    "hash": 4124984448,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        1431678320
-      ],
-      "slot3": [
-        2620589274
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "HarshLanguage": {
     "craftable": false,
     "hash": 1606497639,
@@ -9597,46 +8841,6 @@
       ]
     },
     "source": "Acquired from X\u00fbr"
-  },
-  "Heartshadow": {
-    "craftable": false,
-    "hash": 3664831848,
-    "rarity": "Exotic",
-    "release": 17,
-    "sockets": {
-      "slot1": [
-        3666208348
-      ],
-      "slot2": [
-        3625355092
-      ],
-      "slot3": [
-        873883409
-      ],
-      "slot4": []
-    },
-    "source": "Dungeon Duality"
-  },
-  "HeirApparent": {
-    "craftable": false,
-    "hash": 2084878005,
-    "rarity": "Exotic",
-    "release": 10,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        1087426260
-      ],
-      "slot3": [
-        1185273366
-      ],
-      "slot4": [
-        3438534621
-      ]
-    },
-    "source": "Earned during the Guardian Games event"
   },
   "HeliocentricQSc": {
     "craftable": false,
@@ -9955,25 +9159,6 @@
       ]
     },
     "source": "Venus Raid"
-  },
-  "HierarchyOfNeeds": {
-    "craftable": false,
-    "hash": 4174431791,
-    "rarity": "Exotic",
-    "release": 19,
-    "sockets": {
-      "slot1": [
-        2801223209
-      ],
-      "slot2": [
-        3429800428
-      ],
-      "slot3": [
-        229534486
-      ],
-      "slot4": []
-    },
-    "source": "Spire of the Watcher Dungeon"
   },
   "HighAlbedo": {
     "craftable": false,
@@ -11360,27 +10545,6 @@
     },
     "source": "Found by Exploring Neomuna"
   },
-  "IzanagisBurden": {
-    "craftable": false,
-    "hash": 3211806999,
-    "rarity": "Exotic",
-    "release": 5,
-    "sockets": {
-      "slot1": [
-        3661387068
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        2866798147
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "Jararaca3sr": {
     "craftable": false,
     "hash": 1851521408,
@@ -11736,27 +10900,6 @@
       ]
     },
     "source": "Season of the Deep Fishing"
-  },
-  "J\u00f6tunn": {
-    "craftable": false,
-    "hash": 417164956,
-    "rarity": "Exotic",
-    "release": 5,
-    "sockets": {
-      "slot1": [
-        332773068
-      ],
-      "slot2": [
-        1687452232
-      ],
-      "slot3": [
-        3275789089
-      ],
-      "slot4": [
-        862848869
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "KeptConfidence": {
     "craftable": true,
@@ -12156,25 +11299,6 @@
     },
     "source": "Earn Ranks in Vanguard Crucible or Gambit playlists"
   },
-  "LeMonarque": {
-    "craftable": false,
-    "hash": 3588934839,
-    "rarity": "Exotic",
-    "release": 5,
-    "sockets": {
-      "slot1": [
-        1784898267
-      ],
-      "slot2": [
-        16392701
-      ],
-      "slot3": [
-        957782887
-      ],
-      "slot4": []
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "LegalActionII": {
     "craftable": false,
     "hash": 3409645497,
@@ -12219,46 +11343,6 @@
       ]
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
-  },
-  "LegendOfAcrius": {
-    "craftable": false,
-    "hash": 3580904580,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        202670084
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        1650852150
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
-  "LeviathansBreath": {
-    "craftable": false,
-    "hash": 2591746970,
-    "rarity": "Exotic",
-    "release": 8,
-    "sockets": {
-      "slot1": [
-        265542500
-      ],
-      "slot2": [
-        3429800428
-      ],
-      "slot3": [],
-      "slot4": [
-        2399646028
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "LikelySuspect": {
     "craftable": true,
@@ -12704,48 +11788,6 @@
     },
     "source": "Complete strikes and earn rankup packages from Commander Zavala"
   },
-  "LordOfWolves": {
-    "craftable": false,
-    "hash": 3413860063,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        3661387068
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        299272945
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
-  "LorentzDriver": {
-    "craftable": false,
-    "hash": 3761898871,
-    "rarity": "Exotic",
-    "release": 15,
-    "sockets": {
-      "slot1": [
-        839105230
-      ],
-      "slot2": [
-        2680121939
-      ],
-      "slot3": [
-        1690446783
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "LoudLullaby": {
     "craftable": false,
     "hash": 3924212056,
@@ -12944,27 +11986,6 @@
     },
     "source": "Vow of the Disciple Raid"
   },
-  "Lumina": {
-    "craftable": false,
-    "hash": 3512014804,
-    "rarity": "Exotic",
-    "release": 7,
-    "sockets": {
-      "slot1": [
-        3661387068
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        743139589
-      ],
-      "slot4": [
-        862848869
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "LunaRegolithIII": {
     "craftable": false,
     "hash": 1948035256,
@@ -13085,27 +12106,6 @@
     },
     "source": "World Quest Enhance in the European Dead Zone"
   },
-  "MIDAMultiTool": {
-    "craftable": false,
-    "hash": 1331482397,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        1561002382
-      ],
-      "slot3": [
-        3100590152
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "MainIngredient": {
     "craftable": false,
     "hash": 253196586,
@@ -13167,27 +12167,6 @@
       ]
     },
     "source": "Earn Ranks in Vanguard Crucible or Gambit playlists"
-  },
-  "Malfeasance": {
-    "craftable": false,
-    "hash": 204878059,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        2130042297
-      ],
-      "slot4": [
-        1012699414
-      ]
-    },
-    "source": "An Exotic quest or challenge"
   },
   "MarsilionC": {
     "craftable": false,
@@ -13367,27 +12346,6 @@
       ]
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
-  },
-  "Merciless": {
-    "craftable": false,
-    "hash": 4190156464,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        3661387068
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        2333607307
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "MercurialOverreach": {
     "craftable": false,
@@ -13610,27 +12568,6 @@
       ]
     },
     "source": "Season of Plunder Grandmaster Nightfall"
-  },
-  "MonteCarlo": {
-    "craftable": false,
-    "hash": 4068264807,
-    "rarity": "Exotic",
-    "release": 8,
-    "sockets": {
-      "slot1": [
-        1840239774
-      ],
-      "slot2": [
-        1561002382
-      ],
-      "slot3": [
-        2814973067
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "MultimachCCX": {
     "craftable": false,
@@ -13942,27 +12879,6 @@
       ]
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
-  },
-  "Necrochasm": {
-    "craftable": false,
-    "hash": 1034055198,
-    "rarity": "Exotic",
-    "release": 22,
-    "sockets": {
-      "slot1": [
-        839105230
-      ],
-      "slot2": [
-        1885400500
-      ],
-      "slot3": [
-        525593296
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Crotas End Raid"
   },
   "NegativeSpace": {
     "craftable": false,
@@ -14443,27 +13359,6 @@
     },
     "source": "Ghosts of the Deep Dungeon"
   },
-  "NoTimeToExplain": {
-    "craftable": false,
-    "hash": 1594120904,
-    "rarity": "Exotic",
-    "release": 12,
-    "sockets": {
-      "slot1": [
-        1840239774
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        3556949035
-      ],
-      "slot4": [
-        2779035018
-      ]
-    },
-    "source": "Deluxe Edition Bonus"
-  },
   "NoxPerennialV": {
     "craftable": false,
     "hash": 2767393525,
@@ -14761,27 +13656,6 @@
     },
     "source": "Found by exploring the Moon"
   },
-  "OneThousandVoices": {
-    "craftable": false,
-    "hash": 2069224589,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        1687452232
-      ],
-      "slot3": [
-        3504197951
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Last Wish raid"
-  },
   "OrewingsMaul": {
     "craftable": false,
     "hash": 2108920981,
@@ -14917,27 +13791,6 @@
       ]
     },
     "source": "Complete Crucible matches and earn rankup packages from Lord Shaxx"
-  },
-  "OutbreakPerfected": {
-    "craftable": false,
-    "hash": 400096939,
-    "rarity": "Exotic",
-    "release": 6,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        1168162263
-      ],
-      "slot4": [
-        3242533954
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "Outlast": {
     "craftable": false,
@@ -15261,27 +14114,6 @@
       ]
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
-  },
-  "Parasite": {
-    "craftable": false,
-    "hash": 2812324400,
-    "rarity": "Exotic",
-    "release": 16,
-    "sockets": {
-      "slot1": [
-        1478423395
-      ],
-      "slot2": [
-        1380253176
-      ],
-      "slot3": [
-        1679262379
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Of Queens and Worms Exotic quest"
   },
   "PardonOurDust": {
     "craftable": true,
@@ -15904,27 +14736,6 @@
     },
     "source": "Found by exploring the Throne World"
   },
-  "PolarisLance": {
-    "craftable": false,
-    "hash": 3413074534,
-    "rarity": "Exotic",
-    "release": 3,
-    "sockets": {
-      "slot1": [
-        1482024992
-      ],
-      "slot2": [
-        106909392
-      ],
-      "slot3": [
-        2387244414
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "PositiveOutlook": {
     "craftable": false,
     "hash": 491078457,
@@ -16406,27 +15217,6 @@
     },
     "source": "Complete strikes and earn rankup packages from Commander Zavala"
   },
-  "PrometheusLens": {
-    "craftable": false,
-    "hash": 19024058,
-    "rarity": "Exotic",
-    "release": 2,
-    "sockets": {
-      "slot1": [
-        3661387068
-      ],
-      "slot2": [
-        2969185026
-      ],
-      "slot3": [
-        3470828242
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "ProphetOfDoom": {
     "craftable": false,
     "hash": 4020742303,
@@ -16715,27 +15505,6 @@
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
   },
-  "QuicksilverStorm": {
-    "craftable": false,
-    "hash": 4293613902,
-    "rarity": "Exotic",
-    "release": 18,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        1561002382
-      ],
-      "slot3": [
-        3131590896
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Earned as a preorder bonus"
-  },
   "QullimsTerminus": {
     "craftable": true,
     "hash": 1321506184,
@@ -17021,27 +15790,6 @@
       ]
     },
     "source": "Ghosts of the Deep Dungeon"
-  },
-  "RatKing": {
-    "craftable": false,
-    "hash": 2362471601,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1482024992
-      ],
-      "slot2": [
-        106909392
-      ],
-      "slot3": [
-        861489047
-      ],
-      "slot4": [
-        3326204863
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "RazorsEdge": {
     "craftable": false,
@@ -17750,27 +16498,6 @@
     },
     "source": "Purchased from Lord Shaxx"
   },
-  "Riskrunner": {
-    "craftable": false,
-    "hash": 3089417789,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        839105230
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        1530804125
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "RoarOfTheBear": {
     "craftable": false,
     "hash": 2231910050,
@@ -18141,48 +16868,6 @@
     },
     "source": "Root of Nightmares Raid"
   },
-  "RuinousEffigy": {
-    "craftable": false,
-    "hash": 1363238943,
-    "rarity": "Exotic",
-    "release": 11,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        3868766766
-      ],
-      "slot3": [
-        798520364
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
-  "SUROSRegime": {
-    "craftable": false,
-    "hash": 2856683562,
-    "rarity": "Exotic",
-    "release": 3,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        106909392
-      ],
-      "slot3": [
-        1378047685
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "SacredProvenance": {
     "craftable": false,
     "hash": 2408405461,
@@ -18289,27 +16974,6 @@
       ]
     },
     "source": "Salvagers Salvo Armament Quest"
-  },
-  "SalvationsGrip": {
-    "craftable": false,
-    "hash": 370712896,
-    "rarity": "Exotic",
-    "release": 12,
-    "sockets": {
-      "slot1": [
-        1441682018
-      ],
-      "slot2": [
-        2985827016
-      ],
-      "slot3": [
-        1549056416
-      ],
-      "slot4": [
-        862848869
-      ]
-    },
-    "source": "The Stasis Prototype quest"
   },
   "Scathelocke": {
     "craftable": false,
@@ -19263,48 +17927,6 @@
       ]
     },
     "source": "Season of the Risen Nightfall Grandmaster"
-  },
-  "SkyburnersOath": {
-    "craftable": false,
-    "hash": 4255268456,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        176919422
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
-  "SleeperSimulant": {
-    "craftable": false,
-    "hash": 4036115577,
-    "rarity": "Exotic",
-    "release": 3,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        3230963543
-      ],
-      "slot3": [
-        588594999
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "Sleepless": {
     "craftable": false,
@@ -20274,27 +18896,6 @@
     },
     "source": "Complete strikes and earn rankup packages from Commander Zavala"
   },
-  "Sturm": {
-    "craftable": false,
-    "hash": 2907129556,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        2238035098
-      ],
-      "slot4": [
-        3438534621
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "Submission": {
     "craftable": true,
     "hash": 3886416794,
@@ -20479,27 +19080,6 @@
     },
     "source": "Deep Stone Crypt raid"
   },
-  "Sunshot": {
-    "craftable": false,
-    "hash": 2907129557,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        3661387068
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        4115637021
-      ],
-      "slot4": [
-        3917450714
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "SurvivorsEpitaph": {
     "craftable": false,
     "hash": 310708513,
@@ -20646,27 +19226,6 @@
     },
     "source": "Complete Iron Banner matches and earn rankup packages from Lord Saladin"
   },
-  "SweetBusiness": {
-    "craftable": false,
-    "hash": 1345867570,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        1968497646
-      ],
-      "slot3": [
-        1853177948
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "SweetSorrow": {
     "craftable": true,
     "hash": 1248372789,
@@ -20801,27 +19360,6 @@
       ]
     },
     "source": "Crotas End Raid"
-  },
-  "Symmetry": {
-    "craftable": false,
-    "hash": 4017959782,
-    "rarity": "Exotic",
-    "release": 9,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        3868766766
-      ],
-      "slot3": [
-        127335543
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "SynchronicRoulette": {
     "craftable": false,
@@ -21326,27 +19864,6 @@
     },
     "source": "Season of Plunder Activities"
   },
-  "Tarrabah": {
-    "craftable": false,
-    "hash": 3110698812,
-    "rarity": "Exotic",
-    "release": 7,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        1968497646
-      ],
-      "slot3": [
-        3351002503
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "TearsOfContrition": {
     "craftable": true,
     "hash": 1366394399,
@@ -21433,25 +19950,6 @@
     },
     "source": "Last Wish raid"
   },
-  "Telesto": {
-    "craftable": false,
-    "hash": 2208405142,
-    "rarity": "Exotic",
-    "release": 2,
-    "sockets": {
-      "slot1": [
-        2969185026
-      ],
-      "slot2": [
-        3970637031
-      ],
-      "slot3": [
-        862848869
-      ],
-      "slot4": []
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "TemptationsHook": {
     "craftable": false,
     "hash": 35794111,
@@ -21532,69 +20030,6 @@
       ]
     },
     "source": "Spire of the Watcher Dungeon"
-  },
-  "Tessellation": {
-    "craftable": false,
-    "hash": 3561203890,
-    "rarity": "Exotic",
-    "release": 22,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        2969185026
-      ],
-      "slot3": [
-        2024652627
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Earned as a preorder bonus"
-  },
-  "TheChaperone": {
-    "craftable": false,
-    "hash": 3413860062,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        1658733671
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "An Exotic quest or challenge"
-  },
-  "TheColony": {
-    "craftable": false,
-    "hash": 3899270607,
-    "rarity": "Exotic",
-    "release": 2,
-    "sockets": {
-      "slot1": [
-        1441682018
-      ],
-      "slot2": [
-        2822142346
-      ],
-      "slot3": [
-        2019952880
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "TheComedian": {
     "craftable": false,
@@ -21943,27 +20378,6 @@
     },
     "source": "Complete Iron Banner matches and earn rankup packages from Lord Saladin"
   },
-  "TheFourthHorseman": {
-    "craftable": false,
-    "hash": 1665952087,
-    "rarity": "Exotic",
-    "release": 10,
-    "sockets": {
-      "slot1": [
-        839105230
-      ],
-      "slot2": [
-        791862061
-      ],
-      "slot3": [
-        407549716
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "TheGuidingSight#12": {
     "craftable": false,
     "hash": 1641430382,
@@ -22186,27 +20600,6 @@
     },
     "source": "Season of the Lost Nightfall Grandmaster"
   },
-  "TheHuckleberry": {
-    "craftable": false,
-    "hash": 2286143274,
-    "rarity": "Exotic",
-    "release": 3,
-    "sockets": {
-      "slot1": [
-        1840239774
-      ],
-      "slot2": [
-        1885400500
-      ],
-      "slot3": [
-        3551326236
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "TheImmortal": {
     "craftable": false,
     "hash": 4039572196,
@@ -22397,25 +20790,6 @@
     },
     "source": "Flawless chest completion in the Trials of Osiris Lighthouse"
   },
-  "TheJadeRabbit": {
-    "craftable": false,
-    "hash": 3844694310,
-    "rarity": "Exotic",
-    "release": 2,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        1561002382
-      ],
-      "slot3": [
-        2387244414
-      ],
-      "slot4": []
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "TheKeening": {
     "craftable": false,
     "hash": 409551876,
@@ -22473,27 +20847,6 @@
       ]
     },
     "source": "Complete Crucible matches and earn rankup packages from Lord Shaxx"
-  },
-  "TheLament": {
-    "craftable": false,
-    "hash": 3487253372,
-    "rarity": "Exotic",
-    "release": 12,
-    "sockets": {
-      "slot1": [
-        3666208348
-      ],
-      "slot2": [
-        599007201
-      ],
-      "slot3": [
-        2590710093
-      ],
-      "slot4": [
-        290014589
-      ]
-    },
-    "source": "Lost Lament Exotic quest"
   },
   "TheLastBreath": {
     "craftable": false,
@@ -22584,27 +20937,6 @@
     },
     "source": "Complete strikes and earn rankup packages from Commander Zavala"
   },
-  "TheLastWord": {
-    "craftable": false,
-    "hash": 1364093401,
-    "rarity": "Exotic",
-    "release": 5,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        1866048759
-      ],
-      "slot4": [
-        3917450714
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "TheLongWalk": {
     "craftable": false,
     "hash": 3326850591,
@@ -22650,27 +20982,6 @@
       ]
     },
     "source": "Season of Arrivals dungeon"
-  },
-  "TheManticore": {
-    "craftable": false,
-    "hash": 219145368,
-    "rarity": "Exotic",
-    "release": 19,
-    "sockets": {
-      "slot1": [
-        839105230
-      ],
-      "slot2": [
-        1885400500
-      ],
-      "slot3": [
-        2656694271
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Season Pass Reward"
   },
   "TheMessenger#13": {
     "craftable": false,
@@ -22954,27 +21265,6 @@
     },
     "source": "Season of Plunder Grandmaster Nightfall"
   },
-  "TheNavigator": {
-    "craftable": false,
-    "hash": 1441805468,
-    "rarity": "Exotic",
-    "release": 21,
-    "sockets": {
-      "slot1": [
-        202670084
-      ],
-      "slot2": [
-        2749775325
-      ],
-      "slot3": [
-        4620383
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Ghosts of the Deep Dungeon"
-  },
   "TheNumber": {
     "craftable": false,
     "hash": 2492081469,
@@ -23155,48 +21445,6 @@
       ]
     },
     "source": "Season of the Chosen Nightfall Grandmaster"
-  },
-  "TheProspector": {
-    "craftable": false,
-    "hash": 3549153979,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1478423395
-      ],
-      "slot2": [
-        1771897777
-      ],
-      "slot3": [
-        4267945040
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
-  "TheQueenbreaker": {
-    "craftable": false,
-    "hash": 2044500762,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        1408087975
-      ],
-      "slot2": [
-        2680121939
-      ],
-      "slot3": [
-        1866048759
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "TheScholar": {
     "craftable": false,
@@ -23714,27 +21962,6 @@
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
   },
-  "TheWardcliffCoil": {
-    "craftable": false,
-    "hash": 1508896098,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1478423395
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        1178686995
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "TheWizenedRebuke": {
     "craftable": false,
     "hash": 2290416,
@@ -23866,27 +22093,6 @@
     },
     "source": ""
   },
-  "Thorn": {
-    "craftable": false,
-    "hash": 3973202132,
-    "rarity": "Exotic",
-    "release": 6,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        2921090754
-      ],
-      "slot4": [
-        2931483505
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "Thoughtless": {
     "craftable": true,
     "hash": 4067556514,
@@ -24010,46 +22216,6 @@
       ]
     },
     "source": "Open Legendary engrams and earn faction rankup packages"
-  },
-  "Thunderlord": {
-    "craftable": false,
-    "hash": 3325463374,
-    "rarity": "Exotic",
-    "release": null,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        1968497646
-      ],
-      "slot3": [
-        1419069769
-      ],
-      "slot4": [
-        2779035018
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
-  "TicuusDivination": {
-    "craftable": false,
-    "hash": 3260753130,
-    "rarity": "Exotic",
-    "release": 13,
-    "sockets": {
-      "slot1": [
-        1196733167
-      ],
-      "slot2": [
-        3827198035
-      ],
-      "slot3": [
-        3298446480
-      ],
-      "slot4": []
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "Tigerspite": {
     "craftable": false,
@@ -24188,27 +22354,6 @@
     },
     "source": "Complete strikes and earn rankup packages from Commander Zavala"
   },
-  "TommysMatchbook": {
-    "craftable": false,
-    "hash": 776191470,
-    "rarity": "Exotic",
-    "release": 10,
-    "sockets": {
-      "slot1": [
-        3250034553
-      ],
-      "slot2": [
-        2420895100
-      ],
-      "slot3": [
-        3772485195
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "TomorrowsAnswer": {
     "craftable": false,
     "hash": 958384347,
@@ -24306,48 +22451,6 @@
       ]
     },
     "source": "Flawless chest completion in the Trials of Osiris Lighthouse"
-  },
-  "TouchOfMalice": {
-    "craftable": false,
-    "hash": 1802135586,
-    "rarity": "Exotic",
-    "release": 18,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        3230963543
-      ],
-      "slot3": [
-        2094939076
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Kings Fall Raid"
-  },
-  "TractorCannon": {
-    "craftable": false,
-    "hash": 3580904581,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        1467527085
-      ],
-      "slot2": [
-        3868766766
-      ],
-      "slot3": [
-        25692695
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "Tranquility": {
     "craftable": false,
@@ -24447,48 +22550,6 @@
     },
     "source": "Last Wish raid"
   },
-  "TravelersChosen": {
-    "craftable": false,
-    "hash": 1853180924,
-    "rarity": "Exotic",
-    "release": 11,
-    "sockets": {
-      "slot1": [
-        445755707
-      ],
-      "slot2": [
-        1968497646
-      ],
-      "slot3": [
-        24925370
-      ],
-      "slot4": [
-        1067908860
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
-  "Trespasser": {
-    "craftable": false,
-    "hash": 1234150730,
-    "rarity": "Exotic",
-    "release": 17,
-    "sockets": {
-      "slot1": [
-        202670084
-      ],
-      "slot2": [
-        1885400500
-      ],
-      "slot3": [
-        1271851280
-      ],
-      "slot4": [
-        3326204863
-      ]
-    },
-    "source": "Season Pass Reward"
-  },
   "TrinarySystem": {
     "craftable": false,
     "hash": 3258665412,
@@ -24544,25 +22605,6 @@
       ]
     },
     "source": "Complete Gambit matches and earn rankup packages from the Drifter"
-  },
-  "TrinityGhoul": {
-    "craftable": false,
-    "hash": 814876685,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        3371775011
-      ],
-      "slot2": [
-        16392701
-      ],
-      "slot3": [
-        200829441
-      ],
-      "slot4": []
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "TripwireCanary": {
     "craftable": true,
@@ -24757,27 +22799,6 @@
     },
     "source": "Deep Stone Crypt raid"
   },
-  "Truth": {
-    "craftable": false,
-    "hash": 1201830623,
-    "rarity": "Exotic",
-    "release": 7,
-    "sockets": {
-      "slot1": [
-        1478423395
-      ],
-      "slot2": [
-        2822142346
-      ],
-      "slot3": [
-        2911329003
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "Truthteller": {
     "craftable": false,
     "hash": 1946491241,
@@ -24873,27 +22894,6 @@
       ]
     },
     "source": "Complete activities in the Dreaming City"
-  },
-  "TwoTailedFox": {
-    "craftable": false,
-    "hash": 2694576561,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        1844523823
-      ],
-      "slot2": [
-        2822142346
-      ],
-      "slot3": [
-        777637181
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "TyphonGL5": {
     "craftable": false,
@@ -25462,46 +23462,6 @@
     },
     "source": "Earn Ranks in Vanguard Crucible or Gambit playlists"
   },
-  "VerglasCurve": {
-    "craftable": false,
-    "hash": 3659414143,
-    "rarity": "Exotic",
-    "release": 20,
-    "sockets": {
-      "slot1": [
-        1784898267
-      ],
-      "slot2": [
-        3827198035
-      ],
-      "slot3": [
-        2000464223
-      ],
-      "slot4": []
-    },
-    "source": "Season Pass Reward"
-  },
-  "VexMythoclast": {
-    "craftable": false,
-    "hash": 4289226715,
-    "rarity": "Exotic",
-    "release": 14,
-    "sockets": {
-      "slot1": [
-        839105230
-      ],
-      "slot2": [
-        185041502
-      ],
-      "slot3": [
-        806917387
-      ],
-      "slot4": [
-        990298390
-      ]
-    },
-    "source": "Venus Raid"
-  },
   "Vexcalibur#C": {
     "craftable": true,
     "hash": 3118061005,
@@ -25535,27 +23495,6 @@
       ]
     },
     "source": "nodeovrdAVALON Exotic Quest"
-  },
-  "VigilanceWing": {
-    "craftable": false,
-    "hash": 3628991659,
-    "rarity": "Exotic",
-    "release": 1,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        1431678320
-      ],
-      "slot3": [
-        4146729347
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
   },
   "VisionOfConfluence": {
     "craftable": false,
@@ -25982,27 +23921,6 @@
     },
     "source": "X\u00fbrs Treasure Hoard in Eternity"
   },
-  "Wavesplitter": {
-    "craftable": false,
-    "hash": 1852863732,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        2680121939
-      ],
-      "slot3": [
-        2306441428
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Exotic engrams extremely rare world drops"
-  },
   "WendigoGL3": {
     "craftable": false,
     "hash": 1854753404,
@@ -26090,27 +24008,6 @@
       ]
     },
     "source": "Season of the Seraph Grandmaster Nightfall"
-  },
-  "WhisperOfTheWorm": {
-    "craftable": false,
-    "hash": 1891561814,
-    "rarity": "Exotic",
-    "release": 3,
-    "sockets": {
-      "slot1": [
-        1392496348
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        3337692349
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "WhisperingSlab": {
     "craftable": false,
@@ -26242,27 +24139,6 @@
     },
     "source": "Flawless chest completion in the Trials of Osiris Lighthouse"
   },
-  "WickedImplement": {
-    "craftable": false,
-    "hash": 940371471,
-    "rarity": "Exotic",
-    "release": 21,
-    "sockets": {
-      "slot1": [
-        4090651448
-      ],
-      "slot2": [
-        3142289711
-      ],
-      "slot3": [
-        3782773412
-      ],
-      "slot4": [
-        4259401308
-      ]
-    },
-    "source": "Season of the Deep"
-  },
   "WidowsBite": {
     "craftable": false,
     "hash": 1271343896,
@@ -26348,46 +24224,6 @@
     },
     "source": "Spire of the Watcher Dungeon"
   },
-  "Winterbite": {
-    "craftable": false,
-    "hash": 3118061004,
-    "rarity": "Exotic",
-    "release": 20,
-    "sockets": {
-      "slot1": [
-        1934171651
-      ],
-      "slot2": [
-        1431678320
-      ],
-      "slot3": [
-        75282108
-      ],
-      "slot4": [
-        3526486541
-      ]
-    },
-    "source": "Strider Exotic Quest"
-  },
-  "WishEnder": {
-    "craftable": false,
-    "hash": 814876684,
-    "rarity": "Exotic",
-    "release": 4,
-    "sockets": {
-      "slot1": [
-        3371775011
-      ],
-      "slot2": [
-        1992361643
-      ],
-      "slot3": [
-        2287699930
-      ],
-      "slot4": []
-    },
-    "source": "An Exotic quest or challenge"
-  },
   "Wishbringer": {
     "craftable": false,
     "hash": 3356526253,
@@ -26427,27 +24263,6 @@
       ]
     },
     "source": "Complete Crucible matches and earn rankup packages from Lord Shaxx"
-  },
-  "Witherhoard": {
-    "craftable": false,
-    "hash": 2357297366,
-    "rarity": "Exotic",
-    "release": 11,
-    "sockets": {
-      "slot1": [
-        3809316345
-      ],
-      "slot2": [
-        1996142143
-      ],
-      "slot3": [
-        745965939
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
   },
   "WithoutRemorse": {
     "craftable": true,
@@ -26629,27 +24444,6 @@
     },
     "source": "Crotas End Raid"
   },
-  "WorldlineZero": {
-    "craftable": false,
-    "hash": 1864563948,
-    "rarity": "Exotic",
-    "release": 3,
-    "sockets": {
-      "slot1": [
-        938542991
-      ],
-      "slot2": [
-        2363751990
-      ],
-      "slot3": [
-        354401740
-      ],
-      "slot4": [
-        2590710093
-      ]
-    },
-    "source": "Exotic Archive at the Tower"
-  },
   "XenoclastIV": {
     "craftable": false,
     "hash": 2891672170,
@@ -26703,27 +24497,6 @@
       ]
     },
     "source": "Complete strikes and earn rankup packages from Commander Zavala"
-  },
-  "Xenophage": {
-    "craftable": false,
-    "hash": 1395261499,
-    "rarity": "Exotic",
-    "release": 8,
-    "sockets": {
-      "slot1": [
-        202670084
-      ],
-      "slot2": [
-        1561002382
-      ],
-      "slot3": [
-        2846385770
-      ],
-      "slot4": [
-        3465198467
-      ]
-    },
-    "source": "An Exotic quest or challenge"
   },
   "Yesteryear": {
     "craftable": false,

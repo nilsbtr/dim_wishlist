@@ -31,10 +31,6 @@
     "hash": 1048183818,
     "type": "Trait"
   },
-  "AdaptiveOrdnance": {
-    "hash": 1281243303,
-    "type": "Trait"
-  },
   "AdrenalineJunkie": {
     "hash": 11612903,
     "type": "Trait"
@@ -59,24 +55,12 @@
     "hash": 2010801679,
     "type": "Trait"
   },
-  "AntiTakenFletching": {
-    "hash": 1992361643,
-    "type": "Arrow"
-  },
-  "ApollonicTangent": {
-    "hash": 229534486,
-    "type": "Trait"
-  },
   "AppendedMag": {
     "hash": 1087426260,
     "type": "Magazine"
   },
   "ArchersTempo": {
     "hash": 201365942,
-    "type": "Trait"
-  },
-  "ArmorOfTheColossus": {
-    "hash": 1185273366,
     "type": "Trait"
   },
   "ArmorPiercingRounds": {
@@ -131,10 +115,6 @@
     "hash": 1300023272,
     "type": "Barrel"
   },
-  "BeTheDanger": {
-    "hash": 1271851280,
-    "type": "Trait"
-  },
   "Bipod": {
     "hash": 1439600632,
     "type": "Trait"
@@ -143,16 +123,8 @@
     "hash": 1996142143,
     "type": "Magazine"
   },
-  "BlessingOfTheSky": {
-    "hash": 743139589,
-    "type": "Trait"
-  },
   "BluntExecutionRounds": {
     "hash": 454085387,
-    "type": "Trait"
-  },
-  "BottomlessAppetite": {
-    "hash": 3351002503,
     "type": "Trait"
   },
   "BottomlessGrief": {
@@ -163,29 +135,9 @@
     "hash": 2551157718,
     "type": "Trait"
   },
-  "BreakTheBank": {
-    "hash": 745965939,
-    "type": "Trait"
-  },
-  "Breakthrough": {
-    "hash": 4190643473,
-    "type": "Trait"
-  },
-  "Broadhead": {
-    "hash": 2287699930,
-    "type": "Trait"
-  },
-  "Broadside": {
-    "hash": 407549716,
-    "type": "Trait"
-  },
   "BurstGuard": {
     "hash": 3625355092,
     "type": "Guard"
-  },
-  "BusinessTime": {
-    "hash": 1853177948,
-    "type": "Trait"
   },
   "CandlePS": {
     "hash": 1409978309,
@@ -199,17 +151,9 @@
     "hash": 3751912585,
     "type": "Trait"
   },
-  "CausalityArrows": {
-    "hash": 3298446480,
-    "type": "Trait"
-  },
   "Celerity": {
     "hash": 1264398905,
     "type": "Trait"
-  },
-  "ChainBowstring": {
-    "hash": 265542500,
-    "type": "Bowstring"
   },
   "ChainReaction": {
     "hash": 2396489472,
@@ -218,10 +162,6 @@
   "ChamberedCompensator": {
     "hash": 3661387068,
     "type": "Barrel"
-  },
-  "ChargedWithBlight": {
-    "hash": 2094939076,
-    "type": "Trait"
   },
   "ChillClip": {
     "hash": 2978966579,
@@ -291,10 +231,6 @@
     "hash": 1799762209,
     "type": "Trait"
   },
-  "Cosmology": {
-    "hash": 320534106,
-    "type": "Trait"
-  },
   "Counterattack": {
     "hash": 3016987351,
     "type": "Trait"
@@ -307,25 +243,9 @@
     "hash": 1926090090,
     "type": "Sight"
   },
-  "CruelRemedy": {
-    "hash": 2383960413,
-    "type": "Trait"
-  },
   "DangerZone": {
     "hash": 960810156,
     "type": "Trait"
-  },
-  "DarkDescent": {
-    "hash": 3333994164,
-    "type": "Trait"
-  },
-  "DeathAtFirstGlance": {
-    "hash": 1687327062,
-    "type": "Trait"
-  },
-  "DefaultOrnament": {
-    "hash": 2931483505,
-    "type": ""
   },
   "Demolitionist": {
     "hash": 3523296417,
@@ -333,10 +253,6 @@
   },
   "Desperado": {
     "hash": 3047969693,
-    "type": "Trait"
-  },
-  "Desperation": {
-    "hash": 525593296,
     "type": "Trait"
   },
   "DestabilizingRounds": {
@@ -371,16 +287,8 @@
     "hash": 3705817207,
     "type": "Trait"
   },
-  "DynamicCharge": {
-    "hash": 127335543,
-    "type": "Trait"
-  },
   "DynamicSwayReduction": {
     "hash": 1359896290,
-    "type": "Trait"
-  },
-  "EMAnomaly": {
-    "hash": 1690446783,
     "type": "Trait"
   },
   "EagerEdge": {
@@ -435,10 +343,6 @@
     "hash": 968510818,
     "type": "Trait"
   },
-  "Evolution": {
-    "hash": 798520364,
-    "type": "Trait"
-  },
   "ExplosiveHead": {
     "hash": 3365897133,
     "type": "Trait"
@@ -484,10 +388,7 @@
     "type": "Trait"
   },
   "Firefly": {
-    "hash": [
-      1561789734,
-      3824105627
-    ],
+    "hash": 3824105627,
     "type": "Trait"
   },
   "FiringLine": {
@@ -501,10 +402,6 @@
   "FittedStock": {
     "hash": 4259401308,
     "type": "Stock"
-  },
-  "FlameRefraction": {
-    "hash": 3470828242,
-    "type": "Trait"
   },
   "FlaredMagwell": {
     "hash": 3230963543,
@@ -528,10 +425,6 @@
   },
   "FocusedFury": {
     "hash": 2896038713,
-    "type": "Trait"
-  },
-  "ForTheEmpire": {
-    "hash": 176919422,
     "type": "Trait"
   },
   "FourthTimesTheCharm": {
@@ -569,10 +462,6 @@
     "hash": 3096702027,
     "type": "Trait"
   },
-  "GiftOfTheTraveler": {
-    "hash": 24925370,
-    "type": "Trait"
-  },
   "GoldenTricorn": {
     "hash": 2610012052,
     "type": "Trait"
@@ -581,20 +470,8 @@
     "hash": 1631667848,
     "type": "Trait"
   },
-  "GrenadeChaser": {
-    "hash": 3131590896,
-    "type": "Trait"
-  },
-  "GrenadesAndHorseshoes": {
-    "hash": 2911329003,
-    "type": "Trait"
-  },
   "GutshotStraight": {
     "hash": 1365187766,
-    "type": "Trait"
-  },
-  "HailStorm": {
-    "hash": 2000464223,
     "type": "Trait"
   },
   "HammerForgedRifling": {
@@ -604,10 +481,6 @@
   "HandLaidStock": {
     "hash": 990298390,
     "type": "Stock"
-  },
-  "HarbingersPulse": {
-    "hash": 3970637031,
-    "type": "Trait"
   },
   "HardLaunch": {
     "hash": 981914802,
@@ -631,10 +504,6 @@
   },
   "HealClip": {
     "hash": 3017780555,
-    "type": "Trait"
-  },
-  "HeatSink": {
-    "hash": 3772485195,
     "type": "Trait"
   },
   "HeatingUp": {
@@ -713,10 +582,6 @@
     "hash": 3796465595,
     "type": "Magazine"
   },
-  "Impetus": {
-    "hash": 2333607307,
-    "type": "Trait"
-  },
   "ImplosionRounds": {
     "hash": 3492396210,
     "type": "Magazine"
@@ -739,10 +604,6 @@
   },
   "InvisibleHand": {
     "hash": 3018146897,
-    "type": "Trait"
-  },
-  "IonicReturn": {
-    "hash": 501717180,
     "type": "Trait"
   },
   "IonizedBattery": {
@@ -793,20 +654,12 @@
     "hash": 3891536761,
     "type": "Trait"
   },
-  "LastStand": {
-    "hash": 4146729347,
-    "type": "Trait"
-  },
   "LastingImpression": {
     "hash": 3927722942,
     "type": "Trait"
   },
   "LeadFromGold": {
     "hash": 1556840489,
-    "type": "Trait"
-  },
-  "LeviathansSigh": {
-    "hash": 2399646028,
     "type": "Trait"
   },
   "LightBattery": {
@@ -816,14 +669,6 @@
   "LightMag": {
     "hash": 679225683,
     "type": "Magazine"
-  },
-  "LightningRod": {
-    "hash": 200829441,
-    "type": "Trait"
-  },
-  "LightningRounds": {
-    "hash": 1419069769,
-    "type": "Trait"
   },
   "LightningSeeker": {
     "hash": 844190854,
@@ -841,18 +686,6 @@
     "hash": 1687452232,
     "type": "Battery"
   },
-  "LiquidCooling": {
-    "hash": 1385518514,
-    "type": "Trait"
-  },
-  "LongMarch": {
-    "hash": 1650852150,
-    "type": "Trait"
-  },
-  "LongestWinter": {
-    "hash": 2482418662,
-    "type": "Trait"
-  },
   "LooseChange": {
     "hash": 1119449540,
     "type": "Trait"
@@ -860,26 +693,6 @@
   "LowImpedanceWindings": {
     "hash": 2713678205,
     "type": "Haft"
-  },
-  "LoyalMoths": {
-    "hash": 1992365846,
-    "type": "Trait"
-  },
-  "MIDARadar": {
-    "hash": 3100590152,
-    "type": "Trait"
-  },
-  "MarkovChain": {
-    "hash": 2814973067,
-    "type": "Trait"
-  },
-  "MarksmanSights": {
-    "hash": 1408087975,
-    "type": "Scope"
-  },
-  "MechanizedAutoloader": {
-    "hash": 1178686995,
-    "type": "Trait"
   },
   "MiniFrags": {
     "hash": 332133599,
@@ -898,10 +711,7 @@
     "type": "Trait"
   },
   "Mulligan": {
-    "hash": [
-      3337692349,
-      3513791699
-    ],
+    "hash": 3513791699,
     "type": "Trait"
   },
   "MultikillClip": {
@@ -920,20 +730,8 @@
     "hash": 2866798147,
     "type": "Trait"
   },
-  "NucleosyntheticMagazine": {
-    "hash": 2005566727,
-    "type": "Magazine"
-  },
   "OffhandStrike": {
     "hash": 2416023159,
-    "type": "Trait"
-  },
-  "OmegaStrike": {
-    "hash": 1408800487,
-    "type": "Trait"
-  },
-  "OnBlackWings": {
-    "hash": 3937312904,
     "type": "Trait"
   },
   "OneForAll": {
@@ -960,33 +758,13 @@
     "hash": 3643424744,
     "type": "Trait"
   },
-  "PaceYourself": {
-    "hash": 2795311559,
-    "type": "Trait"
-  },
-  "PackHunter": {
-    "hash": 3874977694,
-    "type": "Trait"
-  },
   "ParacausalAffinity": {
     "hash": 3215448563,
-    "type": "Trait"
-  },
-  "ParacausalPellets": {
-    "hash": 1105347996,
-    "type": "Trait"
-  },
-  "Parasitism": {
-    "hash": 3242533954,
     "type": "Trait"
   },
   "ParticleRepeater": {
     "hash": 3868766766,
     "type": "Battery"
-  },
-  "Penance": {
-    "hash": 1185480639,
-    "type": "Trait"
   },
   "PerfectFloat": {
     "hash": 2272927194,
@@ -1003,14 +781,6 @@
   "PhaseMagazine": {
     "hash": 830282363,
     "type": "Magazine"
-  },
-  "PickYourPoison": {
-    "hash": 1302052952,
-    "type": "Trait"
-  },
-  "PlayWithYourPrey": {
-    "hash": 777637181,
-    "type": "Trait"
   },
   "PolygonalRifling": {
     "hash": 1392496348,
@@ -1032,10 +802,6 @@
     "hash": 2969185026,
     "type": "Battery"
   },
-  "PropertyIrreducible": {
-    "hash": 2024652627,
-    "type": "Trait"
-  },
   "ProximityGrenades": {
     "hash": 409831596,
     "type": "Magazine"
@@ -1046,10 +812,6 @@
   },
   "PulseMonitor": {
     "hash": 972757866,
-    "type": "Trait"
-  },
-  "Pyrogenesis": {
-    "hash": 1059301209,
     "type": "Trait"
   },
   "QuickDotSAS": {
@@ -1065,10 +827,7 @@
     "type": "Trait"
   },
   "Rampage": {
-    "hash": [
-      3551326236,
-      3425386926
-    ],
+    "hash": 3425386926,
     "type": "Trait"
   },
   "Rangefinder": {
@@ -1099,18 +858,6 @@
     "hash": 3201496230,
     "type": "Trait"
   },
-  "RegasRefrain": {
-    "hash": 1218765758,
-    "type": "Trait"
-  },
-  "RegenerativeMotion": {
-    "hash": 2804762401,
-    "type": "Trait"
-  },
-  "ReleaseTheWolves": {
-    "hash": 299272945,
-    "type": "Trait"
-  },
   "RelentlessStrikes": {
     "hash": 1749209109,
     "type": "Trait"
@@ -1137,10 +884,6 @@
   },
   "RestorativeTurret": {
     "hash": 3492337375,
-    "type": "Trait"
-  },
-  "RevvedConsumption": {
-    "hash": 290014589,
     "type": "Trait"
   },
   "RewindRounds": {
@@ -1203,14 +946,6 @@
     "hash": 1140096971,
     "type": "Magazine"
   },
-  "ServeTheColony": {
-    "hash": 2019952880,
-    "type": "Trait"
-  },
-  "ShatterShot": {
-    "hash": 1549056416,
-    "type": "Trait"
-  },
   "ShatteringBlade": {
     "hash": 818211479,
     "type": "Trait"
@@ -1227,17 +962,9 @@
     "hash": 1067908860,
     "type": "Stock"
   },
-  "ShortenedBarrel": {
-    "hash": 3492498209,
-    "type": "Barrel"
-  },
   "ShortspecSAS": {
     "hash": 445755705,
     "type": "Sight"
-  },
-  "ShotInTheDark": {
-    "hash": 873883409,
-    "type": "Trait"
   },
   "ShotSwap": {
     "hash": 2586829431,
@@ -1287,10 +1014,6 @@
     "hash": 908147344,
     "type": "Trait"
   },
-  "SoulDevourer": {
-    "hash": 2921090754,
-    "type": "Trait"
-  },
   "SparkPS": {
     "hash": 1409978308,
     "type": "Sight"
@@ -1298,14 +1021,6 @@
   "SpikeGrenades": {
     "hash": 3301904089,
     "type": "Magazine"
-  },
-  "SpinningUp": {
-    "hash": 1378047685,
-    "type": "Trait"
-  },
-  "SpreadShotPackage": {
-    "hash": 1289604610,
-    "type": "Trait"
   },
   "StatsForAll": {
     "hash": 1583705720,
@@ -1327,14 +1042,6 @@
     "hash": 3373736292,
     "type": "Magazine"
   },
-  "StormAndStress": {
-    "hash": 2238035098,
-    "type": "Trait"
-  },
-  "Stormbringer": {
-    "hash": 3117514172,
-    "type": "Trait"
-  },
   "StraightFletching": {
     "hash": 3827198035,
     "type": "Arrow"
@@ -1345,18 +1052,6 @@
   },
   "SuccessfulWarmUp": {
     "hash": 2652708987,
-    "type": "Trait"
-  },
-  "SunBlast": {
-    "hash": 4115637021,
-    "type": "Trait"
-  },
-  "SuperchargedBattery": {
-    "hash": 2306441428,
-    "type": "Trait"
-  },
-  "Superconductor": {
-    "hash": 1530804125,
     "type": "Trait"
   },
   "SupercooledAccelerator": {
@@ -1381,10 +1076,6 @@
   },
   "Swashbuckler": {
     "hash": 4082225868,
-    "type": "Trait"
-  },
-  "SwoopingTalons": {
-    "hash": 2656694271,
     "type": "Trait"
   },
   "SwordLogic": {
@@ -1415,16 +1106,8 @@
     "hash": 1196733167,
     "type": "Bowstring"
   },
-  "TakenPredator": {
-    "hash": 2130042297,
-    "type": "Trait"
-  },
   "TapTheTrigger": {
     "hash": 1890422124,
-    "type": "Trait"
-  },
-  "TargetAcquired": {
-    "hash": 939227542,
     "type": "Trait"
   },
   "TargetLock": {
@@ -1443,14 +1126,6 @@
     "hash": 5699512,
     "type": "Haft"
   },
-  "TempestCascade": {
-    "hash": 1208312843,
-    "type": "Trait"
-  },
-  "TemporalUnlimiter": {
-    "hash": 806917387,
-    "type": "Trait"
-  },
   "TexturedGrip": {
     "hash": 3917450714,
     "type": "Grip"
@@ -1459,21 +1134,9 @@
     "hash": 2620589274,
     "type": "Trait"
   },
-  "TheRoadborn": {
-    "hash": 1658733671,
-    "type": "Trait"
-  },
-  "TheScientificMethod": {
-    "hash": 25692695,
-    "type": "Trait"
-  },
   "ThermoplasticGrenades": {
     "hash": 2870095399,
     "type": "Magazine"
-  },
-  "ThinTheHerd": {
-    "hash": 2003108620,
-    "type": "Trait"
   },
   "ThreatDetector": {
     "hash": 4071163871,
@@ -1487,20 +1150,12 @@
     "hash": 3526486541,
     "type": "Trait"
   },
-  "TimeSlip": {
-    "hash": 3556949035,
-    "type": "Trait"
-  },
   "TimedPayload": {
     "hash": 1954620775,
     "type": "Trait"
   },
   "TirelessBlade": {
     "hash": 2590710093,
-    "type": "Trait"
-  },
-  "TithingHarvest": {
-    "hash": 3782773412,
     "type": "Trait"
   },
   "TorchHS3": {
@@ -1546,10 +1201,6 @@
     "hash": 2209918983,
     "type": "Trait"
   },
-  "UmbralSustenance": {
-    "hash": 2395713912,
-    "type": "Trait"
-  },
   "UnderOver": {
     "hash": 1870851715,
     "type": "Trait"
@@ -1560,10 +1211,6 @@
   },
   "Underdog": {
     "hash": 205890336,
-    "type": "Trait"
-  },
-  "UnforeseenRepercussions": {
-    "hash": 3504197951,
     "type": "Trait"
   },
   "Unrelenting": {
@@ -1578,23 +1225,8 @@
     "hash": 4274614370,
     "type": "Trait"
   },
-  "Vermin": {
-    "hash": 861489047,
-    "type": "Trait"
-  },
-  "Vexadecimal": {
-    "hash": 1964414318,
-    "type": "Trait"
-  },
-  "VolatileBattery": {
-    "hash": 185041502,
-    "type": "Battery"
-  },
   "VolatileLaunch": {
-    "hash": [
-      332773068,
-      1478423395
-    ],
+    "hash": 1478423395,
     "type": "Launcher Barrel"
   },
   "Voltshot": {
@@ -1603,14 +1235,6 @@
   },
   "VorpalWeapon": {
     "hash": 1546637391,
-    "type": "Trait"
-  },
-  "WeftCutter": {
-    "hash": 4620383,
-    "type": "Trait"
-  },
-  "WeightedEdge": {
-    "hash": 75282108,
     "type": "Trait"
   },
   "WellRounded": {
@@ -1623,10 +1247,6 @@
   },
   "WhirlwindBlade": {
     "hash": 3913600130,
-    "type": "Trait"
-  },
-  "WormByproduct": {
-    "hash": 1679262379,
     "type": "Trait"
   },
   "ZenMoment": {

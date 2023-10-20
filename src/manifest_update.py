@@ -8,6 +8,7 @@ from config import Colors, Files, Tags
 base_url = "https://bungie.net"
 
 version = None
+local = None
 linked_components: dict
 target_components = [
     'DestinyCollectibleDefinition',
@@ -39,7 +40,8 @@ def main():
             json.dump(filtered_components, file)
 
         print(
-            f'{Tags.DTBS} {Colors.GREEN}Succesfully downloaded the database!{Colors.END} ({version})'
+            f'{Tags.DTBS} {Colors.GREEN}Succesfully downloaded the database!{Colors.END}\n'
+            f'{local} -> {version}'
         )
 
         import manifest_weapons
@@ -61,7 +63,7 @@ def request_manifest():
         return response.json()
     else:
         print(
-            f'{Tags.DTBS} Error loading the manifest! Try again later. '
+            f'{Tags.DTBS} Error loading the manifest! Try again later.\n'
             f'(The servers are either offline or the rate limit has been exceeded.)'
         )
         return None
@@ -69,6 +71,7 @@ def request_manifest():
 
 def check_necessity():
     global version
+    global local
 
     if not os.path.exists(os.path.join(Files.MANIFEST)):
         return True
@@ -78,7 +81,6 @@ def check_necessity():
 
     local = data['version']
 
-    print(f'{Tags.DTBS} Current database version: {local}')
     return local != version
 
 

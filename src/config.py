@@ -30,3 +30,7 @@ class Tags:
     FILE = f'{Colors.YELLOW}[FILE]{Colors.END}'
     DTBS = f'{Colors.BLUE}[DTBS]{Colors.END}'
     DICT = f'{Colors.CYAN}[DICT]{Colors.END}'
+
+
+class Filter:
+    STARRED = [3856705927]

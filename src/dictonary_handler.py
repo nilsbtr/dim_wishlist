@@ -118,18 +118,19 @@ def out_errors():
     global weapon_errors
     global perk_errors
     global roll_errors
-
+    # fmt: off
     if len(weapon_errors):
-        print(f'The following weapons could not be found {Files.DIC_WEAPONS}:')
+        print(f'{Tags.DICT} The following weapons could not be found {Files.DIC_WEAPONS}:')
         for e in weapon_errors:
-            print('   ', e)
+            print(f'       {Colors.BLACK}{e}{Colors.END}')
 
     if len(perk_errors):
-        print(f'The following perks could not be found in {Files.DIC_PERKS}:')
+        print(f'{Tags.DICT} The following perks could not be found in {Files.DIC_PERKS}:')
         for e in perk_errors:
-            print('   ', e)
+            print(f'       {Colors.BLACK}{e}{Colors.END}')
 
     if len(roll_errors):
-        print('The following perks did not fit on a weapon:')
+        print('{Tags.DICT} The following perks did not fit on a weapon:')
         for e in roll_errors:
-            print('   ', e)
+            print(f'       {Colors.BLACK}{e}{Colors.END}')
+    # fmt: on
